@@ -8,9 +8,9 @@ An end-to-end Machine Learning application that detects potentially fraudulent o
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** *(Add your deployment link here)*
+🔗 **Streamlit App:** https://online-transaction-anomaly-detection-system-iydn5oc2bgfappw5jw.streamlit.app/
 
-🔗 **GitHub Repository:** *(Add your repository link here)*
+🔗 **GitHub Repository:** https://github.com/Aastha303/Online-Transaction-Anomaly-Detection-System
 
 ---
 
