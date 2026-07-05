@@ -1,0 +1,3001 @@
+Transaction_ID,User_ID,Transaction_Amount,Transaction_Type,Device_Type,Location,Balance_Before,Balance_After,Transaction_Time
+T00001,U568,929500,UPI,Mobile,Kolkata,,,16:05
+T00002,U308,,Debit Card,Mobile,Bangalore,14054,,25:61
+T00003,U149,₹220,Credit Card,Desktop,,,,25:61
+T00004,U537,14690,Debit Card,Desktop,Mumbai,,,18:39
+T00005,U735,4500,Transfer,Tablet,Delhi,13031,8531,22:54
+T00006,U160,abc,Credit Card,Laptop,Chennai,,,25:61
+T00007,U150,abc,Credit Card,Mobile,Kolkata,,,22:45
+T00008,U279,,Credit Card,Mobile,Chennai,,,25:61
+T00009,U201,₹1079,Credit Card,,Kolkata,14794,,20:19
+T00010,U955,abc,Credit Card,,Delhi,,19898,17:51
+T00011,U252,,Credit Card,Mobile,,7430,,25:61
+T00012,U589,640033,Credit Card,Laptop,Mumbai,,,25:61
+T00013,U905,133932,Credit Card,Mobile,Bangalore,1890,-132042,25:61
+T00014,U261,339199,UPI,Laptop,Chennai,,12235,25:61
+T00015,U549,1208,Credit Card,,Kolkata,,19940,15:52
+T00016,U633,₹2551,Transfer,Mobile,Delhi,,3478,09:36
+T00017,U980,,Credit Card,,Chennai,,,25:61
+T00018,U738,354,UPI,Mobile,Chennai,14248,13894,17:33
+T00019,U329,2835,Card,Laptop,Mumbai,,,25:61
+T00020,U754,1103,Debit Card,Tablet,Bangalore,,9994,23:04
+T00021,U928,abc,Credit Card,Tablet,Delhi,5578,,20:49
+T00022,U398,abc,Transfer,Laptop,Delhi,,,00:31
+T00023,U949,₹734,Credit Card,Laptop,Delhi,,,25:61
+T00024,U975,,Credit Card,,Chennai,,,25:61
+T00025,U414,abc,UPI,Desktop,Kolkata,15464,6166,08:04
+T00026,U520,₹2925,Debit Card,Desktop,Kolkata,,3999,25:61
+T00027,U468,,UPI,Tablet,,,,25:61
+T00028,U101,abc,UPI,Tablet,Chennai,,,25:61
+T00029,U624,abc,UPI,Mobile,Mumbai,6286,,25:61
+T00030,U908,,Card,Mobile,Chennai,,,25:61
+T00031,U617,1757,Transfer,Desktop,Delhi,17441,15684,25:61
+T00032,U176,₹2707,UPI,Desktop,,,,18:50
+T00033,U360,512690,Debit Card,Mobile,,,,25:61
+T00034,U164,3900,Debit Card,Mobile,Kolkata,,,25:61
+T00035,U337,,UPI,Mobile,Bangalore,,,25:61
+T00036,U302,abc,Card,Desktop,,,,25:61
+T00037,U310,abc,Credit Card,Tablet,Bangalore,,7518,08:08
+T00038,U908,4525,Transfer,Laptop,,12372,7847,25:61
+T00039,U139,abc,Debit Card,,Mumbai,4996,19292,25:61
+T00040,U555,,Transfer,Tablet,,,13796,12:41
+T00041,U274,abc,Debit Card,Laptop,Delhi,,,25:61
+T00042,U502,₹1181,Transfer,,Kolkata,,9794,25:61
+T00043,U692,₹4633,Transfer,Laptop,Kolkata,,,25:61
+T00044,U658,,Debit Card,Tablet,Chennai,,-4128,18:45
+T00045,U736,abc,Transfer,Mobile,Chennai,12476,5797,25:61
+T00046,U644,854,Credit Card,Tablet,Bangalore,11740,10886,20:29
+T00047,U563,,Credit Card,Desktop,Mumbai,,,01:45
+T00048,U696,₹2969,Transfer,,Bangalore,1750,,04:06
+T00049,U842,598062,Card,,Chennai,,,23:29
+T00050,U484,,Debit Card,Tablet,Chennai,15051,,16:49
+T00051,U395,₹1457,Credit Card,Tablet,Delhi,,,08:30
+T00052,U460,1571,Card,,,,,25:61
+T00053,U562,₹3289,Credit Card,Tablet,Bangalore,16809,,25:61
+T00054,U185,3136,UPI,Laptop,Delhi,,,25:61
+T00055,U310,,Transfer,,Delhi,,,25:61
+T00056,U137,997540,Transfer,Laptop,Mumbai,10130,-987410,25:61
+T00057,U238,4690,Card,Mobile,Chennai,,,25:61
+T00058,U615,abc,Card,Tablet,Chennai,,14830,04:52
+T00059,U937,₹3984,Card,Tablet,Delhi,,4566,25:61
+T00060,U568,abc,Card,,Chennai,2547,,25:61
+T00061,U901,124104,Credit Card,Laptop,Bangalore,,6058,13:05
+T00062,U914,₹843,Credit Card,Mobile,Bangalore,8415,,12:45
+T00063,U722,,UPI,Mobile,Chennai,,14302,25:61
+T00064,U503,4377,Card,Laptop,,,,25:61
+T00065,U463,898574,Card,,Chennai,,10053,21:08
+T00066,U468,,Credit Card,Desktop,Kolkata,,8443,12:13
+T00067,U562,abc,Transfer,Desktop,,8424,,25:61
+T00068,U520,199310,Transfer,Mobile,Delhi,,,08:19
+T00069,U462,390663,Card,Desktop,Chennai,,,23:58
+T00070,U123,,Debit Card,,Chennai,18471,,25:61
+T00071,U108,277408,Card,Tablet,Bangalore,,13158,25:61
+T00072,U685,₹2210,UPI,Tablet,Delhi,,,25:61
+T00073,U621,3495,Transfer,Mobile,,,,25:61
+T00074,U587,338907,Credit Card,Desktop,Chennai,,17284,25:61
+T00075,U281,406,Card,Laptop,,9704,9298,25:61
+T00076,U917,,Debit Card,Desktop,Bangalore,5071,,25:61
+T00077,U591,1230,Transfer,,Mumbai,,,20:40
+T00078,U207,3269,Credit Card,Mobile,Mumbai,,,16:56
+T00079,U399,880256,Card,Tablet,Chennai,8702,-871554,23:10
+T00080,U408,3814,Transfer,Tablet,,,,25:61
+T00081,U603,904278,UPI,Tablet,Bangalore,,,22:32
+T00082,U154,680,Credit Card,Tablet,Mumbai,,,25:61
+T00083,U753,,UPI,Laptop,Kolkata,6401,,19:32
+T00084,U755,3720,UPI,,Chennai,,-3420,25:61
+T00085,U283,₹4544,Transfer,Desktop,Mumbai,3728,643,03:11
+T00086,U213,,UPI,,Delhi,,,23:50
+T00087,U914,₹3428,Card,Tablet,Chennai,,,04:09
+T00088,U456,1964,UPI,,Delhi,,,25:61
+T00089,U388,₹572,UPI,Desktop,Delhi,4348,,07:32
+T00090,U296,abc,Card,,Chennai,6447,11472,25:61
+T00091,U384,₹1139,Credit Card,Tablet,Kolkata,4149,-3759,25:61
+T00092,U568,841762,Transfer,Tablet,Delhi,,18224,17:04
+T00093,U269,abc,UPI,Tablet,Mumbai,,,25:61
+T00094,U645,abc,Credit Card,Mobile,Chennai,18582,1646,11:14
+T00095,U614,,UPI,Desktop,Mumbai,,,00:31
+T00096,U414,276442,Debit Card,Laptop,Kolkata,5020,-271422,08:26
+T00097,U788,4029,Card,Mobile,Mumbai,,6593,02:55
+T00098,U774,abc,Transfer,Laptop,Delhi,,,08:42
+T00099,U329,₹1788,Transfer,,Bangalore,,4384,04:13
+T00100,U688,₹2006,Transfer,Mobile,Delhi,1574,,12:07
+T00101,U392,41549,Transfer,Mobile,,,1335,17:50
+T00102,U958,abc,UPI,Tablet,Chennai,15235,,25:61
+T00103,U851,₹1367,Debit Card,Tablet,Mumbai,,6091,08:18
+T00104,U748,,Transfer,Mobile,Mumbai,,1956,08:13
+T00105,U544,,Transfer,Desktop,,,,25:61
+T00106,U774,,UPI,Desktop,,1410,,25:61
+T00107,U426,₹544,Transfer,Laptop,Bangalore,,2426,25:61
+T00108,U808,,Transfer,,Mumbai,,,25:61
+T00109,U274,₹2189,UPI,Desktop,Chennai,,12282,25:61
+T00110,U110,₹1009,Credit Card,Mobile,,,617,15:03
+T00111,U534,₹429,Card,Desktop,Chennai,6468,-3757,25:61
+T00112,U991,,Credit Card,,,12065,-4012,01:42
+T00113,U738,1166,Card,Laptop,Bangalore,,12463,25:61
+T00114,U283,₹4730,UPI,Desktop,Chennai,4769,,06:30
+T00115,U669,₹3357,UPI,,Kolkata,,13067,19:59
+T00116,U983,475877,UPI,Desktop,Delhi,,,11:56
+T00117,U589,2879,Card,Tablet,Bangalore,,,25:61
+T00118,U977,272,Debit Card,Desktop,Bangalore,8190,7918,00:22
+T00119,U347,abc,Credit Card,Laptop,,,-4609,02:27
+T00120,U785,,Transfer,,Bangalore,,,02:28
+T00121,U903,4864,UPI,Laptop,Mumbai,,,25:61
+T00122,U174,₹2632,Transfer,,Bangalore,18167,-1030,18:48
+T00123,U432,₹4625,Credit Card,,,,1578,15:41
+T00124,U205,,Transfer,Laptop,,6208,3011,25:61
+T00125,U512,,Card,,,,,13:08
+T00126,U958,202096,UPI,Laptop,Delhi,,4026,25:61
+T00127,U494,2218,Debit Card,Desktop,,,,22:48
+T00128,U878,₹4671,Credit Card,Desktop,Kolkata,4677,,12:40
+T00129,U243,577829,Credit Card,Laptop,,,,25:61
+T00130,U180,abc,UPI,Tablet,Bangalore,,-979,07:04
+T00131,U774,abc,UPI,Desktop,Mumbai,16756,-3866,18:05
+T00132,U216,,Transfer,Tablet,Mumbai,,,25:61
+T00133,U771,₹3535,Transfer,,,,5120,25:61
+T00134,U139,53727,Card,Desktop,,6122,-47605,25:61
+T00135,U530,2211,Card,Mobile,Bangalore,,,20:28
+T00136,U117,154728,Transfer,Mobile,,,,04:39
+T00137,U182,,Card,Desktop,Mumbai,,,13:52
+T00138,U958,abc,Card,Mobile,Kolkata,17241,5567,25:61
+T00139,U181,,UPI,Desktop,Delhi,,,06:17
+T00140,U443,28,Transfer,Laptop,Bangalore,,,25:61
+T00141,U274,abc,Card,Laptop,,,,06:04
+T00142,U511,₹220,Credit Card,,Bangalore,,,25:61
+T00143,U359,₹2085,Card,,Kolkata,4843,-85,22:17
+T00144,U251,₹4772,UPI,Laptop,Kolkata,,11551,17:49
+T00145,U370,3767,Debit Card,,,,19897,11:31
+T00146,U878,161366,Credit Card,Mobile,Chennai,,3663,23:52
+T00147,U597,1093,UPI,Tablet,Bangalore,,,10:29
+T00148,U273,206923,Transfer,Tablet,,11302,-195621,25:61
+T00149,U171,474882,Debit Card,,,10583,-464299,01:19
+T00150,U900,abc,Transfer,Laptop,Kolkata,,,25:61
+T00151,U548,₹3498,UPI,Laptop,Chennai,,,25:61
+T00152,U730,abc,Credit Card,,Mumbai,,18293,25:61
+T00153,U516,₹4464,Card,Tablet,Delhi,1442,,25:61
+T00154,U903,,Debit Card,Laptop,Bangalore,18113,,25:61
+T00155,U465,₹3982,Debit Card,,Chennai,,,25:61
+T00156,U347,4628,Debit Card,Mobile,Delhi,4808,180,05:11
+T00157,U164,abc,Transfer,Desktop,Chennai,,5290,25:61
+T00158,U735,,Card,,Bangalore,6033,,25:61
+T00159,U944,,Credit Card,Tablet,Bangalore,6730,,23:32
+T00160,U300,abc,Debit Card,,Chennai,,,25:61
+T00161,U312,3623,Transfer,Tablet,Mumbai,5176,1553,25:61
+T00162,U336,530013,Card,Mobile,Mumbai,,-41,25:61
+T00163,U196,3199,Debit Card,Desktop,Kolkata,17894,14695,13:33
+T00164,U385,624783,UPI,Tablet,,6214,-618569,25:61
+T00165,U597,,Card,Mobile,,,,00:48
+T00166,U125,520717,Credit Card,Desktop,Kolkata,,9961,25:61
+T00167,U269,2142,Debit Card,Tablet,Kolkata,,,16:06
+T00168,U812,,Transfer,Tablet,Bangalore,13384,,12:31
+T00169,U311,1000,Transfer,Desktop,Kolkata,,,16:39
+T00170,U482,,Transfer,Laptop,Chennai,18931,11663,17:27
+T00171,U638,693343,Transfer,Desktop,Chennai,7257,-686086,04:36
+T00172,U213,₹2335,Credit Card,Tablet,Kolkata,4675,,03:01
+T00173,U382,2695,Credit Card,Mobile,,,,10:34
+T00174,U413,,Transfer,Laptop,Chennai,19271,3290,25:61
+T00175,U585,925572,Transfer,,Chennai,7083,-918489,12:45
+T00176,U654,₹425,Credit Card,Desktop,Delhi,,,09:32
+T00177,U760,,UPI,Laptop,Mumbai,14173,,01:58
+T00178,U233,1197,UPI,,Bangalore,,,25:61
+T00179,U316,₹1459,Credit Card,Laptop,Chennai,,,11:03
+T00180,U265,,Credit Card,Laptop,Delhi,2226,,25:61
+T00181,U875,2442,Debit Card,Desktop,Delhi,,,25:61
+T00182,U223,499877,Transfer,Laptop,Delhi,10286,-489591,25:61
+T00183,U399,abc,Card,Laptop,Mumbai,17199,13508,25:61
+T00184,U393,₹2435,UPI,Laptop,Mumbai,,,15:07
+T00185,U744,3880,Card,Desktop,Kolkata,,2625,25:61
+T00186,U330,abc,UPI,Laptop,Mumbai,,,25:61
+T00187,U778,313088,UPI,,Mumbai,,18062,25:61
+T00188,U874,4925,Transfer,,Delhi,,,25:61
+T00189,U405,188301,Credit Card,Desktop,Mumbai,,,12:19
+T00190,U496,3585,Card,,Mumbai,,,25:61
+T00191,U746,₹1776,Credit Card,Tablet,Mumbai,,,25:61
+T00192,U448,,Credit Card,Laptop,Chennai,,13472,25:61
+T00193,U796,abc,UPI,,,9540,,04:24
+T00194,U713,,Transfer,Desktop,,,,25:61
+T00195,U961,287230,Card,Laptop,Bangalore,,8003,25:61
+T00196,U179,324,Debit Card,,Kolkata,17321,16997,04:19
+T00197,U331,1744,Debit Card,,Bangalore,13651,11907,23:11
+T00198,U437,177806,UPI,,Kolkata,,,09:18
+T00199,U319,₹2778,UPI,Tablet,Bangalore,,,25:61
+T00200,U586,₹448,UPI,Laptop,Chennai,15292,15253,25:61
+T00201,U188,172573,Transfer,Laptop,Kolkata,,,25:61
+T00202,U691,abc,Transfer,Tablet,,,,05:09
+T00203,U934,,Debit Card,Tablet,Delhi,18607,,15:46
+T00204,U622,318160,UPI,Desktop,Mumbai,18282,-299878,15:56
+T00205,U489,,Credit Card,Mobile,Delhi,,,14:26
+T00206,U362,abc,Credit Card,Tablet,Chennai,,18619,16:44
+T00207,U625,₹1704,UPI,Mobile,Kolkata,,,25:61
+T00208,U865,abc,UPI,Laptop,Chennai,,2969,25:61
+T00209,U554,2851,Card,Tablet,Mumbai,1956,-895,25:61
+T00210,U955,602712,Card,Desktop,Kolkata,,,25:61
+T00211,U280,2882,Debit Card,,Kolkata,15351,12469,25:61
+T00212,U122,abc,Credit Card,Mobile,Bangalore,,4013,25:61
+T00213,U846,₹1838,Transfer,Desktop,Chennai,,,17:12
+T00214,U123,₹3538,Credit Card,Desktop,Delhi,18618,,13:54
+T00215,U476,,Debit Card,Laptop,Chennai,2250,6434,23:19
+T00216,U412,abc,UPI,Tablet,,,,25:61
+T00217,U402,abc,UPI,Desktop,,,-2312,25:61
+T00218,U907,584,Transfer,Laptop,Bangalore,,,25:61
+T00219,U869,4082,UPI,,Kolkata,18481,14399,08:43
+T00220,U490,2437,Credit Card,Desktop,Bangalore,8968,6531,09:30
+T00221,U857,₹545,Credit Card,Tablet,Bangalore,15143,,05:36
+T00222,U668,₹2426,Transfer,Laptop,,,,25:61
+T00223,U229,,Transfer,Desktop,Mumbai,,9740,06:13
+T00224,U351,abc,Debit Card,Mobile,Mumbai,6732,,25:61
+T00225,U833,2209,Debit Card,Tablet,,19330,17121,25:61
+T00226,U165,abc,Card,Tablet,Mumbai,,,25:61
+T00227,U711,589,UPI,Tablet,Delhi,12023,11434,04:37
+T00228,U568,,Transfer,Desktop,Bangalore,4123,8877,25:61
+T00229,U439,753721,UPI,Desktop,Kolkata,,1836,25:61
+T00230,U670,,Debit Card,Tablet,Chennai,,14565,25:61
+T00231,U751,,Transfer,,Chennai,5900,,04:51
+T00232,U723,,Credit Card,Laptop,Mumbai,,,14:42
+T00233,U204,,Debit Card,Desktop,Delhi,13206,-4893,23:01
+T00234,U225,4634,Credit Card,,,,,25:61
+T00235,U813,abc,Transfer,,,,,04:21
+T00236,U669,545255,Card,Desktop,Mumbai,,,25:61
+T00237,U600,385469,UPI,Laptop,Chennai,1777,-383692,01:13
+T00238,U421,₹2465,Transfer,,Chennai,2140,13757,07:12
+T00239,U226,abc,Card,Laptop,Delhi,12741,,09:41
+T00240,U211,4985,Debit Card,Mobile,Bangalore,,11837,19:16
+T00241,U993,81429,Credit Card,,Mumbai,,19788,19:52
+T00242,U469,570,Card,Tablet,Mumbai,,,25:61
+T00243,U246,332194,Card,,Bangalore,18693,-313501,25:61
+T00244,U564,,UPI,Laptop,Bangalore,,10946,01:46
+T00245,U701,₹2619,Transfer,Mobile,,16439,968,18:00
+T00246,U878,,Card,Desktop,Kolkata,,,04:35
+T00247,U562,,Card,Tablet,,,,01:09
+T00248,U990,abc,Credit Card,Desktop,Bangalore,,,25:61
+T00249,U364,127230,UPI,Mobile,,2591,-124639,13:17
+T00250,U642,abc,Credit Card,Tablet,,,-2267,25:61
+T00251,U497,,Card,Tablet,,,,25:61
+T00252,U823,₹2653,Debit Card,Tablet,Mumbai,,,22:24
+T00253,U735,₹2200,Debit Card,Laptop,,,,19:51
+T00254,U647,3437,Debit Card,,Mumbai,12155,8718,22:12
+T00255,U745,,Debit Card,Desktop,Mumbai,8833,,07:46
+T00256,U159,239,Debit Card,Laptop,Delhi,,18512,25:61
+T00257,U698,4803,Transfer,Tablet,Kolkata,,,14:14
+T00258,U113,abc,Transfer,Laptop,Delhi,,,06:31
+T00259,U415,,Card,Desktop,Mumbai,6667,12793,25:61
+T00260,U263,,UPI,Desktop,Kolkata,,,15:34
+T00261,U940,₹1198,Credit Card,Desktop,Delhi,,,17:55
+T00262,U762,573669,Credit Card,Laptop,,12340,-561329,19:26
+T00263,U982,₹1343,Credit Card,Desktop,Mumbai,9087,,25:61
+T00264,U535,abc,UPI,Tablet,Mumbai,7592,,25:61
+T00265,U426,1437,Credit Card,,Delhi,,,15:01
+T00266,U394,,Credit Card,Tablet,,,,25:61
+T00267,U730,abc,Debit Card,Tablet,Kolkata,,,23:27
+T00268,U320,abc,Transfer,Mobile,Chennai,,,25:61
+T00269,U555,abc,Credit Card,Tablet,Delhi,12557,,25:61
+T00270,U202,2300,Transfer,Tablet,Bangalore,,,16:05
+T00271,U903,,UPI,,Delhi,,,14:01
+T00272,U529,1665,Credit Card,Laptop,Bangalore,,,20:53
+T00273,U134,abc,Debit Card,Laptop,Mumbai,,10422,14:24
+T00274,U228,670232,Debit Card,,Bangalore,,,14:14
+T00275,U502,1195,Transfer,Tablet,Delhi,,,25:61
+T00276,U955,337998,Credit Card,Mobile,Delhi,,1754,10:14
+T00277,U865,379895,Credit Card,Desktop,Bangalore,5852,-374043,25:61
+T00278,U701,,Card,,Kolkata,,,05:01
+T00279,U662,509744,Credit Card,Laptop,Delhi,9320,-500424,08:52
+T00280,U279,544450,Transfer,Mobile,Delhi,6035,-538415,05:26
+T00281,U923,abc,Debit Card,Laptop,Bangalore,,-3792,14:06
+T00282,U881,3702,UPI,,Bangalore,,,08:06
+T00283,U366,352911,Debit Card,Desktop,Kolkata,,,21:14
+T00284,U427,298172,Debit Card,Desktop,,8129,-290043,17:16
+T00285,U707,abc,Credit Card,,Kolkata,,,25:61
+T00286,U879,abc,Card,Desktop,Chennai,,,22:40
+T00287,U436,abc,Credit Card,Desktop,Kolkata,8145,6695,25:61
+T00288,U433,4439,Debit Card,Tablet,Kolkata,7893,3454,25:61
+T00289,U696,abc,Card,Desktop,Kolkata,,,12:01
+T00290,U560,4379,Card,Tablet,Chennai,,,05:07
+T00291,U261,abc,Transfer,Desktop,Mumbai,,,06:30
+T00292,U505,abc,Credit Card,Tablet,,11629,,10:15
+T00293,U313,662510,UPI,Desktop,Mumbai,,,03:16
+T00294,U504,183889,Credit Card,Desktop,,,19863,25:61
+T00295,U586,,Card,Laptop,Chennai,,,25:61
+T00296,U788,₹2089,Card,Tablet,Delhi,,,25:61
+T00297,U472,abc,Card,Tablet,Bangalore,,,25:61
+T00298,U521,₹2515,UPI,Desktop,Kolkata,8447,,20:27
+T00299,U998,,Credit Card,Desktop,Mumbai,1208,,17:53
+T00300,U878,abc,Transfer,Laptop,Delhi,15988,,17:08
+T00301,U936,,Credit Card,Laptop,Bangalore,17783,-3901,11:42
+T00302,U247,,Transfer,Tablet,Delhi,,,16:39
+T00303,U887,3773,Credit Card,Mobile,Bangalore,,,06:13
+T00304,U999,,Card,,Kolkata,6096,12258,21:31
+T00305,U676,2791,Card,Mobile,,2927,136,05:05
+T00306,U762,abc,Card,,Kolkata,,,25:61
+T00307,U728,713383,Card,Desktop,,,10978,25:61
+T00308,U794,232034,Credit Card,Laptop,,,,06:15
+T00309,U261,,Credit Card,Laptop,Kolkata,,,25:61
+T00310,U870,3576,UPI,,Kolkata,10572,6996,25:61
+T00311,U776,1223,Card,Mobile,,14513,13290,25:61
+T00312,U651,,UPI,,Chennai,,15393,19:18
+T00313,U538,,Debit Card,,,,,25:61
+T00314,U542,,UPI,,Bangalore,,10456,04:13
+T00315,U178,,Debit Card,,Kolkata,18225,,25:61
+T00316,U967,615652,Debit Card,,Chennai,,,03:23
+T00317,U455,₹4470,Transfer,Tablet,Chennai,18829,,00:19
+T00318,U867,,Debit Card,Tablet,Delhi,,,25:61
+T00319,U790,₹1847,UPI,Desktop,Kolkata,,8185,25:61
+T00320,U332,,Credit Card,Laptop,Kolkata,,5805,09:53
+T00321,U323,1913,Transfer,Mobile,,,14446,14:32
+T00322,U114,3563,Credit Card,Tablet,Kolkata,,,25:61
+T00323,U974,abc,Card,Tablet,Mumbai,5338,,05:27
+T00324,U835,abc,Debit Card,Mobile,Delhi,,19630,25:61
+T00325,U920,2991,Transfer,Desktop,,,16798,25:61
+T00326,U701,2413,UPI,Tablet,Chennai,,,15:28
+T00327,U521,abc,Transfer,Tablet,,,,25:61
+T00328,U721,abc,Debit Card,Laptop,Delhi,,,25:61
+T00329,U939,1507,Debit Card,Tablet,Delhi,7736,6229,14:39
+T00330,U768,978900,Transfer,Laptop,Chennai,,14702,25:61
+T00331,U130,₹4112,UPI,Laptop,Chennai,,,25:61
+T00332,U496,782,Debit Card,Tablet,Chennai,,,14:39
+T00333,U978,777271,Card,Laptop,Chennai,,-4380,15:04
+T00334,U626,₹682,Debit Card,Desktop,Bangalore,,,25:61
+T00335,U306,₹223,Debit Card,Desktop,Kolkata,16190,,03:28
+T00336,U708,691192,Debit Card,,Bangalore,,231,25:61
+T00337,U737,703957,Card,Mobile,Chennai,10199,-693758,22:52
+T00338,U368,abc,UPI,Desktop,Mumbai,,,25:61
+T00339,U860,70361,Credit Card,Mobile,,,6158,25:61
+T00340,U598,abc,UPI,Desktop,Chennai,,-4177,25:61
+T00341,U509,₹2373,Credit Card,,Bangalore,,,25:61
+T00342,U356,abc,Transfer,Laptop,Bangalore,5432,1183,22:55
+T00343,U998,4722,Credit Card,Tablet,Mumbai,8520,3798,10:01
+T00344,U480,,Debit Card,,Kolkata,,-2215,25:61
+T00345,U623,52,Transfer,Desktop,,,,14:50
+T00346,U233,,Card,Tablet,Delhi,16294,,25:61
+T00347,U761,596,Transfer,Mobile,Bangalore,,11893,25:61
+T00348,U354,abc,UPI,Mobile,,8947,,25:61
+T00349,U950,2124,UPI,Laptop,Bangalore,,9202,12:00
+T00350,U433,,Transfer,Mobile,Bangalore,,,18:28
+T00351,U188,703381,Debit Card,Desktop,,,,13:09
+T00352,U470,abc,UPI,Mobile,,,,03:37
+T00353,U885,abc,Transfer,Mobile,Chennai,,6368,22:39
+T00354,U806,464044,Card,Laptop,Bangalore,,,25:61
+T00355,U820,2831,Debit Card,Tablet,Mumbai,9632,6801,22:09
+T00356,U972,abc,Debit Card,Laptop,Mumbai,,,25:61
+T00357,U654,abc,Credit Card,Tablet,Kolkata,,886,16:44
+T00358,U738,998391,Card,Mobile,,8125,-990266,09:43
+T00359,U417,abc,UPI,Laptop,Mumbai,9283,,25:61
+T00360,U202,377822,Credit Card,Mobile,Bangalore,10458,-367364,25:61
+T00361,U928,43878,UPI,Desktop,,,,13:48
+T00362,U483,abc,Credit Card,Desktop,Delhi,,15789,25:61
+T00363,U716,641169,Transfer,Desktop,Kolkata,,1136,00:48
+T00364,U796,₹493,UPI,,Bangalore,,17735,22:33
+T00365,U663,4296,Credit Card,Mobile,Delhi,,,14:46
+T00366,U320,₹1498,UPI,,Mumbai,,6649,16:59
+T00367,U110,3676,Credit Card,,Mumbai,15798,12122,06:11
+T00368,U715,2996,Credit Card,Laptop,Kolkata,,,25:61
+T00369,U633,318786,UPI,,Delhi,19972,-298814,25:61
+T00370,U789,2670,Transfer,Tablet,Delhi,8996,6326,20:37
+T00371,U846,,Card,Desktop,Bangalore,,-1183,16:19
+T00372,U456,,Credit Card,Mobile,Mumbai,,,17:38
+T00373,U675,,Credit Card,Tablet,Kolkata,,,25:61
+T00374,U227,372967,Credit Card,Mobile,Delhi,,18675,04:01
+T00375,U213,416373,Card,Mobile,,,,12:22
+T00376,U173,abc,Transfer,,Delhi,,-1045,05:03
+T00377,U746,800075,UPI,,,,,25:61
+T00378,U639,457453,Credit Card,Tablet,Bangalore,,8251,04:10
+T00379,U925,abc,Transfer,Mobile,Mumbai,,,15:06
+T00380,U824,3571,Debit Card,,Delhi,5907,2336,05:40
+T00381,U201,,Debit Card,Desktop,Chennai,,,21:50
+T00382,U384,,Credit Card,Mobile,Chennai,5312,,25:61
+T00383,U982,₹3408,Transfer,Mobile,,,,04:57
+T00384,U958,abc,Credit Card,Mobile,Chennai,12786,,25:61
+T00385,U340,2213,Debit Card,Desktop,Bangalore,,156,25:61
+T00386,U732,1015,Transfer,Tablet,Mumbai,,18279,25:61
+T00387,U157,,Transfer,Laptop,Mumbai,14339,5350,03:27
+T00388,U116,69922,Debit Card,,Chennai,,,25:61
+T00389,U975,₹2607,UPI,,Delhi,,,25:61
+T00390,U150,abc,Card,,Kolkata,,,07:47
+T00391,U403,abc,Transfer,Mobile,Chennai,16568,11527,12:58
+T00392,U735,4966,Transfer,Mobile,,,9369,17:26
+T00393,U149,abc,Credit Card,Laptop,Chennai,,18146,25:61
+T00394,U784,2972,Transfer,Desktop,Chennai,,-749,16:59
+T00395,U897,981892,Transfer,Tablet,Bangalore,6221,-975671,12:53
+T00396,U579,3265,Credit Card,Laptop,Chennai,,,15:59
+T00397,U457,abc,UPI,,Kolkata,5704,,10:27
+T00398,U382,abc,UPI,,Delhi,,,25:61
+T00399,U402,3312,Transfer,Tablet,Mumbai,,5140,25:61
+T00400,U498,622623,UPI,Tablet,Delhi,8560,-614063,06:02
+T00401,U780,3285,Credit Card,Tablet,Bangalore,9685,6400,05:04
+T00402,U672,₹4685,Credit Card,Desktop,Mumbai,12484,18271,10:37
+T00403,U719,,Transfer,Tablet,,11788,3845,25:61
+T00404,U466,114560,Card,Desktop,Bangalore,15561,-98999,11:12
+T00405,U356,3017,Debit Card,Tablet,Delhi,,,08:12
+T00406,U502,192642,Credit Card,Laptop,Kolkata,,,07:24
+T00407,U950,940,Credit Card,Mobile,Bangalore,,,10:08
+T00408,U606,927911,Credit Card,Desktop,,,5852,25:61
+T00409,U954,₹2421,UPI,Desktop,Mumbai,18590,13213,00:36
+T00410,U132,233546,Credit Card,Mobile,Chennai,,10928,25:61
+T00411,U109,abc,Credit Card,Tablet,,7764,,10:00
+T00412,U988,1588,Transfer,Tablet,Kolkata,3112,1524,25:61
+T00413,U100,149,Transfer,Mobile,Kolkata,,,25:61
+T00414,U864,abc,Card,Desktop,Kolkata,,8814,25:61
+T00415,U761,3507,Credit Card,Desktop,,,1500,25:61
+T00416,U973,₹763,Debit Card,Desktop,Delhi,,,11:27
+T00417,U953,abc,Card,,Chennai,1703,13240,25:61
+T00418,U552,2764,Card,Tablet,Bangalore,,,25:61
+T00419,U522,,UPI,Mobile,Chennai,,,25:61
+T00420,U134,abc,Transfer,Mobile,Kolkata,,,11:39
+T00421,U173,4217,Credit Card,Laptop,Delhi,,5245,14:29
+T00422,U528,2781,Transfer,,,,,13:39
+T00423,U881,,Transfer,Laptop,Delhi,,,00:31
+T00424,U632,,Transfer,Mobile,Bangalore,,,00:57
+T00425,U641,718593,Card,Tablet,Chennai,,,25:61
+T00426,U693,₹4765,Credit Card,Desktop,Mumbai,,,22:09
+T00427,U829,725,UPI,,Delhi,,9429,04:18
+T00428,U588,,UPI,Desktop,Bangalore,12281,,25:61
+T00429,U155,525301,UPI,,,,,07:21
+T00430,U784,abc,UPI,,Chennai,,,25:61
+T00431,U984,₹1692,Debit Card,,Kolkata,,,25:61
+T00432,U780,₹4744,Card,Tablet,,3304,,25:61
+T00433,U797,₹488,Debit Card,,Delhi,,,25:61
+T00434,U191,986748,Card,Tablet,Chennai,13460,-973288,17:21
+T00435,U408,,Card,Mobile,,,4132,25:61
+T00436,U698,,Transfer,Tablet,,,,13:20
+T00437,U898,₹2300,Transfer,Laptop,Delhi,11756,,25:61
+T00438,U833,₹607,UPI,,Bangalore,,,08:59
+T00439,U343,323967,Credit Card,Mobile,Chennai,,,25:61
+T00440,U572,,Card,Laptop,Bangalore,,-1411,12:42
+T00441,U187,₹998,Debit Card,Mobile,Delhi,,,15:30
+T00442,U750,abc,Transfer,Mobile,Kolkata,,,08:06
+T00443,U230,1983,Credit Card,Desktop,Mumbai,,,21:45
+T00444,U642,986443,UPI,Desktop,,,,25:61
+T00445,U399,140,Debit Card,Desktop,Chennai,7111,6971,09:32
+T00446,U896,abc,Credit Card,Desktop,,3227,,03:16
+T00447,U808,abc,Card,,Kolkata,,638,10:35
+T00448,U321,abc,Transfer,Tablet,Mumbai,,,17:19
+T00449,U151,399,Transfer,Laptop,Bangalore,,,25:61
+T00450,U517,abc,Transfer,Laptop,Bangalore,6963,,25:61
+T00451,U697,abc,Debit Card,Desktop,Bangalore,,,13:57
+T00452,U591,,Credit Card,Mobile,Kolkata,,,22:00
+T00453,U680,3752,Transfer,Desktop,Mumbai,,,25:61
+T00454,U509,abc,Credit Card,,Bangalore,11525,11208,20:31
+T00455,U233,245254,Card,Laptop,Bangalore,,,21:40
+T00456,U928,₹837,Debit Card,Tablet,Bangalore,,,25:61
+T00457,U452,523727,Transfer,Mobile,,,11812,25:61
+T00458,U214,₹1955,UPI,Tablet,Kolkata,,14889,15:58
+T00459,U938,468742,Card,,Delhi,,,25:61
+T00460,U230,₹2766,Credit Card,Mobile,Chennai,16929,,25:61
+T00461,U719,abc,UPI,Laptop,Chennai,,5411,18:23
+T00462,U286,abc,Transfer,Mobile,Kolkata,,,19:54
+T00463,U811,₹1295,Credit Card,Laptop,Delhi,,,10:01
+T00464,U540,,UPI,Mobile,Delhi,,,25:61
+T00465,U446,964690,Transfer,,Bangalore,,,25:61
+T00466,U137,₹2605,Transfer,Tablet,Mumbai,,,25:61
+T00467,U272,,UPI,Tablet,Delhi,,-4295,25:61
+T00468,U148,499780,UPI,Tablet,,13777,-486003,25:61
+T00469,U326,,Credit Card,,,,1954,25:61
+T00470,U284,2867,Card,,Delhi,,,25:61
+T00471,U869,₹4573,Card,Laptop,Bangalore,16767,18360,25:61
+T00472,U773,,Card,Mobile,,6087,18527,06:02
+T00473,U851,,UPI,Tablet,Mumbai,5130,,25:61
+T00474,U589,2048,UPI,Tablet,Bangalore,,19051,25:61
+T00475,U123,,Transfer,Tablet,Delhi,,,17:30
+T00476,U180,,Transfer,Desktop,Delhi,,-3236,14:59
+T00477,U626,abc,Debit Card,Laptop,,15502,14419,09:36
+T00478,U715,83814,Card,Laptop,Mumbai,,,12:18
+T00479,U412,535863,Debit Card,Laptop,,13260,-522603,25:61
+T00480,U803,,Credit Card,Tablet,Delhi,1501,,25:61
+T00481,U975,,Card,Mobile,Bangalore,,,20:31
+T00482,U714,abc,Transfer,,Delhi,,18957,04:31
+T00483,U370,abc,Credit Card,Desktop,,,,09:55
+T00484,U475,348766,UPI,Mobile,,,8278,25:61
+T00485,U634,abc,UPI,Desktop,Chennai,1175,,04:31
+T00486,U700,,Card,Mobile,Delhi,19679,,21:49
+T00487,U290,934335,Card,Tablet,Bangalore,,,25:61
+T00488,U576,4825,Card,Mobile,,18138,13313,25:61
+T00489,U459,4478,Card,Laptop,Delhi,,,13:20
+T00490,U395,₹2273,Credit Card,Laptop,Kolkata,,,18:11
+T00491,U719,3667,Card,Laptop,,,15302,19:48
+T00492,U772,,Transfer,Desktop,Kolkata,,18212,25:61
+T00493,U908,,UPI,Laptop,Chennai,1502,,25:61
+T00494,U671,3172,Transfer,,Kolkata,,15378,11:11
+T00495,U561,1592,UPI,Mobile,Mumbai,,,15:53
+T00496,U983,3207,UPI,Mobile,,12431,9224,25:61
+T00497,U482,324595,Debit Card,Laptop,Delhi,14572,-310023,12:13
+T00498,U466,₹1315,Debit Card,,Kolkata,,,25:61
+T00499,U345,abc,UPI,Tablet,Chennai,,14622,25:61
+T00500,U568,abc,Card,Tablet,Bangalore,,12046,25:61
+T00501,U849,2984,Credit Card,Laptop,,,11579,25:61
+T00502,U839,,Debit Card,Desktop,Mumbai,,16809,15:36
+T00503,U570,4058,Card,,,,,00:43
+T00504,U212,245,Card,Tablet,,,,06:56
+T00505,U106,,Card,,Mumbai,,,13:33
+T00506,U476,,Debit Card,Desktop,Delhi,8925,6538,10:56
+T00507,U510,,UPI,Laptop,Bangalore,16095,,14:17
+T00508,U738,abc,Card,Laptop,Chennai,7746,,25:61
+T00509,U333,1488,Credit Card,Desktop,Mumbai,10229,8741,25:61
+T00510,U379,3101,UPI,Tablet,Mumbai,,12667,25:61
+T00511,U441,,Debit Card,Laptop,,7463,,25:61
+T00512,U232,290996,Transfer,Tablet,,,,25:61
+T00513,U416,₹2482,Transfer,Desktop,Mumbai,,,25:61
+T00514,U638,abc,Card,,Bangalore,,,25:61
+T00515,U547,702080,Transfer,,Bangalore,10521,-691559,06:23
+T00516,U244,,Credit Card,Laptop,Bangalore,,,25:61
+T00517,U543,abc,Transfer,,Chennai,,11603,25:61
+T00518,U908,539858,Debit Card,,Mumbai,,,25:61
+T00519,U451,abc,Card,,Bangalore,10109,,06:42
+T00520,U229,306338,Card,,Delhi,4450,-301888,25:61
+T00521,U719,,Debit Card,Laptop,Mumbai,,1428,25:61
+T00522,U953,,Credit Card,Laptop,Kolkata,7107,17839,25:61
+T00523,U699,,Debit Card,Desktop,Mumbai,,,09:53
+T00524,U221,,Debit Card,Tablet,,,,16:32
+T00525,U223,276963,Credit Card,Desktop,Delhi,,13809,25:61
+T00526,U320,abc,UPI,Laptop,,10423,,25:61
+T00527,U692,,Transfer,Laptop,,,14932,25:61
+T00528,U820,,Card,Tablet,Chennai,,-933,20:04
+T00529,U602,₹4512,UPI,Laptop,,,3704,01:58
+T00530,U322,₹4841,Card,Mobile,Delhi,,,18:21
+T00531,U246,,Card,Laptop,Chennai,,,17:51
+T00532,U815,,Debit Card,,Chennai,,,25:61
+T00533,U918,,UPI,Mobile,,7469,,25:61
+T00534,U603,769173,Debit Card,Mobile,Chennai,,,19:23
+T00535,U627,,Card,Mobile,,,-651,25:61
+T00536,U510,1588,Card,Tablet,Chennai,,,00:28
+T00537,U805,,UPI,Tablet,Bangalore,,,20:09
+T00538,U358,₹625,UPI,,Bangalore,,11415,10:00
+T00539,U547,,Debit Card,Laptop,Bangalore,,,25:61
+T00540,U234,374824,Debit Card,Desktop,,,,25:61
+T00541,U151,₹279,Credit Card,Tablet,Chennai,,,17:45
+T00542,U569,3147,Debit Card,Tablet,,8142,4995,25:61
+T00543,U637,,Debit Card,Mobile,,6444,,14:00
+T00544,U939,868102,Card,Desktop,Kolkata,,,19:40
+T00545,U870,1734,Debit Card,,Kolkata,6555,4821,07:53
+T00546,U129,abc,UPI,,,7153,,25:61
+T00547,U450,719687,UPI,Mobile,Bangalore,13361,-706326,03:43
+T00548,U872,,Credit Card,Tablet,Bangalore,7880,,25:61
+T00549,U515,608493,Credit Card,Desktop,Bangalore,,,25:61
+T00550,U403,₹1895,Debit Card,,Mumbai,,,25:61
+T00551,U872,abc,Debit Card,Mobile,,,,25:61
+T00552,U861,₹232,UPI,Desktop,Mumbai,14964,,25:61
+T00553,U964,99583,Debit Card,Desktop,Bangalore,13796,-85787,00:35
+T00554,U997,861199,Transfer,Laptop,Mumbai,4103,-857096,25:61
+T00555,U154,abc,Card,Laptop,,,16186,25:61
+T00556,U968,₹4802,Credit Card,Laptop,,,,04:36
+T00557,U900,,Transfer,,Chennai,16937,,06:54
+T00558,U650,932302,Card,Laptop,Bangalore,,13783,25:61
+T00559,U697,,Transfer,Tablet,,,7044,08:57
+T00560,U990,abc,Transfer,Tablet,,2564,,25:61
+T00561,U802,,Card,,Mumbai,15405,,07:52
+T00562,U424,abc,Credit Card,Desktop,Delhi,,,15:25
+T00563,U628,₹2272,Card,Tablet,Chennai,,,22:06
+T00564,U140,₹2614,UPI,Laptop,Chennai,,,22:23
+T00565,U739,329720,Transfer,Desktop,Kolkata,,,18:55
+T00566,U844,abc,Debit Card,,Mumbai,,2893,17:39
+T00567,U474,410,Debit Card,Mobile,Mumbai,,,25:61
+T00568,U613,313762,Credit Card,Tablet,Chennai,19139,-294623,25:61
+T00569,U674,,Transfer,Desktop,Chennai,2930,,20:51
+T00570,U438,2087,UPI,,Chennai,7949,5862,25:61
+T00571,U736,abc,Transfer,,Delhi,,,25:61
+T00572,U410,₹1197,Debit Card,Laptop,Chennai,,,25:61
+T00573,U850,211,Debit Card,Laptop,,8056,7845,25:61
+T00574,U150,₹569,Transfer,,Mumbai,,,21:50
+T00575,U395,₹4614,Card,Mobile,Chennai,13670,153,07:08
+T00576,U561,4418,Credit Card,Mobile,,,,02:17
+T00577,U225,,Credit Card,,Chennai,,18850,02:19
+T00578,U695,822394,Transfer,,Chennai,17626,-804768,25:61
+T00579,U392,4078,Debit Card,Laptop,Bangalore,,10686,02:00
+T00580,U202,792725,Transfer,Tablet,Kolkata,,,23:32
+T00581,U537,4281,UPI,,Bangalore,,,07:00
+T00582,U117,abc,Credit Card,Mobile,Delhi,,11806,25:61
+T00583,U291,4892,Debit Card,Mobile,Bangalore,,,25:61
+T00584,U602,abc,UPI,Tablet,Bangalore,,,25:61
+T00585,U139,abc,Credit Card,Mobile,Chennai,12457,-3103,25:61
+T00586,U118,3921,Card,Laptop,Bangalore,,,25:61
+T00587,U302,abc,Card,Tablet,Kolkata,,,25:61
+T00588,U592,266408,Transfer,Mobile,Bangalore,,,25:61
+T00589,U862,,Credit Card,Tablet,Chennai,,,25:61
+T00590,U380,3334,Debit Card,Desktop,Chennai,,8520,15:10
+T00591,U186,abc,Debit Card,Desktop,Mumbai,,,25:61
+T00592,U119,,Debit Card,Mobile,Kolkata,3332,,25:61
+T00593,U230,855852,Debit Card,Tablet,Chennai,,9959,25:61
+T00594,U191,abc,Transfer,Tablet,Bangalore,,202,08:54
+T00595,U836,,UPI,Laptop,Kolkata,,17367,19:01
+T00596,U501,1340,Credit Card,Tablet,Kolkata,17140,15800,16:58
+T00597,U320,1972,Transfer,Laptop,,,7315,12:39
+T00598,U922,,Transfer,Desktop,Chennai,4120,,19:19
+T00599,U596,₹1995,Transfer,Desktop,,9210,,25:61
+T00600,U635,₹592,UPI,Laptop,Kolkata,,12978,18:10
+T00601,U448,abc,Transfer,Desktop,Chennai,,-3189,25:61
+T00602,U562,91832,Credit Card,Laptop,Mumbai,11085,-80747,12:24
+T00603,U436,abc,Card,Desktop,Mumbai,,3521,25:61
+T00604,U552,₹3083,Credit Card,Laptop,Delhi,19068,,10:19
+T00605,U924,381235,Card,Mobile,Mumbai,,-3364,08:31
+T00606,U375,177,Credit Card,,Kolkata,,-275,25:61
+T00607,U940,27241,Debit Card,,,12451,-14790,05:59
+T00608,U875,,Card,Tablet,,,,08:05
+T00609,U383,4344,UPI,Tablet,Delhi,11730,7386,25:61
+T00610,U961,2517,Card,Mobile,Mumbai,,-3608,25:61
+T00611,U347,91571,Debit Card,Desktop,Bangalore,8215,-83356,25:61
+T00612,U649,2548,Credit Card,Tablet,Kolkata,,-2325,07:20
+T00613,U208,74321,Card,,Mumbai,9039,-65282,21:24
+T00614,U234,552,Debit Card,Laptop,,,,22:23
+T00615,U327,abc,Credit Card,Desktop,Kolkata,14122,,01:54
+T00616,U603,,Card,Laptop,Mumbai,5839,8264,25:61
+T00617,U943,,Transfer,Desktop,Delhi,,17379,25:61
+T00618,U152,935076,Debit Card,Tablet,Chennai,,,25:61
+T00619,U406,₹387,Card,Desktop,Mumbai,,,00:16
+T00620,U139,₹711,UPI,Mobile,Bangalore,,-3865,25:61
+T00621,U386,47,Debit Card,Mobile,Delhi,,,22:40
+T00622,U448,₹4987,Credit Card,Mobile,Mumbai,,,25:61
+T00623,U820,,Credit Card,,,7810,,03:33
+T00624,U255,abc,Credit Card,Desktop,Mumbai,,1067,16:35
+T00625,U449,₹1351,Transfer,Tablet,,17524,15988,25:61
+T00626,U959,₹4430,Debit Card,Tablet,Delhi,,,25:61
+T00627,U942,,Credit Card,Laptop,Kolkata,,,25:61
+T00628,U892,abc,Credit Card,Tablet,Delhi,,,25:61
+T00629,U879,abc,Transfer,,Bangalore,,,25:61
+T00630,U462,,Debit Card,Desktop,Chennai,,,20:02
+T00631,U648,abc,Debit Card,Mobile,Mumbai,,6027,00:09
+T00632,U297,508334,Credit Card,Laptop,Mumbai,9927,-498407,25:61
+T00633,U874,4680,Debit Card,Desktop,Delhi,3891,-789,25:61
+T00634,U870,₹1671,Debit Card,,Bangalore,,,11:03
+T00635,U567,2746,Credit Card,Laptop,Chennai,,,10:15
+T00636,U501,abc,UPI,Laptop,,,6347,19:19
+T00637,U219,643970,Transfer,Tablet,,,3772,25:61
+T00638,U542,₹1273,Credit Card,Laptop,Mumbai,15533,,25:61
+T00639,U442,₹892,Debit Card,Mobile,Delhi,,,25:61
+T00640,U700,abc,Debit Card,Laptop,Mumbai,,11773,16:56
+T00641,U998,₹3623,Debit Card,Tablet,Bangalore,,3985,13:09
+T00642,U577,,Transfer,Laptop,Chennai,,4228,21:25
+T00643,U512,22415,Transfer,Laptop,Kolkata,,10154,25:61
+T00644,U481,3706,Card,Laptop,Delhi,,,11:49
+T00645,U915,₹2658,UPI,,Bangalore,,,25:61
+T00646,U780,590780,UPI,Desktop,Mumbai,,,04:08
+T00647,U149,abc,Card,Laptop,Kolkata,,,03:13
+T00648,U929,₹1764,Transfer,Laptop,Mumbai,,,25:61
+T00649,U321,1778,Card,Laptop,,,,25:61
+T00650,U308,₹3679,Credit Card,Laptop,Bangalore,,,18:22
+T00651,U411,₹125,Card,Laptop,Bangalore,,16414,20:47
+T00652,U195,abc,Debit Card,Laptop,,,,25:61
+T00653,U544,564909,Credit Card,,Bangalore,,1885,25:61
+T00654,U178,13679,Transfer,Laptop,Bangalore,,14175,25:61
+T00655,U346,3048,Card,Tablet,Mumbai,,,25:61
+T00656,U602,abc,Card,Desktop,Delhi,,,01:16
+T00657,U970,,Debit Card,Tablet,Delhi,,,13:09
+T00658,U380,abc,Credit Card,Laptop,Kolkata,8858,,25:61
+T00659,U689,₹3811,Transfer,Mobile,,,3932,10:57
+T00660,U637,522223,UPI,Desktop,Mumbai,10295,-511928,08:10
+T00661,U178,,Transfer,Mobile,Chennai,13397,5435,25:61
+T00662,U763,₹3092,Card,Desktop,Mumbai,,,25:61
+T00663,U543,996135,Debit Card,Mobile,,10399,-985736,16:11
+T00664,U280,abc,UPI,Laptop,Bangalore,,5449,25:61
+T00665,U461,3779,Debit Card,Mobile,Bangalore,,,25:61
+T00666,U814,₹3718,Debit Card,Tablet,Mumbai,16623,-4189,10:17
+T00667,U527,abc,Debit Card,,Chennai,5347,,00:03
+T00668,U872,916496,UPI,Mobile,Mumbai,12921,-903575,25:61
+T00669,U362,abc,Card,,Chennai,10618,14999,25:61
+T00670,U463,,Transfer,Mobile,Mumbai,,,14:40
+T00671,U621,323225,Credit Card,Desktop,Kolkata,,3579,25:61
+T00672,U237,802725,Debit Card,Mobile,,,,04:29
+T00673,U324,,Card,Desktop,Chennai,9705,-1680,25:61
+T00674,U502,,Card,,Delhi,,13708,25:61
+T00675,U841,,Credit Card,Mobile,Bangalore,11248,,25:61
+T00676,U468,abc,Debit Card,Tablet,Delhi,,,25:61
+T00677,U664,₹2486,Card,Laptop,Mumbai,,,12:19
+T00678,U472,₹2919,Credit Card,Mobile,,,6877,18:42
+T00679,U592,₹2150,Debit Card,Desktop,Delhi,,,25:61
+T00680,U414,abc,UPI,Laptop,,3498,17386,25:61
+T00681,U464,253761,Card,Laptop,Bangalore,6449,-247312,06:16
+T00682,U545,,Credit Card,Tablet,Mumbai,,5395,25:61
+T00683,U864,,Transfer,Laptop,Chennai,,13476,25:61
+T00684,U210,₹4547,Debit Card,Laptop,Mumbai,,,20:14
+T00685,U839,,Transfer,Desktop,Chennai,,316,11:01
+T00686,U277,abc,Transfer,Tablet,,,-3788,25:61
+T00687,U923,abc,Credit Card,,Bangalore,,5615,12:26
+T00688,U931,,Credit Card,Laptop,Mumbai,,,25:61
+T00689,U683,₹987,Credit Card,Desktop,Bangalore,,,25:61
+T00690,U125,,UPI,Desktop,,,1871,17:38
+T00691,U952,₹4129,Card,Desktop,,18014,,02:04
+T00692,U786,abc,Card,,,5784,,25:61
+T00693,U434,,Credit Card,,Chennai,,,25:61
+T00694,U510,,UPI,Tablet,,,,11:47
+T00695,U603,4273,Card,,Kolkata,14414,10141,12:37
+T00696,U370,₹3272,Credit Card,Tablet,Chennai,19239,-942,25:61
+T00697,U240,,Debit Card,Desktop,,,,20:44
+T00698,U180,abc,Transfer,Mobile,,,13794,25:61
+T00699,U275,₹3936,UPI,Laptop,Delhi,,9363,25:61
+T00700,U210,₹1394,Transfer,,Chennai,,,25:61
+T00701,U281,58141,Card,Tablet,Delhi,,,25:61
+T00702,U783,885090,Card,Desktop,Bangalore,,15806,25:61
+T00703,U581,1648,Card,Mobile,Mumbai,,,16:27
+T00704,U445,abc,Card,Desktop,,,,04:29
+T00705,U396,,UPI,Mobile,Delhi,16851,13455,25:61
+T00706,U973,,Debit Card,Laptop,Bangalore,13290,,25:61
+T00707,U763,3426,UPI,,Kolkata,,,16:21
+T00708,U651,abc,Credit Card,Laptop,Mumbai,15909,,17:24
+T00709,U282,₹4049,Transfer,Desktop,Delhi,,5885,16:49
+T00710,U132,2302,Credit Card,Laptop,Chennai,,,25:61
+T00711,U438,467517,Credit Card,Desktop,Bangalore,,-4992,25:61
+T00712,U920,₹861,Credit Card,Laptop,Kolkata,,,25:61
+T00713,U235,abc,UPI,Desktop,Delhi,,,12:53
+T00714,U928,737,Debit Card,Laptop,Chennai,13670,12933,25:61
+T00715,U621,472407,Transfer,Tablet,Bangalore,,13569,08:18
+T00716,U976,₹1580,Debit Card,,Kolkata,,4906,25:61
+T00717,U109,,Card,Tablet,,,,23:04
+T00718,U266,162,UPI,,Delhi,,,13:40
+T00719,U529,₹1959,Credit Card,Tablet,Bangalore,,,15:30
+T00720,U441,4041,Card,Mobile,,,12944,16:33
+T00721,U172,2296,Credit Card,Laptop,,10704,8408,01:16
+T00722,U941,₹1220,Card,Desktop,,,3315,01:32
+T00723,U789,abc,Card,,Kolkata,,,19:21
+T00724,U833,₹471,Credit Card,,Kolkata,,18341,25:61
+T00725,U170,,Credit Card,Desktop,Mumbai,,,25:61
+T00726,U154,₹2983,Card,Tablet,,,,25:61
+T00727,U300,,Debit Card,Tablet,Delhi,,,25:61
+T00728,U674,253,UPI,Laptop,Mumbai,10085,9832,21:41
+T00729,U142,₹4476,Credit Card,Laptop,Mumbai,11228,1,25:61
+T00730,U815,₹2816,Debit Card,Desktop,Chennai,4684,,25:61
+T00731,U987,abc,UPI,Desktop,Delhi,,,25:61
+T00732,U424,2165,Credit Card,Tablet,Chennai,,,25:61
+T00733,U158,₹4689,Transfer,Tablet,Kolkata,11720,,25:61
+T00734,U814,abc,Debit Card,Mobile,Kolkata,,5221,25:61
+T00735,U923,abc,Debit Card,Tablet,Kolkata,,,18:39
+T00736,U244,843311,Card,Laptop,Kolkata,,,25:61
+T00737,U575,660455,Card,Laptop,Chennai,,14016,25:61
+T00738,U303,abc,Card,Mobile,,,,25:61
+T00739,U949,4139,Card,Laptop,,,5563,23:28
+T00740,U127,abc,Transfer,Desktop,Chennai,,,25:61
+T00741,U355,472597,Card,Laptop,Chennai,,6177,02:17
+T00742,U590,abc,Transfer,Tablet,Mumbai,,-2033,10:11
+T00743,U249,666,UPI,,Kolkata,,,25:61
+T00744,U468,38643,Debit Card,Mobile,,,10161,13:55
+T00745,U725,1563,Credit Card,Desktop,Chennai,,,25:61
+T00746,U876,,Credit Card,Laptop,Delhi,,,21:39
+T00747,U735,3994,Card,Desktop,,,,25:61
+T00748,U701,490017,Card,,Bangalore,,,25:61
+T00749,U938,3546,Credit Card,Laptop,,,,25:61
+T00750,U550,4969,Card,Mobile,Delhi,15473,10504,25:61
+T00751,U493,778711,Debit Card,Mobile,,13949,-764762,25:61
+T00752,U678,3947,Card,Mobile,Mumbai,18325,14378,06:31
+T00753,U253,,Card,Desktop,,,,09:43
+T00754,U648,₹4473,UPI,Laptop,Mumbai,,-3125,25:61
+T00755,U623,,Debit Card,Tablet,,7160,5889,25:61
+T00756,U299,514774,Credit Card,Tablet,Chennai,,,23:10
+T00757,U422,,Debit Card,Mobile,Bangalore,,,25:61
+T00758,U300,62895,Credit Card,,Mumbai,,,25:61
+T00759,U112,₹4314,Debit Card,Laptop,,12061,,25:61
+T00760,U907,abc,Card,Tablet,,,7499,02:40
+T00761,U531,₹2287,Card,Mobile,Mumbai,,4513,11:09
+T00762,U698,abc,Transfer,Tablet,Delhi,7420,,15:07
+T00763,U170,2266,Debit Card,,Kolkata,9331,7065,25:61
+T00764,U736,134260,UPI,,Delhi,,,02:09
+T00765,U857,₹4172,Debit Card,Desktop,Chennai,,8783,18:47
+T00766,U727,₹2740,Card,Laptop,Mumbai,,,16:28
+T00767,U612,,Card,Mobile,,16878,,18:16
+T00768,U943,₹4924,Transfer,,Bangalore,,13871,25:61
+T00769,U891,abc,UPI,Laptop,Bangalore,10152,,00:39
+T00770,U244,₹4575,Debit Card,Desktop,Delhi,3138,19668,25:61
+T00771,U349,,Card,Desktop,Bangalore,10365,3315,06:47
+T00772,U565,352560,Credit Card,Tablet,Mumbai,5093,-347467,25:61
+T00773,U988,990028,Card,Tablet,Delhi,10583,-979445,25:61
+T00774,U557,₹3263,Debit Card,Desktop,Bangalore,,,15:05
+T00775,U125,804287,Credit Card,Tablet,Chennai,,5547,25:61
+T00776,U950,,Debit Card,Mobile,Mumbai,7857,,09:13
+T00777,U921,abc,Debit Card,Desktop,Mumbai,6306,7480,25:61
+T00778,U358,,Debit Card,Tablet,Chennai,16230,,18:45
+T00779,U783,45,Transfer,Desktop,Chennai,9501,9456,07:17
+T00780,U801,891527,UPI,Tablet,,7954,-883573,20:52
+T00781,U687,,Debit Card,,Bangalore,,,25:61
+T00782,U433,624192,Card,Mobile,Kolkata,17128,-607064,22:40
+T00783,U501,abc,Transfer,,Delhi,,,21:53
+T00784,U668,₹1231,Debit Card,Tablet,Kolkata,14944,,25:61
+T00785,U621,,Credit Card,Laptop,Chennai,,,25:61
+T00786,U171,abc,Debit Card,,Kolkata,2656,,10:56
+T00787,U857,₹4112,Credit Card,Mobile,,,,25:61
+T00788,U548,₹1225,Transfer,,Delhi,,,02:49
+T00789,U400,620050,Card,Mobile,Bangalore,,,15:36
+T00790,U874,56552,Transfer,Tablet,Bangalore,,,09:44
+T00791,U868,3657,Card,Mobile,,,,25:61
+T00792,U631,561,Transfer,Desktop,Bangalore,10550,9989,03:02
+T00793,U910,4374,Credit Card,Tablet,Chennai,,,10:04
+T00794,U264,abc,UPI,,Mumbai,,14839,25:61
+T00795,U888,abc,Credit Card,Laptop,Kolkata,,,02:04
+T00796,U392,abc,Card,,,,,25:61
+T00797,U625,663527,Card,Mobile,Kolkata,7057,-656470,25:61
+T00798,U571,,UPI,Tablet,Kolkata,,,03:15
+T00799,U108,3744,Debit Card,Tablet,Bangalore,4833,1089,19:55
+T00800,U608,4938,Card,Laptop,Chennai,,-3834,14:18
+T00801,U155,₹2881,Transfer,Desktop,Chennai,12954,,25:61
+T00802,U347,2913,Transfer,,Bangalore,9622,6709,25:61
+T00803,U302,₹742,Transfer,,Bangalore,16268,,05:28
+T00804,U356,4735,Debit Card,Laptop,Chennai,,,25:61
+T00805,U270,,Transfer,Tablet,Chennai,,,02:36
+T00806,U772,543204,Credit Card,Mobile,Chennai,,15781,00:46
+T00807,U915,678630,Debit Card,Tablet,Chennai,,,23:06
+T00808,U625,25238,Card,Mobile,Chennai,,7048,05:50
+T00809,U682,632494,Transfer,,Chennai,,,20:10
+T00810,U426,₹4226,Debit Card,Laptop,Kolkata,,,25:61
+T00811,U578,470,Debit Card,Laptop,Chennai,3209,2739,22:17
+T00812,U778,abc,Card,Laptop,Kolkata,3045,,15:11
+T00813,U662,284789,Debit Card,,Kolkata,,,25:61
+T00814,U122,abc,Card,,Chennai,14555,,12:29
+T00815,U537,₹744,UPI,Desktop,Chennai,18371,,25:61
+T00816,U964,938407,Card,,Delhi,,6256,02:52
+T00817,U103,371563,Transfer,Tablet,Kolkata,,,12:49
+T00818,U817,1390,Credit Card,Mobile,Kolkata,,,25:61
+T00819,U348,abc,Card,Desktop,Delhi,9286,,17:33
+T00820,U283,,Credit Card,Tablet,Chennai,,1673,03:09
+T00821,U234,abc,UPI,Tablet,Mumbai,,,25:61
+T00822,U260,,Debit Card,,,,,01:59
+T00823,U185,4156,Debit Card,Tablet,Bangalore,,,25:61
+T00824,U123,354,Credit Card,Tablet,Delhi,,,21:40
+T00825,U940,3946,Transfer,Desktop,Bangalore,,,08:01
+T00826,U914,772404,Card,,Chennai,17414,-754990,25:61
+T00827,U784,₹523,UPI,,Delhi,,,25:61
+T00828,U576,107557,Credit Card,Tablet,Bangalore,,17269,07:27
+T00829,U546,₹123,Debit Card,Mobile,,,18958,25:61
+T00830,U242,abc,Transfer,Mobile,Kolkata,,13707,20:12
+T00831,U810,abc,Credit Card,,Delhi,,,25:61
+T00832,U976,935132,Debit Card,,Mumbai,,7779,09:24
+T00833,U895,4519,Card,Desktop,,,,25:61
+T00834,U690,₹4782,Debit Card,Laptop,Kolkata,,,25:61
+T00835,U945,₹3909,Debit Card,Tablet,Bangalore,,,25:61
+T00836,U455,₹2808,Credit Card,Mobile,Bangalore,8286,,22:36
+T00837,U226,123720,Transfer,Tablet,Kolkata,19497,-104223,25:61
+T00838,U201,4224,UPI,Laptop,Kolkata,,,16:56
+T00839,U297,₹4152,Credit Card,Mobile,Delhi,16498,-2849,25:61
+T00840,U306,,Card,,Chennai,,-2664,25:61
+T00841,U884,,Credit Card,Tablet,Delhi,,19047,25:61
+T00842,U407,abc,UPI,Desktop,Kolkata,,,07:56
+T00843,U382,,Credit Card,Laptop,Mumbai,,,25:61
+T00844,U759,,Debit Card,Desktop,Kolkata,14765,,25:61
+T00845,U646,2269,Card,Desktop,Kolkata,,,21:42
+T00846,U395,₹4878,Transfer,Laptop,Bangalore,,10557,25:61
+T00847,U190,354271,Card,Tablet,,,,14:44
+T00848,U524,,Transfer,,Chennai,,,25:61
+T00849,U750,1248,Card,Laptop,Kolkata,,,25:61
+T00850,U751,₹4289,Card,,,,,03:10
+T00851,U205,abc,Credit Card,Tablet,Chennai,,,25:61
+T00852,U812,701360,UPI,Mobile,Mumbai,,,25:61
+T00853,U192,abc,Credit Card,,Chennai,,,22:46
+T00854,U399,abc,Transfer,Tablet,Kolkata,,,25:61
+T00855,U461,,Transfer,Mobile,Chennai,,,25:61
+T00856,U263,,Card,Tablet,Bangalore,17316,,08:00
+T00857,U917,188557,Credit Card,Mobile,,,,07:57
+T00858,U589,138083,UPI,,Bangalore,,,25:61
+T00859,U673,₹3504,UPI,,Mumbai,,,10:08
+T00860,U567,680104,UPI,Mobile,Chennai,,7654,00:18
+T00861,U769,abc,Credit Card,Laptop,Chennai,3104,,25:61
+T00862,U939,1601,Transfer,Laptop,,1529,-72,25:61
+T00863,U158,571,Transfer,Desktop,Bangalore,,,09:38
+T00864,U825,,Transfer,Tablet,Kolkata,16163,,25:61
+T00865,U117,920266,Card,Laptop,Delhi,17748,-902518,25:61
+T00866,U737,abc,Card,Desktop,,,,00:28
+T00867,U246,255711,Transfer,Desktop,Chennai,11542,-244169,14:57
+T00868,U127,abc,Card,Laptop,Kolkata,,,25:61
+T00869,U636,248297,Debit Card,Desktop,Chennai,,,17:50
+T00870,U480,abc,Card,Laptop,Delhi,,16972,25:61
+T00871,U697,,Debit Card,Mobile,Delhi,,-2358,25:61
+T00872,U715,abc,Card,Tablet,Bangalore,,,25:61
+T00873,U470,abc,Card,Mobile,Chennai,9118,,17:44
+T00874,U826,abc,Credit Card,Tablet,Kolkata,,,21:11
+T00875,U977,,UPI,Laptop,Chennai,,,07:38
+T00876,U132,,Credit Card,,Bangalore,,,01:05
+T00877,U684,abc,Debit Card,Laptop,,,3232,25:61
+T00878,U252,₹4768,Debit Card,Tablet,Chennai,13138,,21:15
+T00879,U348,₹2431,Card,Mobile,Delhi,,,22:59
+T00880,U560,,Credit Card,,Kolkata,11866,5680,20:03
+T00881,U519,,Transfer,Desktop,Delhi,,,22:56
+T00882,U221,,Card,Laptop,Mumbai,18242,,25:61
+T00883,U516,2347,UPI,Tablet,Mumbai,13809,11462,25:61
+T00884,U404,abc,Debit Card,Tablet,,,,25:61
+T00885,U146,₹4419,Debit Card,,Delhi,,-3254,25:61
+T00886,U526,,Debit Card,Tablet,Bangalore,,3307,04:07
+T00887,U470,₹1756,UPI,Laptop,Chennai,,,04:25
+T00888,U420,880013,Transfer,Tablet,,4084,-875929,07:11
+T00889,U982,,Credit Card,Desktop,Delhi,7186,-1736,25:61
+T00890,U906,₹321,Transfer,Laptop,Kolkata,9939,17303,25:61
+T00891,U399,abc,UPI,Desktop,Bangalore,,,03:54
+T00892,U562,₹4044,Debit Card,Laptop,Chennai,,,25:61
+T00893,U652,2825,Debit Card,Laptop,Chennai,13946,11121,14:10
+T00894,U129,abc,Debit Card,,,18683,,25:61
+T00895,U620,abc,Credit Card,,Bangalore,5232,,03:13
+T00896,U226,,Card,Mobile,Delhi,15661,,25:61
+T00897,U849,,Debit Card,,,,10454,08:16
+T00898,U833,4538,UPI,Tablet,Kolkata,,-2061,13:12
+T00899,U825,abc,Card,Tablet,Mumbai,4569,,20:16
+T00900,U315,abc,UPI,Tablet,Bangalore,,,25:61
+T00901,U124,371385,Card,Mobile,Chennai,15346,-356039,00:21
+T00902,U195,4503,Debit Card,Tablet,Kolkata,,14713,10:06
+T00903,U446,,Transfer,Desktop,Delhi,,-286,25:61
+T00904,U925,abc,Debit Card,Desktop,Delhi,,,25:61
+T00905,U192,230,Card,Laptop,,9859,9629,04:48
+T00906,U105,810208,Card,Mobile,Bangalore,9962,-800246,00:04
+T00907,U246,abc,Transfer,Desktop,Bangalore,17790,9517,13:23
+T00908,U552,3314,Card,Desktop,Delhi,,13845,14:02
+T00909,U243,₹3651,Debit Card,Tablet,,,,00:18
+T00910,U150,₹4953,Credit Card,Laptop,Delhi,,,09:44
+T00911,U113,,Credit Card,,,,15677,01:58
+T00912,U824,,Transfer,Laptop,Bangalore,,99,25:61
+T00913,U965,4784,UPI,Tablet,Kolkata,,,25:61
+T00914,U322,136645,Card,Tablet,Delhi,11237,-125408,25:61
+T00915,U849,abc,Debit Card,Laptop,Bangalore,,612,25:61
+T00916,U266,1033,Transfer,Laptop,Delhi,,,25:61
+T00917,U513,abc,UPI,Desktop,,,,25:61
+T00918,U277,₹3836,Debit Card,Tablet,Kolkata,8575,,25:61
+T00919,U414,966,Debit Card,,Chennai,,,05:59
+T00920,U586,abc,Credit Card,Tablet,,,,06:05
+T00921,U283,₹1969,Card,Tablet,,12862,,22:22
+T00922,U349,,Card,Tablet,Mumbai,,,17:05
+T00923,U773,1036,Credit Card,Mobile,Delhi,,,25:61
+T00924,U592,₹2743,Credit Card,Desktop,,,,25:61
+T00925,U903,₹2059,Debit Card,Laptop,,,4387,05:59
+T00926,U215,,UPI,Mobile,Chennai,,,25:61
+T00927,U861,,Debit Card,Mobile,Kolkata,7498,-3463,19:36
+T00928,U821,,UPI,Tablet,,,,25:61
+T00929,U233,202407,Transfer,,Chennai,4653,-197754,25:61
+T00930,U433,₹907,Credit Card,Laptop,Kolkata,19723,6929,16:57
+T00931,U556,,Credit Card,Tablet,Mumbai,2115,,00:45
+T00932,U802,abc,Credit Card,Tablet,Bangalore,,,01:32
+T00933,U833,368,Transfer,Laptop,Kolkata,,,16:05
+T00934,U822,3623,UPI,Laptop,,,12657,25:61
+T00935,U647,₹4392,UPI,Laptop,Chennai,15005,,25:61
+T00936,U493,,Card,,Bangalore,12287,,23:44
+T00937,U722,2008,UPI,,,,,25:61
+T00938,U378,724098,Card,Desktop,Delhi,,,25:61
+T00939,U106,abc,Debit Card,Laptop,Delhi,17880,,08:00
+T00940,U467,,Credit Card,Desktop,,,,25:61
+T00941,U713,2779,Transfer,,Mumbai,7186,4407,25:61
+T00942,U298,4155,Debit Card,Mobile,Kolkata,3102,-1053,25:61
+T00943,U982,,Credit Card,Desktop,Chennai,,,22:10
+T00944,U600,₹2544,Credit Card,Mobile,Mumbai,,15160,25:61
+T00945,U566,,UPI,,Mumbai,,,25:61
+T00946,U731,16853,Card,,Chennai,,9036,06:33
+T00947,U122,abc,Transfer,Laptop,Chennai,14733,,01:30
+T00948,U248,abc,Debit Card,,Bangalore,17516,,02:38
+T00949,U930,962349,Debit Card,Tablet,Bangalore,19254,-943095,01:59
+T00950,U954,,Card,,Delhi,,16529,25:61
+T00951,U515,₹894,UPI,Tablet,Chennai,9434,,02:00
+T00952,U628,,Credit Card,,Bangalore,13419,12444,02:51
+T00953,U917,₹4007,Debit Card,Mobile,,,2548,25:61
+T00954,U696,345546,Credit Card,Desktop,Kolkata,,,25:61
+T00955,U663,₹497,Credit Card,Tablet,Mumbai,,-934,25:61
+T00956,U469,804793,UPI,Desktop,Kolkata,,,02:26
+T00957,U887,abc,Card,Laptop,Mumbai,,9050,10:26
+T00958,U950,,Transfer,,Bangalore,2409,6495,25:61
+T00959,U773,,Card,Desktop,Delhi,,,25:61
+T00960,U447,2598,Card,Tablet,Bangalore,,,10:03
+T00961,U378,₹4259,Credit Card,Mobile,Mumbai,,19290,25:61
+T00962,U957,501980,Debit Card,Mobile,Delhi,7802,-494178,04:24
+T00963,U905,3024,UPI,Mobile,,16106,13082,09:44
+T00964,U883,abc,Transfer,,Bangalore,14017,9561,25:61
+T00965,U161,₹3813,Debit Card,,Mumbai,,3663,25:61
+T00966,U317,3984,Transfer,Desktop,Mumbai,4438,454,25:61
+T00967,U387,₹4763,Card,Laptop,Delhi,18522,,06:24
+T00968,U583,abc,Debit Card,Desktop,Delhi,15426,,25:61
+T00969,U371,2617,Card,Desktop,Mumbai,,14782,10:28
+T00970,U655,₹2823,Card,,,19725,,13:25
+T00971,U354,750,Debit Card,Tablet,Mumbai,19714,18964,10:06
+T00972,U560,2438,Credit Card,,,9969,7531,21:25
+T00973,U496,240818,Transfer,Desktop,Bangalore,,,01:53
+T00974,U302,₹3858,Transfer,Laptop,Mumbai,14694,,19:18
+T00975,U306,,Credit Card,Laptop,Kolkata,,,06:47
+T00976,U738,3379,Debit Card,Desktop,Chennai,,4418,01:53
+T00977,U596,4640,Credit Card,Tablet,Delhi,6349,1709,25:61
+T00978,U336,955667,Debit Card,,Bangalore,,,25:61
+T00979,U276,648360,Card,Laptop,,,,19:00
+T00980,U799,abc,Card,Mobile,Chennai,,,25:61
+T00981,U855,4050,UPI,Tablet,Mumbai,,,15:50
+T00982,U793,386035,UPI,Mobile,Bangalore,,,08:57
+T00983,U516,,Transfer,Tablet,Chennai,,,25:61
+T00984,U922,2400,Debit Card,Laptop,Delhi,,,25:61
+T00985,U762,3385,Transfer,Laptop,Delhi,,10767,06:10
+T00986,U591,357346,Credit Card,Laptop,Kolkata,,,25:61
+T00987,U474,57647,Transfer,Tablet,Mumbai,,19036,25:61
+T00988,U831,₹2702,Card,Mobile,Delhi,,,25:61
+T00989,U534,,Credit Card,,Delhi,,8259,08:44
+T00990,U194,,UPI,Mobile,Delhi,,15028,25:61
+T00991,U983,22158,UPI,Desktop,Delhi,,,12:23
+T00992,U484,abc,Debit Card,Tablet,Chennai,,853,25:61
+T00993,U768,abc,Debit Card,Desktop,Mumbai,,,18:51
+T00994,U824,243,Credit Card,Desktop,Chennai,,,25:61
+T00995,U789,,UPI,Tablet,,2391,,05:03
+T00996,U539,₹3565,Credit Card,Desktop,Bangalore,,,25:61
+T00997,U744,47705,Transfer,Tablet,,5360,-42345,10:56
+T00998,U345,4650,UPI,,Delhi,,,25:61
+T00999,U790,111768,Credit Card,Desktop,Mumbai,,15543,25:61
+T01000,U724,2660,Card,Desktop,Mumbai,1426,-1234,25:61
+T01001,U563,2397,Debit Card,,Mumbai,,,25:61
+T01002,U884,₹3398,Card,Tablet,Mumbai,,18265,25:61
+T01003,U666,,Card,Desktop,Chennai,,-4956,25:61
+T01004,U685,₹4185,UPI,Mobile,Mumbai,,,16:54
+T01005,U178,₹2416,UPI,Mobile,Kolkata,,-2226,25:61
+T01006,U669,1904,UPI,,,,8014,05:04
+T01007,U486,₹751,Card,Mobile,,4727,3733,03:58
+T01008,U905,1730,Credit Card,Laptop,Kolkata,,,25:61
+T01009,U908,1956,Card,Tablet,Chennai,,16326,08:19
+T01010,U473,146189,UPI,Tablet,,,,12:41
+T01011,U687,abc,Debit Card,,Bangalore,7926,,25:61
+T01012,U834,641,UPI,Desktop,Chennai,,11415,16:15
+T01013,U637,4993,Credit Card,,Kolkata,,,11:32
+T01014,U312,₹1886,Credit Card,Tablet,Bangalore,,,08:18
+T01015,U742,₹3520,Debit Card,Laptop,Chennai,,16353,25:61
+T01016,U518,,Debit Card,,Chennai,,4344,02:14
+T01017,U276,469287,Transfer,,Delhi,,,25:61
+T01018,U936,,Debit Card,,Chennai,6154,11168,25:61
+T01019,U918,abc,Transfer,Laptop,Delhi,,5963,25:61
+T01020,U817,343735,Transfer,Laptop,Kolkata,9098,-334637,05:49
+T01021,U186,2882,Transfer,Mobile,,,,17:23
+T01022,U990,935500,Debit Card,Mobile,Bangalore,,10965,01:49
+T01023,U365,932087,Transfer,Mobile,Delhi,3714,-928373,25:61
+T01024,U946,₹2505,Credit Card,,Bangalore,19497,11209,14:51
+T01025,U521,abc,Debit Card,Laptop,Kolkata,2078,6393,25:61
+T01026,U345,abc,Transfer,Tablet,Delhi,,,25:61
+T01027,U754,649372,Transfer,Mobile,Chennai,,,25:61
+T01028,U231,915266,Card,Mobile,Delhi,,11168,25:61
+T01029,U937,1648,Card,,Chennai,18906,17258,25:61
+T01030,U209,2595,Transfer,,Delhi,,,06:28
+T01031,U577,4120,Debit Card,Tablet,,3372,-748,01:40
+T01032,U774,₹4461,Transfer,Tablet,Delhi,,7205,07:13
+T01033,U968,abc,Credit Card,Mobile,Mumbai,11904,-2046,25:61
+T01034,U176,₹1485,Transfer,Laptop,Kolkata,,,25:61
+T01035,U891,₹701,Card,Laptop,Mumbai,,,04:10
+T01036,U887,abc,Card,,Kolkata,,19307,25:61
+T01037,U438,2867,UPI,,Bangalore,,,25:61
+T01038,U796,,Transfer,Mobile,Bangalore,15558,17755,25:61
+T01039,U965,₹160,Transfer,Desktop,,,,25:61
+T01040,U754,3754,Card,Tablet,Chennai,,,23:01
+T01041,U296,₹1423,Credit Card,,Mumbai,13703,-2089,14:07
+T01042,U681,abc,Transfer,Tablet,Mumbai,,,23:33
+T01043,U548,abc,Debit Card,,Chennai,,,25:61
+T01044,U126,abc,Transfer,Mobile,Mumbai,,,25:61
+T01045,U854,₹4041,Credit Card,,Delhi,,,25:61
+T01046,U328,385440,Debit Card,Tablet,Bangalore,,,04:33
+T01047,U442,2913,UPI,Tablet,Kolkata,2931,18,07:23
+T01048,U239,543,Card,Desktop,Delhi,12472,11929,13:34
+T01049,U734,986507,Credit Card,,Delhi,,,25:61
+T01050,U486,4105,Transfer,Desktop,,,13969,04:54
+T01051,U709,687955,Debit Card,Tablet,Delhi,,7383,25:61
+T01052,U749,abc,Transfer,Laptop,,14325,,25:61
+T01053,U646,619,Card,Tablet,Bangalore,,2992,09:29
+T01054,U814,2729,Credit Card,,,14244,11515,25:61
+T01055,U126,₹3460,UPI,Laptop,Chennai,17742,,20:21
+T01056,U360,495915,Debit Card,Desktop,Kolkata,18082,-477833,25:61
+T01057,U585,abc,UPI,Mobile,Delhi,4637,,25:61
+T01058,U484,₹2045,UPI,,Kolkata,,16886,25:61
+T01059,U231,128446,UPI,,Bangalore,8129,-120317,06:38
+T01060,U995,,UPI,,Delhi,10594,,05:49
+T01061,U463,,Transfer,Tablet,Delhi,,17188,05:20
+T01062,U788,₹1353,Card,,Delhi,,,25:61
+T01063,U784,4839,Debit Card,Tablet,,,,12:01
+T01064,U461,,Credit Card,Desktop,Kolkata,,,21:22
+T01065,U935,1092,Transfer,Mobile,Chennai,,,22:04
+T01066,U891,₹3240,Debit Card,Laptop,,,,25:61
+T01067,U778,1637,Card,Laptop,Bangalore,,19380,25:61
+T01068,U367,106387,UPI,Laptop,Bangalore,,,01:51
+T01069,U995,,Card,Desktop,Bangalore,,,07:18
+T01070,U124,,UPI,Desktop,Kolkata,,11871,10:01
+T01071,U722,,Credit Card,Laptop,Chennai,,,18:17
+T01072,U330,abc,UPI,Tablet,Delhi,,,22:17
+T01073,U602,2068,UPI,Desktop,Mumbai,,,08:44
+T01074,U511,₹1146,Credit Card,Laptop,Mumbai,15852,,08:19
+T01075,U195,₹1802,UPI,Mobile,Mumbai,5358,-3950,15:54
+T01076,U421,353159,Credit Card,,Mumbai,10872,-342287,06:28
+T01077,U480,2177,Debit Card,Laptop,,17251,15074,25:61
+T01078,U591,₹2049,Credit Card,,Bangalore,1370,,12:25
+T01079,U222,₹2395,Debit Card,,,,,19:51
+T01080,U207,,Credit Card,Tablet,Kolkata,,19853,18:36
+T01081,U438,3352,UPI,Mobile,Chennai,,,25:61
+T01082,U693,1780,UPI,Desktop,Delhi,,,18:03
+T01083,U321,abc,UPI,Desktop,Bangalore,10448,,23:35
+T01084,U791,₹4417,Card,Desktop,,4712,17228,25:61
+T01085,U660,1511,Debit Card,Desktop,Bangalore,,,08:54
+T01086,U359,379,Card,Mobile,Chennai,,-1980,13:50
+T01087,U424,,UPI,Mobile,,,,08:59
+T01088,U899,abc,Transfer,Tablet,Chennai,,,25:61
+T01089,U860,672,Card,,Bangalore,11395,10723,25:61
+T01090,U401,,UPI,Tablet,Bangalore,,,12:57
+T01091,U839,531429,Credit Card,Laptop,Bangalore,5801,-525628,25:61
+T01092,U371,abc,Credit Card,Tablet,Kolkata,,10835,25:61
+T01093,U610,₹4024,Card,Laptop,Mumbai,5545,,25:61
+T01094,U627,₹3048,UPI,Tablet,Kolkata,,,15:23
+T01095,U583,abc,Debit Card,,Mumbai,,630,06:14
+T01096,U553,331848,Credit Card,Laptop,Chennai,8469,-323379,11:06
+T01097,U212,,Credit Card,Desktop,Delhi,13896,,25:61
+T01098,U446,970,UPI,Laptop,Delhi,,,04:16
+T01099,U421,₹1569,Credit Card,Tablet,Delhi,,1108,03:41
+T01100,U417,abc,Credit Card,Mobile,Delhi,,,15:08
+T01101,U104,2051,Credit Card,Mobile,Mumbai,8550,6499,25:61
+T01102,U955,₹3946,Transfer,Tablet,Delhi,,-269,03:48
+T01103,U959,abc,Transfer,,,,5035,25:61
+T01104,U148,,Credit Card,Desktop,Chennai,,,25:61
+T01105,U863,₹2799,Debit Card,Laptop,Mumbai,,6733,09:56
+T01106,U704,₹1412,Credit Card,Desktop,Delhi,,,25:61
+T01107,U127,abc,Transfer,Tablet,Mumbai,,,19:38
+T01108,U821,3141,Credit Card,Tablet,,19957,16816,25:61
+T01109,U958,₹336,Transfer,Laptop,Kolkata,,,25:61
+T01110,U810,,Debit Card,,Bangalore,,,19:25
+T01111,U851,abc,Transfer,Laptop,,7348,,18:46
+T01112,U440,abc,UPI,Mobile,Bangalore,,,25:61
+T01113,U741,₹3893,Debit Card,Mobile,Kolkata,,-1332,25:61
+T01114,U305,,UPI,Desktop,Delhi,,,25:61
+T01115,U378,abc,Card,Laptop,Delhi,12488,,25:61
+T01116,U549,abc,Credit Card,,Bangalore,10539,17594,25:61
+T01117,U786,abc,UPI,Tablet,Mumbai,,,02:13
+T01118,U494,143,UPI,Tablet,Chennai,,,25:61
+T01119,U842,2414,Credit Card,Mobile,Mumbai,,,25:61
+T01120,U844,826876,Debit Card,Tablet,Bangalore,,,03:04
+T01121,U234,591575,UPI,,Bangalore,,18759,25:61
+T01122,U561,408675,Card,Desktop,Chennai,,5645,25:61
+T01123,U374,abc,Card,Desktop,Bangalore,,15980,23:39
+T01124,U159,174938,Transfer,,Delhi,7372,-167566,06:15
+T01125,U538,824302,Transfer,Desktop,Mumbai,15353,-808949,23:16
+T01126,U201,,Credit Card,Tablet,Chennai,,2476,25:61
+T01127,U595,2219,Debit Card,Mobile,Chennai,8315,6096,13:07
+T01128,U396,abc,UPI,Desktop,,17648,2343,25:61
+T01129,U893,,Transfer,Laptop,,,8455,25:61
+T01130,U695,₹1756,Credit Card,Desktop,Bangalore,19474,,04:49
+T01131,U501,abc,UPI,Tablet,,,,25:61
+T01132,U927,981434,UPI,Mobile,Mumbai,17399,-964035,25:61
+T01133,U828,₹1312,Card,,Delhi,19325,,25:61
+T01134,U898,,Transfer,Mobile,Delhi,2209,11967,22:25
+T01135,U877,4930,Transfer,Mobile,,,,25:61
+T01136,U193,₹515,Credit Card,,Bangalore,,,25:61
+T01137,U937,,Card,Desktop,Chennai,,16112,19:17
+T01138,U743,866455,Transfer,Laptop,Mumbai,9786,-856669,25:61
+T01139,U493,abc,Transfer,Tablet,Chennai,,,04:16
+T01140,U204,₹2576,Transfer,Desktop,Delhi,,,25:61
+T01141,U891,abc,Card,Laptop,Delhi,14700,,25:61
+T01142,U327,,Credit Card,Laptop,Bangalore,,,25:61
+T01143,U123,3811,UPI,Tablet,Mumbai,6481,2670,15:30
+T01144,U921,2717,UPI,Desktop,Mumbai,11539,8822,25:61
+T01145,U731,15768,Debit Card,Mobile,Kolkata,,,07:14
+T01146,U824,476,Credit Card,Mobile,Mumbai,,-442,25:61
+T01147,U254,,Card,Desktop,Kolkata,,19518,25:61
+T01148,U492,400779,Debit Card,Mobile,Delhi,,,25:61
+T01149,U869,,Debit Card,Desktop,Mumbai,,,25:61
+T01150,U378,,UPI,Laptop,Chennai,,,14:10
+T01151,U415,2649,Transfer,,Mumbai,1676,-973,25:61
+T01152,U975,508659,UPI,Mobile,Mumbai,19807,-488852,11:50
+T01153,U813,abc,Card,Tablet,Mumbai,,,25:61
+T01154,U753,abc,Card,Laptop,,6565,,17:17
+T01155,U990,abc,Card,Tablet,Kolkata,9814,1991,08:20
+T01156,U492,abc,UPI,,Bangalore,,,15:22
+T01157,U949,3395,Card,Laptop,Mumbai,,,04:10
+T01158,U415,2133,Transfer,Tablet,Chennai,8564,6431,25:61
+T01159,U598,₹2381,Card,Tablet,Mumbai,7750,6632,06:56
+T01160,U131,3670,Debit Card,,Kolkata,11378,7708,25:61
+T01161,U399,632363,Card,Laptop,Kolkata,,,25:61
+T01162,U898,112418,Debit Card,Tablet,Mumbai,,,19:44
+T01163,U892,,Card,Laptop,Chennai,2462,-4956,25:61
+T01164,U324,175334,Transfer,Tablet,,7656,-167678,25:61
+T01165,U308,₹3651,Credit Card,Desktop,Chennai,,,25:61
+T01166,U997,abc,Transfer,,Bangalore,1319,,25:61
+T01167,U492,₹3751,Credit Card,Laptop,,,,12:30
+T01168,U125,3935,Debit Card,Desktop,Chennai,,,01:25
+T01169,U393,269721,Card,Tablet,Chennai,,,25:61
+T01170,U294,₹4685,Card,Mobile,Delhi,,3649,21:06
+T01171,U599,abc,Card,Desktop,Bangalore,,,12:08
+T01172,U722,804707,Credit Card,Desktop,,1141,-803566,23:57
+T01173,U109,₹344,Card,Mobile,Kolkata,,18622,25:61
+T01174,U537,abc,UPI,,Chennai,16404,,25:61
+T01175,U695,abc,Debit Card,Laptop,Mumbai,,,25:61
+T01176,U685,abc,Credit Card,,Kolkata,14478,-431,25:61
+T01177,U157,,UPI,Laptop,Chennai,,,16:45
+T01178,U511,846275,Credit Card,Desktop,Chennai,,,25:61
+T01179,U727,433591,Card,,Mumbai,,8503,25:61
+T01180,U420,,Debit Card,,Kolkata,,,18:56
+T01181,U458,473338,Credit Card,Laptop,Kolkata,,,03:43
+T01182,U432,abc,UPI,Tablet,Kolkata,14075,,02:37
+T01183,U309,,Debit Card,Mobile,Chennai,3313,,25:61
+T01184,U474,1211,Credit Card,Laptop,Chennai,2346,1135,15:46
+T01185,U685,abc,Card,Mobile,,,,05:31
+T01186,U193,,Credit Card,Desktop,Kolkata,10800,,25:61
+T01187,U428,abc,Transfer,Desktop,Kolkata,6059,,25:61
+T01188,U529,,Credit Card,,Mumbai,,13130,00:19
+T01189,U553,,Transfer,Laptop,Mumbai,16124,,10:20
+T01190,U562,abc,Transfer,Tablet,,,14349,05:28
+T01191,U527,664170,UPI,Tablet,Chennai,,,25:61
+T01192,U108,abc,Debit Card,,Bangalore,,,05:36
+T01193,U518,566761,Credit Card,Laptop,,,-526,25:61
+T01194,U872,abc,Debit Card,Tablet,Bangalore,,,05:25
+T01195,U363,638,UPI,Desktop,Delhi,5041,4403,25:61
+T01196,U585,₹1776,UPI,Laptop,Mumbai,,2210,25:61
+T01197,U524,abc,UPI,Tablet,Delhi,,,25:61
+T01198,U540,847929,Transfer,Tablet,Bangalore,13740,-834189,25:61
+T01199,U402,₹1194,Transfer,Mobile,Bangalore,,,25:61
+T01200,U568,598650,UPI,Tablet,Delhi,4313,-594337,22:30
+T01201,U836,₹580,Credit Card,Desktop,Delhi,,4269,13:58
+T01202,U928,377,Transfer,,Delhi,,,12:02
+T01203,U769,abc,Transfer,,Bangalore,,,25:61
+T01204,U679,₹1442,Card,,Mumbai,,-309,02:11
+T01205,U705,₹1488,Debit Card,Mobile,Chennai,14717,19667,12:46
+T01206,U773,₹3101,Card,Desktop,,3839,,18:56
+T01207,U843,436881,Transfer,Tablet,Chennai,,,02:16
+T01208,U208,41611,Card,,Delhi,,,13:46
+T01209,U186,1932,Debit Card,Tablet,Delhi,,,25:61
+T01210,U713,abc,Credit Card,Laptop,Delhi,8166,9265,10:34
+T01211,U243,,Card,Laptop,Chennai,9153,,21:40
+T01212,U332,,UPI,Laptop,Kolkata,,,25:61
+T01213,U645,abc,Card,,Mumbai,,12541,01:59
+T01214,U194,1822,Debit Card,Tablet,Mumbai,11708,9886,25:61
+T01215,U850,170298,Transfer,Mobile,,,10105,17:54
+T01216,U826,abc,UPI,Tablet,Bangalore,,,25:61
+T01217,U681,₹1659,UPI,Tablet,Mumbai,,,14:51
+T01218,U807,4305,Transfer,,Mumbai,,,19:41
+T01219,U452,₹3487,Transfer,,Chennai,,,22:55
+T01220,U620,,UPI,,Mumbai,15269,,25:61
+T01221,U536,abc,Credit Card,Laptop,Delhi,7978,,25:61
+T01222,U463,2698,Debit Card,Tablet,,,,07:00
+T01223,U758,2130,Card,,Bangalore,,8375,25:61
+T01224,U618,1601,Card,Mobile,Kolkata,19377,17776,14:21
+T01225,U230,abc,Credit Card,Tablet,Mumbai,,,25:61
+T01226,U625,abc,Credit Card,,Delhi,1589,,05:58
+T01227,U552,,Card,Mobile,Mumbai,11524,624,25:61
+T01228,U339,abc,Transfer,Tablet,Chennai,,,00:50
+T01229,U591,abc,Credit Card,Desktop,Delhi,,2236,21:21
+T01230,U775,abc,UPI,Desktop,,,,19:01
+T01231,U900,₹1297,Debit Card,Desktop,Delhi,,12367,25:61
+T01232,U120,,Transfer,Tablet,Chennai,,10474,25:61
+T01233,U675,abc,Card,,Chennai,17341,,02:21
+T01234,U426,117048,Debit Card,Mobile,Kolkata,12175,-104873,25:61
+T01235,U830,933894,Card,Tablet,Chennai,,,25:61
+T01236,U722,444133,UPI,,,12662,-431471,25:61
+T01237,U546,1466,UPI,Laptop,,,,25:61
+T01238,U235,221328,Card,Tablet,Mumbai,4830,-216498,15:58
+T01239,U770,,UPI,Laptop,Kolkata,,,00:00
+T01240,U921,297474,Credit Card,Laptop,Kolkata,,,20:36
+T01241,U803,₹317,Transfer,Desktop,Chennai,,-1017,04:13
+T01242,U361,,Debit Card,Mobile,Chennai,,3748,25:61
+T01243,U658,133726,Transfer,Mobile,Kolkata,,,05:01
+T01244,U198,1711,Card,Laptop,Mumbai,17748,16037,04:04
+T01245,U392,,Card,Desktop,Mumbai,,,25:61
+T01246,U429,1654,UPI,,Bangalore,,,14:10
+T01247,U279,abc,Transfer,Laptop,Bangalore,10530,,03:42
+T01248,U784,761902,Debit Card,Laptop,,,,10:08
+T01249,U123,1065,Card,Laptop,Delhi,,,25:61
+T01250,U929,,Card,Laptop,Bangalore,,-1922,06:27
+T01251,U401,209097,Transfer,Tablet,Chennai,12918,-196179,25:61
+T01252,U406,,Transfer,,Bangalore,,-1736,25:61
+T01253,U952,₹1235,Card,Desktop,Delhi,,,25:61
+T01254,U579,,Credit Card,Mobile,Kolkata,,,18:18
+T01255,U936,,UPI,Tablet,Delhi,,3311,16:13
+T01256,U594,abc,Card,,Chennai,,,15:50
+T01257,U340,,Credit Card,Laptop,Bangalore,17462,46,15:22
+T01258,U491,,Transfer,,Delhi,19870,-4992,25:61
+T01259,U178,abc,Card,,,,18456,18:34
+T01260,U390,₹4394,UPI,Mobile,Delhi,,,03:14
+T01261,U291,943573,Transfer,Desktop,Kolkata,6600,-936973,25:61
+T01262,U532,403142,Transfer,Tablet,,,-1447,25:61
+T01263,U910,1519,Credit Card,,Mumbai,,,25:61
+T01264,U962,₹1281,Credit Card,Tablet,Chennai,,-3796,25:61
+T01265,U771,550447,Debit Card,,Chennai,,-2552,25:61
+T01266,U832,,Debit Card,Tablet,Chennai,,,20:40
+T01267,U172,₹3080,Card,Desktop,Bangalore,,,11:27
+T01268,U638,abc,Debit Card,Desktop,Chennai,,,25:61
+T01269,U861,,Credit Card,,,,17621,25:61
+T01270,U295,₹945,UPI,,Bangalore,,,25:61
+T01271,U510,abc,UPI,Tablet,Kolkata,,,19:03
+T01272,U478,,Card,Mobile,Mumbai,3917,4327,25:61
+T01273,U803,4657,Card,Laptop,Chennai,,,25:61
+T01274,U975,4959,Transfer,Tablet,Mumbai,,,06:00
+T01275,U686,781,Transfer,,Chennai,,12545,12:00
+T01276,U641,abc,Debit Card,,Chennai,,,22:50
+T01277,U539,abc,UPI,Laptop,Delhi,14421,,06:15
+T01278,U992,abc,Credit Card,Mobile,Mumbai,19439,12139,01:46
+T01279,U645,abc,UPI,,Bangalore,,,25:61
+T01280,U586,4106,UPI,Desktop,Chennai,,14363,13:27
+T01281,U955,,Card,Desktop,Delhi,,,25:61
+T01282,U188,,Debit Card,Laptop,Kolkata,,,25:61
+T01283,U459,738,UPI,Mobile,Mumbai,,4274,25:61
+T01284,U935,,Credit Card,,Mumbai,1713,,15:35
+T01285,U870,,Credit Card,Tablet,Mumbai,10984,,14:19
+T01286,U598,4198,Transfer,Mobile,Delhi,,,22:58
+T01287,U544,,UPI,Mobile,Kolkata,8638,,20:38
+T01288,U710,abc,UPI,Mobile,Mumbai,,,25:61
+T01289,U603,abc,Credit Card,Desktop,,,,25:61
+T01290,U621,1167,UPI,,Delhi,,,25:61
+T01291,U115,,Card,,Bangalore,,,25:61
+T01292,U898,,Debit Card,Laptop,Chennai,,,25:61
+T01293,U877,abc,Card,Tablet,Kolkata,,,25:61
+T01294,U346,4246,Credit Card,Mobile,Chennai,,,16:04
+T01295,U580,abc,Transfer,Mobile,Kolkata,,,00:53
+T01296,U816,₹4908,Transfer,Mobile,Bangalore,,14938,22:14
+T01297,U124,abc,Credit Card,Desktop,,,1615,07:01
+T01298,U322,2598,Debit Card,Tablet,Bangalore,,,04:06
+T01299,U851,abc,UPI,Desktop,,,,20:04
+T01300,U135,182054,Transfer,Mobile,,,15760,02:42
+T01301,U903,,Credit Card,Laptop,Delhi,,,10:38
+T01302,U512,2709,Credit Card,Tablet,Delhi,,7089,17:39
+T01303,U983,,Transfer,,Chennai,5847,,25:61
+T01304,U594,abc,UPI,Laptop,Mumbai,6907,,22:51
+T01305,U143,415,Card,Laptop,,,-3038,25:61
+T01306,U194,₹248,Debit Card,Desktop,Delhi,,,25:61
+T01307,U390,952129,UPI,Laptop,Delhi,5769,-946360,13:45
+T01308,U935,1557,Debit Card,Laptop,,9967,8410,25:61
+T01309,U791,,Card,,Kolkata,,,21:31
+T01310,U693,₹295,UPI,,Delhi,,-4440,25:61
+T01311,U770,388785,Transfer,Mobile,Chennai,19374,-369411,20:30
+T01312,U873,4673,Transfer,,Bangalore,,,25:61
+T01313,U243,356728,UPI,Tablet,,,-3141,04:26
+T01314,U637,415644,UPI,Mobile,Kolkata,5079,-410565,01:41
+T01315,U140,₹228,Credit Card,Mobile,Chennai,,,06:27
+T01316,U499,₹1998,Debit Card,Tablet,,,-37,25:61
+T01317,U681,3632,UPI,,Bangalore,,-2122,14:15
+T01318,U526,₹2614,Credit Card,,Chennai,14133,17676,11:32
+T01319,U477,₹1259,Debit Card,Desktop,Mumbai,,5265,25:61
+T01320,U920,1484,Credit Card,Desktop,Chennai,,,25:61
+T01321,U225,₹2944,Credit Card,Laptop,Delhi,,,17:42
+T01322,U331,4339,UPI,Desktop,Chennai,,14595,08:12
+T01323,U319,3759,Card,Mobile,Mumbai,,,00:44
+T01324,U695,134,Card,Desktop,Chennai,15551,15417,25:61
+T01325,U813,203847,Credit Card,,Bangalore,,8428,25:61
+T01326,U786,abc,Transfer,Tablet,Kolkata,,,25:61
+T01327,U607,abc,Transfer,,,,,25:61
+T01328,U887,890858,UPI,Mobile,,,,09:52
+T01329,U661,,Transfer,Laptop,Mumbai,,,25:61
+T01330,U474,765670,Card,,Bangalore,,,25:61
+T01331,U907,₹686,Debit Card,Mobile,Bangalore,,928,18:27
+T01332,U343,,Credit Card,,Chennai,,1484,22:36
+T01333,U761,abc,Card,,Mumbai,,14628,25:61
+T01334,U129,,Card,Laptop,Chennai,,,05:04
+T01335,U887,138837,Card,Mobile,Chennai,13977,-124860,21:48
+T01336,U528,₹3531,UPI,Mobile,Bangalore,,14643,01:10
+T01337,U378,4349,UPI,Mobile,,2434,-1915,25:61
+T01338,U178,₹818,UPI,Laptop,Bangalore,,9277,04:20
+T01339,U716,,Credit Card,Laptop,Kolkata,5157,3547,04:49
+T01340,U670,649156,UPI,Laptop,Bangalore,,,25:61
+T01341,U437,₹3326,UPI,Laptop,Kolkata,9582,,25:61
+T01342,U863,647722,UPI,,Bangalore,10217,-637505,04:16
+T01343,U868,abc,Credit Card,Tablet,Chennai,8364,,25:61
+T01344,U910,898608,Credit Card,Laptop,Chennai,,7233,25:61
+T01345,U842,461867,Debit Card,,,,15769,03:17
+T01346,U138,,Debit Card,Mobile,Mumbai,11464,,02:15
+T01347,U852,₹2032,Transfer,Laptop,,,,19:00
+T01348,U441,,Debit Card,Laptop,Kolkata,,15388,05:49
+T01349,U356,₹451,UPI,Tablet,Bangalore,19521,17906,25:61
+T01350,U535,,Debit Card,Mobile,Mumbai,,,25:61
+T01351,U594,₹3708,Transfer,Desktop,Kolkata,,,25:61
+T01352,U452,abc,Card,Tablet,Bangalore,2988,16091,25:61
+T01353,U146,,UPI,Desktop,Mumbai,,,25:61
+T01354,U164,₹3596,Card,Mobile,Bangalore,,,25:61
+T01355,U832,176545,Transfer,Tablet,Delhi,17932,-158613,18:59
+T01356,U795,,Transfer,,Bangalore,,4819,08:01
+T01357,U112,abc,Credit Card,Desktop,,,,12:25
+T01358,U355,abc,Transfer,Mobile,Bangalore,,,25:61
+T01359,U511,612277,UPI,Laptop,Chennai,,,25:61
+T01360,U879,abc,Credit Card,,Kolkata,,,08:26
+T01361,U293,2348,Debit Card,Mobile,Mumbai,5924,3576,25:61
+T01362,U443,349427,Card,Laptop,Kolkata,,,01:53
+T01363,U721,,UPI,Tablet,,,,06:24
+T01364,U762,,UPI,,Delhi,5214,,25:61
+T01365,U614,₹4955,Credit Card,,Mumbai,14459,,25:61
+T01366,U626,,Card,,Chennai,,,25:61
+T01367,U385,₹2788,Debit Card,Laptop,Chennai,,,25:61
+T01368,U414,354918,Transfer,Laptop,Kolkata,7219,-347699,25:61
+T01369,U563,abc,UPI,Laptop,Kolkata,17307,,25:61
+T01370,U975,abc,Debit Card,,,,,16:45
+T01371,U935,823470,Card,Tablet,Mumbai,1697,-821773,08:27
+T01372,U656,748894,Transfer,Desktop,Kolkata,,,25:61
+T01373,U538,349144,UPI,Tablet,Chennai,,12698,25:61
+T01374,U970,₹3087,Debit Card,Desktop,Mumbai,,,25:61
+T01375,U793,,Debit Card,,Chennai,,,15:17
+T01376,U754,₹4786,Debit Card,Laptop,Delhi,,11232,23:21
+T01377,U433,₹3316,Credit Card,Laptop,Bangalore,17466,,25:61
+T01378,U473,678534,Card,Laptop,Bangalore,,,25:61
+T01379,U649,₹4382,Card,Laptop,Kolkata,,15396,00:21
+T01380,U286,349404,Transfer,,,,,00:18
+T01381,U892,abc,Card,Laptop,Kolkata,,6230,25:61
+T01382,U621,abc,Credit Card,Mobile,Chennai,3295,11285,11:30
+T01383,U609,₹4826,Transfer,Laptop,Kolkata,1358,,25:61
+T01384,U476,,UPI,Desktop,Bangalore,,17570,25:61
+T01385,U947,,Debit Card,,Mumbai,,1396,25:61
+T01386,U759,abc,UPI,,Kolkata,,,25:61
+T01387,U710,,Transfer,,Chennai,2950,6258,25:61
+T01388,U993,abc,Card,Tablet,,,,25:61
+T01389,U700,abc,Debit Card,,Chennai,,,21:37
+T01390,U579,₹3128,Credit Card,Desktop,Mumbai,,9195,06:20
+T01391,U178,₹1634,Credit Card,Mobile,Chennai,8017,,17:36
+T01392,U744,₹2690,Credit Card,Laptop,Delhi,,18618,25:61
+T01393,U557,710702,Credit Card,,,13707,-696995,25:61
+T01394,U602,1186,Card,Tablet,,1434,248,00:00
+T01395,U516,₹3356,Debit Card,,,10019,-1138,25:61
+T01396,U577,1167,UPI,,Delhi,,,16:49
+T01397,U527,₹1683,Card,Desktop,Mumbai,,18670,00:47
+T01398,U206,,Transfer,Laptop,Chennai,,,04:03
+T01399,U965,,Transfer,Mobile,Mumbai,,,12:06
+T01400,U365,abc,UPI,Mobile,,,,25:61
+T01401,U584,827071,Transfer,,Delhi,1085,-825986,25:61
+T01402,U893,3850,Debit Card,Tablet,Mumbai,,,11:03
+T01403,U697,1069,Transfer,Mobile,Delhi,,,08:53
+T01404,U187,,Card,Desktop,Delhi,3363,,25:61
+T01405,U279,2257,Transfer,Tablet,Chennai,,3375,25:61
+T01406,U557,1955,Card,,Chennai,,318,25:61
+T01407,U960,₹4857,Card,Mobile,Bangalore,18127,,25:61
+T01408,U151,₹2277,Credit Card,Laptop,Mumbai,,412,25:61
+T01409,U444,,UPI,,Delhi,,,05:10
+T01410,U866,abc,Transfer,Tablet,Kolkata,11247,5737,25:61
+T01411,U455,₹1203,Card,Mobile,,,,17:12
+T01412,U552,,Credit Card,Mobile,Kolkata,3152,,25:61
+T01413,U982,abc,Debit Card,Mobile,,10082,,19:09
+T01414,U520,4530,Card,Laptop,Bangalore,6007,1477,20:01
+T01415,U129,abc,Card,,Bangalore,13007,,12:25
+T01416,U786,₹338,UPI,Laptop,Chennai,12521,,25:61
+T01417,U731,,Credit Card,Laptop,Kolkata,5338,,22:22
+T01418,U747,abc,Credit Card,,Mumbai,12552,-1872,25:61
+T01419,U697,₹2985,Credit Card,Laptop,Bangalore,,,25:61
+T01420,U952,₹4177,Card,Laptop,Kolkata,,,25:61
+T01421,U651,1112,Card,Desktop,,,,13:47
+T01422,U291,4090,Card,Laptop,,,,25:61
+T01423,U941,abc,Transfer,Tablet,Bangalore,,,14:39
+T01424,U305,29212,UPI,Mobile,Mumbai,7957,-21255,04:18
+T01425,U412,705487,Card,Mobile,Mumbai,,14334,25:61
+T01426,U183,783465,Credit Card,,,,,18:53
+T01427,U826,abc,Credit Card,,,,,25:61
+T01428,U127,₹844,Debit Card,Laptop,,,,25:61
+T01429,U437,abc,Credit Card,,,9470,,12:00
+T01430,U887,,Transfer,Desktop,Mumbai,9897,,25:61
+T01431,U491,3121,Credit Card,Tablet,Chennai,,,13:55
+T01432,U188,abc,Debit Card,,,,7033,25:61
+T01433,U175,52292,Card,Desktop,,,,23:03
+T01434,U738,760976,Card,Tablet,Delhi,,,05:58
+T01435,U970,₹2875,Card,Tablet,Delhi,,,12:35
+T01436,U797,₹3629,Debit Card,Desktop,,,,25:61
+T01437,U385,3294,Card,Desktop,Delhi,,12234,25:61
+T01438,U590,647011,Credit Card,,Mumbai,,,06:26
+T01439,U697,4673,Credit Card,Mobile,Mumbai,,1562,22:31
+T01440,U318,958,Credit Card,Desktop,Mumbai,,,25:61
+T01441,U330,₹4854,Card,,Mumbai,3022,-1495,25:61
+T01442,U995,,UPI,,Delhi,15799,,25:61
+T01443,U801,,UPI,Mobile,Kolkata,,,25:61
+T01444,U439,,Card,Laptop,Chennai,,,15:49
+T01445,U421,₹2270,Credit Card,Mobile,Kolkata,,-291,10:54
+T01446,U291,275982,Card,Tablet,,,,11:34
+T01447,U661,797369,Card,Laptop,Kolkata,,8498,20:43
+T01448,U600,,Transfer,Laptop,Bangalore,19756,,15:32
+T01449,U956,,UPI,Mobile,Bangalore,,,25:61
+T01450,U966,648415,Transfer,,Kolkata,,11901,25:61
+T01451,U424,598,Transfer,Mobile,Mumbai,,,25:61
+T01452,U261,₹2631,Transfer,Tablet,Delhi,12398,17215,25:61
+T01453,U371,₹3170,Credit Card,Desktop,Chennai,17191,4801,25:61
+T01454,U873,,UPI,,Bangalore,,15855,08:12
+T01455,U522,699,Credit Card,Desktop,Kolkata,,,25:61
+T01456,U574,abc,Credit Card,Desktop,Delhi,,,25:61
+T01457,U917,,Debit Card,Tablet,Chennai,,,10:39
+T01458,U230,389322,Transfer,Tablet,Kolkata,8302,-381020,25:61
+T01459,U275,963663,Debit Card,,Mumbai,,,25:61
+T01460,U555,abc,Credit Card,Laptop,Chennai,,,13:59
+T01461,U320,3214,Debit Card,Desktop,Bangalore,,,17:32
+T01462,U131,₹4047,Card,Desktop,Kolkata,,17290,06:39
+T01463,U298,,Card,Tablet,Chennai,,1807,10:03
+T01464,U280,abc,Card,Desktop,,,,05:36
+T01465,U319,1265,Card,Tablet,Mumbai,,,25:61
+T01466,U399,2051,Transfer,,Delhi,13669,11618,10:46
+T01467,U403,480302,Debit Card,,Bangalore,,,25:61
+T01468,U982,abc,Transfer,Tablet,Kolkata,,5691,09:36
+T01469,U126,₹1756,Transfer,Desktop,,,,19:14
+T01470,U578,,Transfer,Laptop,Chennai,,,16:49
+T01471,U593,902331,UPI,Mobile,Chennai,,,06:59
+T01472,U136,,UPI,Desktop,Bangalore,,19424,25:61
+T01473,U920,abc,Transfer,Mobile,Delhi,9372,5893,19:03
+T01474,U118,595554,Transfer,Laptop,,12407,-583147,25:61
+T01475,U643,abc,Credit Card,Tablet,Mumbai,9717,,09:13
+T01476,U833,3231,Card,Laptop,Mumbai,,,12:05
+T01477,U924,abc,Transfer,,Bangalore,,,15:13
+T01478,U842,₹4934,Debit Card,Mobile,Kolkata,,,25:61
+T01479,U967,,Transfer,Laptop,Bangalore,,,25:61
+T01480,U573,663947,Debit Card,Desktop,Chennai,6377,-657570,16:44
+T01481,U919,,UPI,,Kolkata,,,05:41
+T01482,U862,,Credit Card,,Bangalore,12404,,25:61
+T01483,U123,₹4422,Credit Card,Tablet,Chennai,,,01:43
+T01484,U765,₹2817,Credit Card,,,,,12:39
+T01485,U630,80423,UPI,,Delhi,,,25:61
+T01486,U485,4278,UPI,Laptop,Kolkata,3938,-340,01:35
+T01487,U730,110701,Transfer,,,5301,-105400,25:61
+T01488,U700,761264,Debit Card,Tablet,Kolkata,,17076,25:61
+T01489,U900,2365,Card,Laptop,Bangalore,12108,9743,21:47
+T01490,U996,1437,Transfer,Laptop,Delhi,,,05:33
+T01491,U524,₹3425,Transfer,Desktop,Chennai,,,04:29
+T01492,U662,939778,Card,Laptop,Mumbai,,,25:61
+T01493,U521,1698,Debit Card,Desktop,,,,04:52
+T01494,U669,2454,Debit Card,,Kolkata,3387,933,25:61
+T01495,U723,199446,Debit Card,Mobile,Chennai,,,25:61
+T01496,U414,₹767,Transfer,Desktop,Delhi,,-1181,25:61
+T01497,U777,2551,Debit Card,,Mumbai,,,09:23
+T01498,U694,740283,Transfer,Mobile,,,,25:61
+T01499,U112,,Debit Card,Tablet,Mumbai,,5208,08:19
+T01500,U735,abc,Debit Card,Laptop,Mumbai,,,20:19
+T01501,U249,abc,Debit Card,Mobile,Mumbai,9170,7566,00:46
+T01502,U899,abc,Debit Card,Laptop,Kolkata,,,25:61
+T01503,U105,₹2359,UPI,,Kolkata,,,06:22
+T01504,U916,₹1099,Debit Card,Laptop,,,,25:61
+T01505,U316,441711,UPI,Mobile,Kolkata,6752,-434959,11:55
+T01506,U416,₹141,Card,Tablet,Chennai,,,25:61
+T01507,U868,₹4435,Credit Card,Tablet,Chennai,4221,,23:19
+T01508,U212,,UPI,Desktop,,3136,19541,11:24
+T01509,U892,957086,UPI,,Chennai,11446,-945640,23:59
+T01510,U635,₹3802,Card,,Bangalore,2101,,25:61
+T01511,U934,abc,Debit Card,Laptop,Bangalore,19910,18455,02:13
+T01512,U527,abc,Transfer,,Mumbai,,,25:61
+T01513,U934,₹4505,Credit Card,Mobile,Chennai,,,08:07
+T01514,U717,1021,Card,Laptop,Mumbai,,,25:61
+T01515,U959,abc,Transfer,Tablet,Chennai,,-271,14:31
+T01516,U648,abc,Card,Laptop,Kolkata,11844,13411,25:61
+T01517,U795,579932,Transfer,,Mumbai,7432,-572500,25:61
+T01518,U849,,UPI,Desktop,Delhi,17892,19371,12:28
+T01519,U441,1214,UPI,Desktop,Bangalore,9014,7800,02:02
+T01520,U342,2612,Card,Mobile,Chennai,,,08:26
+T01521,U529,452064,Debit Card,Desktop,,5170,-446894,25:61
+T01522,U138,979357,Debit Card,Mobile,Bangalore,,16997,18:03
+T01523,U739,3159,UPI,Tablet,Kolkata,,6669,11:51
+T01524,U300,967809,Debit Card,Tablet,Kolkata,,,25:61
+T01525,U758,4301,Debit Card,Tablet,Kolkata,10166,5865,25:61
+T01526,U712,4214,Card,Mobile,,,,09:45
+T01527,U308,975,UPI,Desktop,Delhi,,,25:61
+T01528,U377,3477,UPI,Tablet,Delhi,,8718,16:14
+T01529,U475,773202,Debit Card,,Bangalore,,,25:61
+T01530,U901,,Transfer,,Bangalore,5863,,22:23
+T01531,U415,₹3542,UPI,Mobile,Bangalore,,,25:61
+T01532,U233,,Card,Tablet,Chennai,,17514,18:21
+T01533,U341,abc,Card,Tablet,Delhi,,8349,05:15
+T01534,U929,677756,UPI,Tablet,Kolkata,,,12:58
+T01535,U358,₹1958,UPI,,Chennai,6318,10861,08:11
+T01536,U783,,Debit Card,Mobile,Delhi,,,25:61
+T01537,U447,609,Transfer,Tablet,Mumbai,,16812,16:15
+T01538,U399,362305,Transfer,,Kolkata,17986,-344319,25:61
+T01539,U348,₹4550,Transfer,Mobile,Mumbai,,-3812,12:47
+T01540,U781,767074,Debit Card,Tablet,Delhi,,,11:29
+T01541,U795,₹1832,Debit Card,Laptop,Chennai,,9436,25:61
+T01542,U853,76799,UPI,Laptop,Mumbai,17097,-59702,18:32
+T01543,U744,,Transfer,Laptop,Kolkata,,18103,22:49
+T01544,U651,169070,Debit Card,Tablet,Chennai,,,20:37
+T01545,U398,335002,Transfer,Desktop,Delhi,,,25:61
+T01546,U367,₹4302,Credit Card,Desktop,Kolkata,2762,,25:61
+T01547,U365,2636,Debit Card,,,10261,7625,25:61
+T01548,U756,₹2674,Credit Card,Mobile,Bangalore,14020,19981,13:49
+T01549,U103,598320,Debit Card,Laptop,Mumbai,,,25:61
+T01550,U651,2722,Card,Desktop,Mumbai,18184,15462,05:18
+T01551,U977,₹4888,Debit Card,Tablet,Chennai,18783,,04:39
+T01552,U857,₹1894,Transfer,Laptop,Kolkata,,14997,09:03
+T01553,U672,,Credit Card,,Bangalore,,,25:61
+T01554,U153,663393,Credit Card,Desktop,,18122,-645271,25:61
+T01555,U475,317359,Card,Laptop,Kolkata,,,03:42
+T01556,U894,₹927,Transfer,Desktop,Kolkata,13554,,04:02
+T01557,U405,,Transfer,Desktop,Kolkata,,-572,12:27
+T01558,U867,₹1877,Transfer,Desktop,Bangalore,,,06:27
+T01559,U811,,Credit Card,,Mumbai,15692,,16:46
+T01560,U756,₹2212,Transfer,Tablet,,,15580,14:14
+T01561,U666,594968,Transfer,,Delhi,9587,-585381,25:61
+T01562,U821,,Credit Card,Tablet,Chennai,9620,18944,25:61
+T01563,U915,,Transfer,,Bangalore,4345,,25:61
+T01564,U526,₹4165,Card,Tablet,Mumbai,,,25:61
+T01565,U237,,Card,Mobile,Delhi,,,25:61
+T01566,U185,455931,Transfer,Tablet,Delhi,6110,-449821,02:03
+T01567,U121,,UPI,Desktop,Mumbai,6452,14236,25:61
+T01568,U619,,Credit Card,Laptop,Bangalore,,18607,05:33
+T01569,U891,₹4472,Debit Card,Mobile,Delhi,,,25:61
+T01570,U125,,Card,,Mumbai,5290,,19:01
+T01571,U369,346897,Transfer,Desktop,Kolkata,1976,-344921,25:61
+T01572,U561,878219,Credit Card,Laptop,,,,20:39
+T01573,U536,846224,UPI,Desktop,Mumbai,,,12:01
+T01574,U355,27187,Credit Card,Desktop,Delhi,,17847,10:44
+T01575,U343,1880,Credit Card,Laptop,Delhi,16510,14630,25:61
+T01576,U405,abc,Transfer,Laptop,Mumbai,,11950,25:61
+T01577,U572,,Credit Card,,Kolkata,18728,,04:21
+T01578,U740,3060,Card,Mobile,Kolkata,,8955,07:53
+T01579,U821,abc,Card,Mobile,Mumbai,,-1094,25:61
+T01580,U326,197503,UPI,Tablet,Mumbai,,,15:41
+T01581,U318,₹2546,Transfer,,Chennai,,-1007,12:27
+T01582,U530,,UPI,Laptop,,,,19:47
+T01583,U701,₹3597,UPI,Laptop,,,,15:24
+T01584,U240,₹4905,UPI,Laptop,Bangalore,,,25:61
+T01585,U210,,Card,,Chennai,,,25:61
+T01586,U537,4216,UPI,Mobile,Bangalore,,,09:59
+T01587,U971,,UPI,Laptop,Kolkata,11656,,22:19
+T01588,U387,873374,Transfer,Mobile,,3929,-869445,25:61
+T01589,U118,4596,Card,Mobile,Chennai,,,21:49
+T01590,U849,3048,UPI,Desktop,Mumbai,,,15:39
+T01591,U393,826,Transfer,Tablet,Mumbai,15016,14190,25:61
+T01592,U944,3084,Debit Card,Desktop,Chennai,,,05:59
+T01593,U540,abc,Transfer,Desktop,Chennai,,17695,25:61
+T01594,U899,₹1321,Credit Card,Laptop,,,-2811,25:61
+T01595,U546,,Debit Card,Laptop,Chennai,8932,,25:61
+T01596,U245,2585,Card,,Mumbai,,,25:61
+T01597,U530,,Debit Card,Tablet,,,12404,02:27
+T01598,U982,3293,Card,Tablet,Chennai,18020,14727,11:52
+T01599,U666,508294,Debit Card,Mobile,Kolkata,,11638,25:61
+T01600,U230,2188,Credit Card,Tablet,Delhi,,,23:51
+T01601,U629,385300,UPI,Mobile,Bangalore,5047,-380253,25:61
+T01602,U705,abc,Debit Card,Tablet,Kolkata,16675,,25:61
+T01603,U835,₹1874,UPI,Tablet,Bangalore,2804,,25:61
+T01604,U351,1617,Debit Card,,,,,25:61
+T01605,U569,abc,Debit Card,Laptop,Bangalore,17538,,25:61
+T01606,U689,442,Debit Card,Desktop,,,8566,25:61
+T01607,U600,₹4887,Transfer,,Mumbai,,,25:61
+T01608,U243,1556,Card,,Chennai,,17230,14:50
+T01609,U450,abc,Credit Card,Laptop,Kolkata,4645,,25:61
+T01610,U208,abc,Credit Card,,Bangalore,,6855,25:61
+T01611,U456,,Credit Card,Desktop,Delhi,,,12:34
+T01612,U719,805,Credit Card,Laptop,Chennai,1042,237,25:61
+T01613,U385,1946,Transfer,Laptop,Bangalore,5587,3641,15:28
+T01614,U783,185402,Card,Laptop,,,,04:24
+T01615,U498,4491,UPI,Desktop,Delhi,4385,-106,03:05
+T01616,U468,,UPI,Tablet,Chennai,8520,15314,25:61
+T01617,U782,,Credit Card,Tablet,Delhi,12653,18278,25:61
+T01618,U203,581904,Debit Card,,Delhi,19951,-561953,25:61
+T01619,U391,abc,Transfer,Desktop,Bangalore,,,25:61
+T01620,U494,abc,Transfer,Tablet,,,,25:61
+T01621,U363,abc,Transfer,,Delhi,,,19:11
+T01622,U839,₹2725,UPI,Tablet,,,,25:61
+T01623,U232,,Card,Laptop,Bangalore,,19586,00:51
+T01624,U368,₹4841,UPI,Tablet,Delhi,,,17:08
+T01625,U527,3475,Debit Card,Tablet,Mumbai,,17025,25:61
+T01626,U147,,Debit Card,,Delhi,,14118,25:61
+T01627,U261,abc,UPI,Tablet,Kolkata,,,17:10
+T01628,U577,₹2457,Transfer,Tablet,Delhi,,,25:61
+T01629,U783,67,Credit Card,Desktop,Bangalore,,,16:27
+T01630,U907,,Debit Card,,Bangalore,,,18:17
+T01631,U855,4978,Debit Card,,Delhi,,-2254,25:61
+T01632,U959,148,Debit Card,Desktop,Delhi,10137,9989,02:37
+T01633,U725,,UPI,Laptop,Bangalore,,,25:61
+T01634,U240,abc,Card,Desktop,Bangalore,,,25:61
+T01635,U793,abc,Credit Card,,Bangalore,,,25:61
+T01636,U706,abc,Debit Card,Mobile,Mumbai,2897,,00:54
+T01637,U946,abc,Transfer,Laptop,Bangalore,,,21:19
+T01638,U525,₹3290,Debit Card,Desktop,,,,17:06
+T01639,U311,abc,UPI,Mobile,Mumbai,,,07:37
+T01640,U966,abc,Transfer,,Delhi,1952,,03:41
+T01641,U335,₹3059,UPI,Desktop,Bangalore,2412,,25:61
+T01642,U752,₹719,Credit Card,Desktop,,,,25:61
+T01643,U621,,Credit Card,Laptop,Delhi,,,15:11
+T01644,U556,₹743,Card,Laptop,Bangalore,,13504,23:00
+T01645,U369,4338,Card,Tablet,Chennai,,,18:35
+T01646,U137,abc,UPI,Desktop,Delhi,8708,18844,25:61
+T01647,U885,488147,Card,Desktop,,,,25:61
+T01648,U960,3661,Transfer,,Mumbai,,7320,08:24
+T01649,U344,403135,Credit Card,Tablet,Bangalore,,,25:61
+T01650,U256,555376,UPI,Laptop,Mumbai,15397,-539979,03:41
+T01651,U625,748005,Debit Card,Laptop,Kolkata,5016,-742989,25:61
+T01652,U942,973880,Transfer,Tablet,Bangalore,7510,-966370,10:04
+T01653,U812,543017,Debit Card,Desktop,Mumbai,,,13:49
+T01654,U495,₹2958,UPI,Laptop,Mumbai,,11904,25:61
+T01655,U853,abc,Transfer,Desktop,Delhi,,,17:47
+T01656,U580,₹3901,Card,,Chennai,,-565,25:61
+T01657,U873,₹4407,Transfer,Desktop,Delhi,18478,,11:41
+T01658,U640,2047,Card,Desktop,Chennai,,2878,25:61
+T01659,U718,4930,Credit Card,Tablet,,,,17:32
+T01660,U393,3269,Transfer,Tablet,Bangalore,16838,13569,10:41
+T01661,U606,3641,Card,Desktop,Delhi,,,25:61
+T01662,U474,150355,Transfer,,Delhi,,12448,25:61
+T01663,U963,149792,UPI,Desktop,Kolkata,,,25:61
+T01664,U208,abc,UPI,,Kolkata,4741,8234,20:33
+T01665,U757,206416,Debit Card,,Bangalore,6919,-199497,25:61
+T01666,U532,abc,Transfer,Desktop,,,,07:25
+T01667,U363,39602,Card,Mobile,Kolkata,5561,-34041,07:17
+T01668,U786,₹2991,Card,,Bangalore,9598,-4797,00:28
+T01669,U192,1682,Card,Laptop,Kolkata,,,06:53
+T01670,U577,abc,Credit Card,Tablet,Chennai,,11635,22:24
+T01671,U662,abc,Card,Desktop,Bangalore,,,25:61
+T01672,U265,,Transfer,Laptop,Delhi,,,25:61
+T01673,U934,197433,Debit Card,Tablet,Kolkata,,,25:61
+T01674,U112,83268,UPI,Laptop,Mumbai,,,25:61
+T01675,U155,₹4334,Transfer,Mobile,Bangalore,5166,,25:61
+T01676,U913,₹459,UPI,,Chennai,2153,,18:03
+T01677,U652,1370,Transfer,Laptop,Delhi,,,15:16
+T01678,U287,,Transfer,Tablet,Delhi,,372,25:61
+T01679,U473,,UPI,Tablet,Kolkata,,,06:10
+T01680,U369,4009,Card,Tablet,Mumbai,14804,10795,06:10
+T01681,U652,668559,UPI,Desktop,Mumbai,,3968,25:61
+T01682,U887,,Debit Card,Desktop,Chennai,,585,25:61
+T01683,U845,abc,Credit Card,Mobile,Delhi,,,00:10
+T01684,U624,₹765,Credit Card,Desktop,Chennai,9249,,17:56
+T01685,U740,abc,Debit Card,Laptop,Mumbai,,18128,19:42
+T01686,U493,abc,Card,Desktop,Delhi,3104,,25:61
+T01687,U945,abc,Debit Card,Mobile,Kolkata,,6410,25:61
+T01688,U388,₹146,Card,Mobile,,17510,,25:61
+T01689,U658,,UPI,,,,,25:61
+T01690,U673,abc,Card,Mobile,Mumbai,5207,1330,25:61
+T01691,U690,₹4887,Credit Card,Desktop,Kolkata,4643,,23:38
+T01692,U627,₹4567,Debit Card,,Chennai,,,16:02
+T01693,U492,,Card,Laptop,Delhi,,12068,25:61
+T01694,U563,4904,Card,Tablet,Bangalore,,15880,03:43
+T01695,U683,86,Debit Card,Mobile,Kolkata,,,19:34
+T01696,U850,,Card,Tablet,Delhi,,4107,25:61
+T01697,U216,334214,Transfer,,Kolkata,,,25:61
+T01698,U397,,Credit Card,Mobile,Chennai,,9077,25:61
+T01699,U673,abc,Card,Laptop,Mumbai,5921,5646,25:61
+T01700,U418,₹4785,Card,Laptop,Bangalore,,,25:61
+T01701,U673,248,Credit Card,Laptop,Delhi,,,09:33
+T01702,U540,,Debit Card,,Mumbai,,,25:61
+T01703,U583,abc,Transfer,Mobile,Mumbai,8755,5401,25:61
+T01704,U330,347122,Debit Card,Tablet,Bangalore,,-701,12:11
+T01705,U662,abc,Card,Tablet,Chennai,,,25:61
+T01706,U127,1007,Card,Tablet,Mumbai,,17580,03:24
+T01707,U268,254932,Credit Card,Tablet,Bangalore,,6619,25:61
+T01708,U995,2773,Transfer,,Delhi,,8248,25:61
+T01709,U719,abc,UPI,Mobile,Delhi,6506,,25:61
+T01710,U701,,Transfer,Mobile,Kolkata,12392,,25:61
+T01711,U747,abc,Card,Laptop,Delhi,,,21:49
+T01712,U265,232391,Credit Card,Desktop,Chennai,11323,-221068,07:53
+T01713,U340,abc,Debit Card,Mobile,Bangalore,,12581,19:04
+T01714,U963,₹4259,Transfer,Desktop,Chennai,2656,10943,02:06
+T01715,U263,₹3396,Credit Card,Laptop,Delhi,18881,11384,25:61
+T01716,U942,₹4644,Card,,,9506,,25:61
+T01717,U727,,Card,Tablet,Kolkata,,,25:61
+T01718,U804,,Transfer,Mobile,Delhi,15274,17919,08:25
+T01719,U909,,Credit Card,Desktop,Bangalore,,6535,18:17
+T01720,U738,abc,Debit Card,Mobile,Kolkata,8466,,03:26
+T01721,U353,₹2876,Card,Tablet,Delhi,,10963,08:43
+T01722,U524,abc,Credit Card,Laptop,Bangalore,,,20:13
+T01723,U857,25122,Credit Card,Tablet,Delhi,,8679,25:61
+T01724,U842,439223,UPI,Desktop,,,,25:61
+T01725,U749,,Transfer,Tablet,Bangalore,,,05:07
+T01726,U112,,Debit Card,Laptop,Chennai,,-3155,23:50
+T01727,U545,₹2531,UPI,Desktop,,11870,,04:39
+T01728,U518,256,UPI,Tablet,,9442,9186,25:61
+T01729,U794,4077,Debit Card,Laptop,Mumbai,,,25:61
+T01730,U267,₹3647,Credit Card,,Chennai,,,25:61
+T01731,U851,,Transfer,Tablet,,10603,,25:61
+T01732,U537,abc,UPI,Mobile,Delhi,15300,,25:61
+T01733,U829,1039,Credit Card,Mobile,Bangalore,,,25:61
+T01734,U443,abc,Debit Card,Mobile,Delhi,12225,,14:42
+T01735,U797,,Debit Card,Mobile,Kolkata,7898,,18:38
+T01736,U623,abc,Transfer,Mobile,Chennai,,,25:61
+T01737,U867,506940,Credit Card,Tablet,,,,25:61
+T01738,U673,abc,Card,,Delhi,,,10:12
+T01739,U863,abc,Debit Card,Mobile,Delhi,,,21:31
+T01740,U539,4793,UPI,Mobile,Chennai,,,13:08
+T01741,U966,,Credit Card,Desktop,Mumbai,,,25:61
+T01742,U936,2946,Card,Laptop,Mumbai,19286,16340,25:61
+T01743,U658,₹1973,Credit Card,Laptop,Mumbai,3264,-4382,17:58
+T01744,U451,575354,Card,,Bangalore,,,09:28
+T01745,U882,,UPI,,Chennai,,,25:61
+T01746,U443,2425,Card,,Bangalore,,,25:61
+T01747,U892,1747,Card,Desktop,Mumbai,,,25:61
+T01748,U286,798625,Transfer,Tablet,Kolkata,,,25:61
+T01749,U760,,Debit Card,,,10349,13816,25:61
+T01750,U665,230075,Debit Card,,Bangalore,,5061,25:61
+T01751,U459,681244,UPI,Laptop,Chennai,7331,-673913,25:61
+T01752,U472,abc,Card,Desktop,Chennai,13609,,19:50
+T01753,U748,₹136,Card,,Chennai,,,25:61
+T01754,U667,₹912,Credit Card,Tablet,,2230,9038,25:61
+T01755,U215,327,UPI,Mobile,,,,02:05
+T01756,U203,198048,Transfer,Laptop,Delhi,19821,-178227,15:58
+T01757,U573,₹992,Transfer,Desktop,Delhi,,,25:61
+T01758,U759,61935,Transfer,Tablet,Chennai,,,08:04
+T01759,U112,abc,Credit Card,,,5466,-4206,25:61
+T01760,U728,,Debit Card,Tablet,Mumbai,,19681,01:12
+T01761,U350,abc,Card,Laptop,Mumbai,,19696,13:42
+T01762,U856,₹4060,Credit Card,Tablet,Chennai,,,09:59
+T01763,U425,2139,UPI,Laptop,,11810,9671,25:61
+T01764,U144,2877,Transfer,Desktop,Bangalore,,,25:61
+T01765,U336,4490,Transfer,Desktop,Mumbai,12474,7984,25:61
+T01766,U360,2052,Card,,Mumbai,,,25:61
+T01767,U715,,UPI,,,,,04:02
+T01768,U689,abc,UPI,Laptop,,,17730,13:54
+T01769,U907,abc,Card,Desktop,Bangalore,2036,6208,04:35
+T01770,U848,abc,Debit Card,Tablet,,10896,,25:61
+T01771,U143,1861,UPI,Laptop,Chennai,13401,11540,10:35
+T01772,U368,,Transfer,Laptop,Chennai,,,03:49
+T01773,U335,163356,Debit Card,Mobile,Delhi,,,22:31
+T01774,U506,abc,UPI,Tablet,Kolkata,,1838,16:21
+T01775,U726,abc,Credit Card,Desktop,Mumbai,8525,,25:61
+T01776,U416,₹3997,Card,Tablet,Bangalore,,4537,25:61
+T01777,U173,,UPI,Laptop,Mumbai,2496,19518,25:61
+T01778,U379,abc,Transfer,Tablet,Chennai,10209,,06:35
+T01779,U644,,UPI,,,11872,,25:61
+T01780,U350,₹557,Transfer,Mobile,Delhi,,,19:00
+T01781,U125,1617,UPI,Mobile,Mumbai,,,25:61
+T01782,U273,,Debit Card,Desktop,Mumbai,,13082,25:61
+T01783,U168,735293,Credit Card,,Delhi,,16720,25:61
+T01784,U949,70591,Credit Card,,Mumbai,7089,-63502,25:61
+T01785,U646,₹419,UPI,Desktop,Mumbai,,,01:33
+T01786,U666,abc,Credit Card,Tablet,Mumbai,,,16:23
+T01787,U826,795874,Card,,Bangalore,,-156,03:31
+T01788,U154,abc,Card,,Delhi,13219,,09:49
+T01789,U698,₹2279,Credit Card,,Delhi,2714,,25:61
+T01790,U871,850141,Transfer,Desktop,Chennai,,,25:61
+T01791,U669,3938,Card,,Mumbai,,-4898,25:61
+T01792,U862,,Card,Tablet,Chennai,5801,,21:15
+T01793,U191,626,Transfer,Laptop,Bangalore,14329,13703,16:43
+T01794,U137,,Transfer,Laptop,,,12195,19:41
+T01795,U986,,Credit Card,,Delhi,11386,,04:04
+T01796,U429,₹3000,Transfer,Mobile,Delhi,,3663,25:61
+T01797,U359,4265,Transfer,Laptop,Chennai,,4686,25:61
+T01798,U899,₹4478,Credit Card,Laptop,Delhi,2555,5284,25:61
+T01799,U935,₹365,UPI,Laptop,Bangalore,,,25:61
+T01800,U457,₹1091,Debit Card,Mobile,Bangalore,,,15:45
+T01801,U531,2448,Transfer,Desktop,Delhi,,,25:61
+T01802,U795,,Debit Card,Desktop,Bangalore,12024,17641,14:04
+T01803,U841,,UPI,Mobile,Kolkata,,,10:41
+T01804,U805,457346,Transfer,Desktop,Delhi,3529,-453817,25:61
+T01805,U566,4028,Credit Card,Mobile,Delhi,,,25:61
+T01806,U684,910892,Credit Card,Tablet,Mumbai,12577,-898315,15:14
+T01807,U761,1328,Transfer,Laptop,Mumbai,6780,5452,25:61
+T01808,U191,₹287,Transfer,Mobile,,,,25:61
+T01809,U225,776493,Card,,,14056,-762437,11:09
+T01810,U772,,Transfer,Laptop,,19953,,09:19
+T01811,U946,₹3121,UPI,Mobile,Mumbai,,,00:58
+T01812,U580,313976,Transfer,,,11929,-302047,20:55
+T01813,U864,abc,Debit Card,Mobile,Delhi,,14512,25:61
+T01814,U936,4723,Credit Card,,Chennai,,,20:51
+T01815,U504,abc,UPI,Mobile,,12168,15840,25:61
+T01816,U143,abc,Credit Card,,,,-3341,22:35
+T01817,U361,,Card,Laptop,Chennai,13362,5522,25:61
+T01818,U248,252279,UPI,Laptop,Delhi,,-4536,25:61
+T01819,U313,569547,Debit Card,,Bangalore,,,25:61
+T01820,U748,471221,Debit Card,Mobile,Bangalore,,-764,01:14
+T01821,U654,24863,Card,Laptop,Chennai,,,19:27
+T01822,U439,981901,UPI,Laptop,Chennai,,,25:61
+T01823,U499,,Card,,Delhi,18854,,12:30
+T01824,U618,1960,Credit Card,Mobile,Delhi,15490,13530,25:61
+T01825,U139,203,Credit Card,Tablet,,,,25:61
+T01826,U884,,Card,Mobile,Delhi,6891,5114,25:61
+T01827,U174,3195,Debit Card,Desktop,Mumbai,,,25:61
+T01828,U203,159264,Card,Tablet,Chennai,19910,-139354,25:61
+T01829,U873,abc,Transfer,Laptop,Bangalore,,,10:50
+T01830,U768,,Card,Mobile,Chennai,,,16:53
+T01831,U492,₹2456,Credit Card,Laptop,Kolkata,11830,,19:08
+T01832,U676,abc,Transfer,Desktop,,,,25:61
+T01833,U644,,Card,Desktop,Mumbai,19931,18584,25:61
+T01834,U177,abc,UPI,Mobile,Mumbai,,,25:61
+T01835,U472,181370,Transfer,Laptop,,,5643,25:61
+T01836,U951,₹1873,Card,,Mumbai,,,18:42
+T01837,U896,3663,Credit Card,Laptop,,,17312,25:61
+T01838,U966,₹1393,Transfer,Desktop,Delhi,,,11:57
+T01839,U883,₹4630,Credit Card,Mobile,Bangalore,,10150,25:61
+T01840,U881,abc,Debit Card,Tablet,Kolkata,,,25:61
+T01841,U853,₹2001,Transfer,Tablet,Bangalore,,,25:61
+T01842,U774,10247,Credit Card,Tablet,Mumbai,6763,-3484,25:61
+T01843,U591,abc,UPI,Tablet,Mumbai,,3926,25:61
+T01844,U784,₹3278,Transfer,Mobile,Kolkata,,,00:18
+T01845,U889,2484,UPI,Tablet,,2113,-371,11:34
+T01846,U157,2224,Debit Card,Laptop,Delhi,,,21:48
+T01847,U906,,Transfer,Laptop,,5690,11041,23:56
+T01848,U751,3725,Debit Card,Desktop,Mumbai,,,00:42
+T01849,U908,,UPI,Laptop,Delhi,,,14:49
+T01850,U963,₹3394,Credit Card,Laptop,,,17759,20:42
+T01851,U614,815167,Credit Card,Tablet,Delhi,,,07:57
+T01852,U170,₹1678,Debit Card,Laptop,Bangalore,,1175,08:05
+T01853,U820,,Card,Desktop,,,,20:08
+T01854,U242,₹4135,Credit Card,Laptop,Delhi,,,20:07
+T01855,U411,1068,Card,Desktop,Chennai,10800,9732,19:52
+T01856,U124,,Transfer,Tablet,Kolkata,,,15:21
+T01857,U758,₹4596,UPI,Mobile,Delhi,1007,,17:30
+T01858,U920,679201,Card,Mobile,Bangalore,,,25:61
+T01859,U265,,Card,,Kolkata,,,23:11
+T01860,U379,777419,Debit Card,Tablet,,,,19:44
+T01861,U969,306,Credit Card,Tablet,Kolkata,15252,14946,25:61
+T01862,U244,,Credit Card,Laptop,Mumbai,,7645,22:57
+T01863,U177,570139,Transfer,,Mumbai,,,25:61
+T01864,U312,abc,UPI,Desktop,Chennai,,,08:50
+T01865,U228,3078,Credit Card,Desktop,Kolkata,,-393,10:30
+T01866,U614,76902,Debit Card,Desktop,Chennai,,,25:61
+T01867,U366,abc,UPI,Desktop,,,15773,06:48
+T01868,U285,abc,Credit Card,Tablet,Delhi,,,25:61
+T01869,U266,₹3343,UPI,Laptop,Kolkata,,,11:15
+T01870,U511,65782,Debit Card,Tablet,Chennai,,,25:61
+T01871,U500,419,Card,Tablet,Mumbai,14974,14555,05:01
+T01872,U939,901083,Transfer,Mobile,Bangalore,,,25:61
+T01873,U251,₹4109,UPI,Tablet,Kolkata,,14353,03:48
+T01874,U293,₹904,Credit Card,Mobile,Mumbai,,,02:14
+T01875,U803,,UPI,Laptop,Chennai,,12604,02:01
+T01876,U676,₹437,Credit Card,Laptop,Chennai,11043,,25:61
+T01877,U373,₹2185,UPI,Desktop,Delhi,14376,,25:61
+T01878,U927,964414,Card,Tablet,Bangalore,3468,-960946,25:61
+T01879,U878,352668,Card,,Bangalore,,9730,25:61
+T01880,U660,2212,Credit Card,Tablet,Delhi,,,25:61
+T01881,U256,abc,Debit Card,Mobile,,,,10:51
+T01882,U618,481569,Transfer,Laptop,Delhi,14470,-467099,07:48
+T01883,U716,374,Transfer,Laptop,Chennai,,,25:61
+T01884,U640,99045,Card,,Delhi,,,18:35
+T01885,U663,₹1655,UPI,Mobile,Bangalore,12206,,07:16
+T01886,U656,784283,Debit Card,Tablet,Kolkata,,,04:50
+T01887,U110,2893,UPI,Tablet,,10119,7226,08:01
+T01888,U615,abc,Debit Card,Mobile,Bangalore,7625,2940,06:44
+T01889,U686,₹2683,Card,Laptop,,18094,1922,25:61
+T01890,U102,₹3383,UPI,Desktop,,12599,,23:24
+T01891,U221,2946,Credit Card,Tablet,Chennai,12350,9404,25:61
+T01892,U307,2233,Transfer,Laptop,Mumbai,7073,4840,25:61
+T01893,U984,931862,Credit Card,Desktop,Delhi,,,05:15
+T01894,U533,550,Transfer,,Mumbai,,,12:50
+T01895,U710,2673,Credit Card,Mobile,Bangalore,,12887,25:61
+T01896,U656,807912,UPI,Mobile,,,11423,12:39
+T01897,U344,abc,Transfer,Desktop,Kolkata,6812,,02:15
+T01898,U755,,Credit Card,Laptop,,15694,-1978,25:61
+T01899,U468,abc,Debit Card,Desktop,Chennai,,19662,25:61
+T01900,U602,3565,Credit Card,Laptop,Chennai,8527,4962,07:00
+T01901,U408,abc,Transfer,Mobile,,,,15:37
+T01902,U822,₹3335,Card,Mobile,Chennai,,,01:27
+T01903,U403,3701,Credit Card,Mobile,Kolkata,10896,7195,13:55
+T01904,U859,,UPI,Tablet,Bangalore,,-1513,25:61
+T01905,U836,₹4947,Debit Card,Laptop,Mumbai,,2120,25:61
+T01906,U624,2182,Credit Card,Desktop,,11545,9363,04:44
+T01907,U380,290066,UPI,Tablet,,,,00:25
+T01908,U955,₹2940,Transfer,,Kolkata,,,25:61
+T01909,U427,₹3875,Card,,Kolkata,11012,5756,25:61
+T01910,U362,₹2489,Credit Card,Desktop,Bangalore,15076,,25:61
+T01911,U341,abc,UPI,Laptop,Delhi,18611,,11:49
+T01912,U626,594544,Debit Card,Mobile,Bangalore,12319,-582225,11:08
+T01913,U870,2545,UPI,Mobile,Bangalore,,5813,05:08
+T01914,U962,abc,Transfer,Desktop,Chennai,,,25:61
+T01915,U926,1595,Credit Card,Tablet,Delhi,2776,1181,25:61
+T01916,U902,,Transfer,Laptop,,,,00:16
+T01917,U829,,UPI,Desktop,Bangalore,,,25:61
+T01918,U629,185858,Transfer,,Chennai,,3005,25:61
+T01919,U330,537822,Debit Card,Tablet,Kolkata,,9514,23:01
+T01920,U137,abc,Credit Card,Tablet,Chennai,,,25:61
+T01921,U208,₹3123,Debit Card,,Delhi,,,25:61
+T01922,U220,abc,UPI,,Chennai,,,15:15
+T01923,U913,637983,Debit Card,Mobile,Mumbai,,,25:61
+T01924,U748,3881,Card,Desktop,Kolkata,12698,8817,25:61
+T01925,U824,₹3223,Debit Card,Desktop,Mumbai,16259,,05:35
+T01926,U261,₹797,Transfer,Desktop,Chennai,,16373,00:29
+T01927,U819,₹3705,UPI,Desktop,Kolkata,,,21:57
+T01928,U747,446235,Transfer,Tablet,,,18791,08:16
+T01929,U657,abc,Card,Desktop,,,-368,25:61
+T01930,U503,4601,Card,Desktop,Chennai,,,25:61
+T01931,U519,1173,UPI,Laptop,Chennai,10843,9670,14:43
+T01932,U608,,Credit Card,Mobile,,,,25:61
+T01933,U835,507221,Debit Card,Desktop,Bangalore,,,25:61
+T01934,U442,1732,Card,Laptop,Mumbai,,,03:14
+T01935,U366,792767,Credit Card,Tablet,Mumbai,2915,-789852,25:61
+T01936,U544,,Credit Card,Mobile,Mumbai,18252,,25:61
+T01937,U343,40,Card,Desktop,Chennai,,2838,25:61
+T01938,U384,,UPI,Laptop,Chennai,,,17:27
+T01939,U458,abc,Credit Card,Laptop,Bangalore,13241,8365,25:61
+T01940,U824,355689,UPI,Desktop,Mumbai,,,25:61
+T01941,U765,388002,Debit Card,Desktop,Bangalore,,,10:32
+T01942,U839,abc,UPI,Mobile,Kolkata,,,25:61
+T01943,U306,734918,Transfer,,Chennai,,16505,25:61
+T01944,U220,1950,Debit Card,Mobile,Delhi,,-3460,22:18
+T01945,U420,abc,Card,,Mumbai,,2053,25:61
+T01946,U719,3222,Credit Card,Mobile,Chennai,11138,7916,25:61
+T01947,U533,₹4967,Transfer,Tablet,Delhi,5517,88,20:01
+T01948,U592,784040,Debit Card,Tablet,Bangalore,,,25:61
+T01949,U640,abc,Debit Card,,Chennai,,,25:61
+T01950,U210,₹339,Credit Card,Desktop,Bangalore,,,25:61
+T01951,U655,abc,Card,Tablet,Delhi,,6384,25:61
+T01952,U963,1947,Debit Card,Laptop,,,,00:55
+T01953,U489,2772,UPI,Tablet,Kolkata,1888,-884,25:61
+T01954,U971,₹3893,UPI,,Bangalore,,,25:61
+T01955,U356,abc,Card,Desktop,Chennai,16819,16673,07:21
+T01956,U433,4553,UPI,Tablet,Delhi,,-2688,25:61
+T01957,U787,,UPI,Laptop,Chennai,,,25:61
+T01958,U380,39581,Card,Tablet,Bangalore,9158,-30423,25:61
+T01959,U451,67588,Debit Card,Mobile,Chennai,,5711,14:30
+T01960,U164,abc,Credit Card,,Delhi,,,19:37
+T01961,U499,4317,Debit Card,Laptop,Kolkata,,,25:61
+T01962,U863,,Credit Card,,Kolkata,13761,4519,03:20
+T01963,U324,2132,UPI,Tablet,Delhi,,,08:21
+T01964,U330,545330,UPI,Mobile,Mumbai,10379,-534951,25:61
+T01965,U123,3346,Card,Mobile,Mumbai,,12776,00:58
+T01966,U328,4660,UPI,Desktop,Chennai,,,07:06
+T01967,U727,573,Transfer,Mobile,,,,15:28
+T01968,U315,abc,UPI,,Mumbai,,,08:40
+T01969,U661,,Transfer,Tablet,Bangalore,9398,,25:61
+T01970,U811,235052,Credit Card,Mobile,Kolkata,9487,-225565,02:15
+T01971,U890,abc,Transfer,,Delhi,,,18:44
+T01972,U382,349050,Credit Card,,Mumbai,,15864,18:07
+T01973,U217,,Debit Card,,Chennai,2045,,25:61
+T01974,U459,,Credit Card,Laptop,Kolkata,15846,,25:61
+T01975,U966,439022,Card,,Kolkata,,,25:61
+T01976,U233,207036,Card,Mobile,Bangalore,,,25:61
+T01977,U182,₹4928,Credit Card,,Bangalore,,11070,25:61
+T01978,U171,abc,Credit Card,Tablet,Chennai,9303,-461,05:44
+T01979,U835,abc,Credit Card,Desktop,,,,23:31
+T01980,U353,3167,Card,Desktop,Chennai,,,25:61
+T01981,U987,abc,Credit Card,,Delhi,,,13:44
+T01982,U569,₹3722,Card,Laptop,Kolkata,,104,25:61
+T01983,U197,,Card,Mobile,Chennai,,,25:61
+T01984,U563,₹4560,Debit Card,Laptop,Delhi,9817,,25:61
+T01985,U270,,Transfer,Tablet,Chennai,,,25:61
+T01986,U315,abc,Card,Mobile,Kolkata,,,25:61
+T01987,U265,4672,Debit Card,Laptop,Delhi,,,01:52
+T01988,U993,728643,Transfer,Tablet,,,,09:21
+T01989,U235,abc,Debit Card,Desktop,Delhi,8606,9469,09:50
+T01990,U845,₹2049,UPI,Laptop,Delhi,,,25:61
+T01991,U225,3022,Card,Laptop,Kolkata,,,00:08
+T01992,U499,981,Debit Card,,Kolkata,,-205,25:61
+T01993,U321,751346,UPI,Mobile,Mumbai,,7888,25:61
+T01994,U148,752905,Debit Card,Mobile,Delhi,,,25:61
+T01995,U653,abc,Credit Card,,Kolkata,,,12:46
+T01996,U601,₹1386,Card,Desktop,,,,05:45
+T01997,U722,1558,Card,Desktop,Chennai,,,25:61
+T01998,U409,,Debit Card,Desktop,Bangalore,12091,,25:61
+T01999,U319,3775,Transfer,Tablet,Chennai,,,25:61
+T02000,U525,457637,Debit Card,Tablet,,,,08:25
+T02001,U383,,Card,Desktop,,,,19:00
+T02002,U919,161717,UPI,Mobile,Bangalore,,,25:61
+T02003,U364,,Credit Card,Mobile,Bangalore,,,25:61
+T02004,U573,,Debit Card,Laptop,Delhi,,-2043,10:44
+T02005,U756,453,Card,,,,,17:40
+T02006,U113,535334,Debit Card,Mobile,,,,25:61
+T02007,U790,429307,Credit Card,Desktop,Kolkata,,,13:25
+T02008,U781,4957,Debit Card,,,17508,12551,25:61
+T02009,U320,175,Card,Mobile,,18150,17975,05:22
+T02010,U579,,Credit Card,,Delhi,7285,3705,04:37
+T02011,U559,,UPI,Mobile,Chennai,,,20:32
+T02012,U118,2612,Debit Card,Laptop,Kolkata,,,07:37
+T02013,U710,₹2586,Credit Card,Laptop,Chennai,,13874,20:12
+T02014,U818,abc,Card,Tablet,Mumbai,5006,,25:61
+T02015,U885,245217,Transfer,Tablet,Mumbai,,-434,25:61
+T02016,U566,abc,Debit Card,Mobile,,,,13:05
+T02017,U976,,Transfer,Tablet,Bangalore,,2004,05:09
+T02018,U273,1673,Card,Tablet,Kolkata,,12837,10:02
+T02019,U187,abc,Card,Mobile,,12462,,25:61
+T02020,U137,1090,Transfer,Desktop,Delhi,17256,16166,25:61
+T02021,U456,759004,UPI,,Delhi,,,25:61
+T02022,U345,690616,Card,Mobile,Bangalore,4006,-686610,25:61
+T02023,U179,,Debit Card,Laptop,Chennai,,,10:05
+T02024,U633,,Card,Tablet,Bangalore,,,25:61
+T02025,U326,40,UPI,Mobile,Kolkata,,,25:61
+T02026,U130,₹3044,Debit Card,Tablet,Bangalore,11378,,25:61
+T02027,U866,450933,Debit Card,Mobile,Chennai,7482,-443451,25:61
+T02028,U245,3438,Card,Desktop,Mumbai,5889,2451,15:53
+T02029,U916,785,Credit Card,Desktop,Delhi,,,25:61
+T02030,U992,abc,Debit Card,Mobile,,,,25:61
+T02031,U219,57570,Credit Card,Tablet,Chennai,10611,-46959,25:61
+T02032,U974,,Card,Tablet,Delhi,2029,,06:52
+T02033,U972,₹3256,UPI,Desktop,Bangalore,,,08:15
+T02034,U130,,Transfer,,Kolkata,3454,,15:26
+T02035,U212,₹3472,Card,Laptop,,,,17:50
+T02036,U421,1425,UPI,Mobile,,16624,15199,09:04
+T02037,U170,378,UPI,Laptop,Delhi,,695,17:57
+T02038,U574,abc,UPI,Desktop,,15377,-3371,13:14
+T02039,U506,,Transfer,Laptop,Bangalore,10163,,20:17
+T02040,U408,844979,Card,Laptop,Bangalore,,,22:45
+T02041,U492,1390,UPI,Tablet,Bangalore,,,25:61
+T02042,U237,2295,UPI,,,10411,8116,25:61
+T02043,U893,772051,Debit Card,Desktop,Delhi,19912,-752139,07:10
+T02044,U108,,UPI,,,,,00:52
+T02045,U749,₹2076,Card,Tablet,Mumbai,,,25:61
+T02046,U849,abc,Credit Card,,Bangalore,,8504,13:11
+T02047,U822,2792,Transfer,Desktop,Mumbai,1047,-1745,25:61
+T02048,U164,₹3234,Credit Card,,Chennai,,-4998,15:35
+T02049,U617,₹1524,Debit Card,,Kolkata,,,12:05
+T02050,U910,₹1312,Credit Card,,Mumbai,,,25:61
+T02051,U118,974964,Debit Card,,Mumbai,,,16:13
+T02052,U445,₹4503,Credit Card,Laptop,Bangalore,11677,,03:31
+T02053,U262,,Card,Desktop,Mumbai,,1113,25:61
+T02054,U493,abc,UPI,Laptop,Mumbai,,4836,14:47
+T02055,U542,,Credit Card,Mobile,Bangalore,18366,,10:58
+T02056,U173,₹688,Card,,,10990,,25:61
+T02057,U751,abc,Card,,Delhi,,,25:61
+T02058,U935,1465,Debit Card,Tablet,,,,14:04
+T02059,U559,abc,Transfer,Desktop,Chennai,,,25:61
+T02060,U430,₹2714,UPI,Mobile,,12780,,02:24
+T02061,U118,,UPI,Laptop,Mumbai,,17621,23:52
+T02062,U176,abc,Card,Laptop,Bangalore,11255,,16:12
+T02063,U778,2117,Debit Card,Mobile,Mumbai,,1155,25:61
+T02064,U851,439815,Transfer,Laptop,Delhi,,,25:61
+T02065,U702,₹2091,Credit Card,Tablet,Chennai,,,25:61
+T02066,U412,,UPI,Tablet,Chennai,,,20:52
+T02067,U720,960492,Credit Card,Laptop,Chennai,,-21,25:61
+T02068,U137,4566,Credit Card,,Chennai,7533,2967,25:61
+T02069,U702,₹1219,UPI,Desktop,Kolkata,,19632,25:61
+T02070,U194,abc,UPI,Desktop,Delhi,6048,7774,17:50
+T02071,U987,444,Credit Card,,Mumbai,11654,11210,25:61
+T02072,U899,abc,Credit Card,Tablet,Kolkata,,,10:37
+T02073,U870,183129,Credit Card,Laptop,Mumbai,,,25:61
+T02074,U622,746750,UPI,,Kolkata,10658,-736092,08:30
+T02075,U968,,Card,Mobile,Chennai,8949,,25:61
+T02076,U909,1116,Card,,Bangalore,,,25:61
+T02077,U575,3833,UPI,,Chennai,16157,12324,23:11
+T02078,U120,abc,UPI,Mobile,Bangalore,,18190,14:06
+T02079,U467,2392,Card,Laptop,Mumbai,,2622,01:37
+T02080,U954,,Debit Card,,Delhi,,,25:61
+T02081,U273,₹3166,Card,,,,14960,01:56
+T02082,U125,,Credit Card,Desktop,Mumbai,,,09:22
+T02083,U588,abc,UPI,Tablet,Bangalore,14715,,25:61
+T02084,U157,abc,UPI,,Chennai,,-2925,15:19
+T02085,U317,938135,Credit Card,,Kolkata,,,02:10
+T02086,U567,,Transfer,Tablet,Delhi,,-798,25:61
+T02087,U284,₹1768,Debit Card,Tablet,Mumbai,,-1309,25:61
+T02088,U657,320219,UPI,Tablet,,8411,-311808,01:16
+T02089,U629,₹569,Credit Card,Mobile,Chennai,,,25:61
+T02090,U177,,Card,Mobile,Bangalore,,,25:61
+T02091,U463,₹4278,Debit Card,Tablet,Kolkata,,,25:61
+T02092,U520,854,Credit Card,Tablet,Kolkata,,,25:61
+T02093,U770,,Credit Card,,Bangalore,,,23:00
+T02094,U173,2716,UPI,Laptop,,,,25:61
+T02095,U162,abc,Debit Card,Mobile,,6374,,25:61
+T02096,U634,3095,Card,Mobile,Bangalore,12050,8955,25:61
+T02097,U132,,Card,Laptop,Mumbai,,,21:23
+T02098,U979,697,Transfer,,Bangalore,,,25:61
+T02099,U119,781976,Card,Laptop,Mumbai,,,07:39
+T02100,U153,,UPI,,Delhi,13565,10552,25:61
+T02101,U778,₹3545,Transfer,Tablet,,,-224,25:61
+T02102,U366,364925,UPI,Tablet,Kolkata,,,07:21
+T02103,U345,569109,Credit Card,Desktop,Mumbai,,,06:25
+T02104,U140,abc,Card,Laptop,Mumbai,18461,,25:61
+T02105,U137,833158,Debit Card,,Chennai,,,07:10
+T02106,U904,821850,Transfer,Laptop,Delhi,,5414,25:61
+T02107,U281,₹1861,Card,Mobile,Mumbai,,3262,25:61
+T02108,U311,,Card,Desktop,Delhi,,,16:36
+T02109,U786,1676,Credit Card,Desktop,Bangalore,,,25:61
+T02110,U627,₹4857,Credit Card,Mobile,Kolkata,,,25:61
+T02111,U925,324,Debit Card,Tablet,,,,11:08
+T02112,U435,,Credit Card,Desktop,Kolkata,,,23:52
+T02113,U122,,Credit Card,,Bangalore,,,02:10
+T02114,U393,2192,Debit Card,Laptop,Chennai,,17937,25:61
+T02115,U652,215228,Credit Card,Mobile,Mumbai,7955,-207273,25:61
+T02116,U364,₹717,Debit Card,,Mumbai,,9565,12:26
+T02117,U826,,Credit Card,Tablet,Mumbai,1394,,25:61
+T02118,U604,628648,UPI,Mobile,Mumbai,18216,-610432,17:54
+T02119,U734,,UPI,Tablet,Mumbai,,,00:26
+T02120,U454,₹1029,UPI,Tablet,Mumbai,,,08:18
+T02121,U132,19966,Card,Tablet,Delhi,,,25:61
+T02122,U373,₹2344,Debit Card,,Kolkata,14446,6366,25:61
+T02123,U601,,Card,Tablet,Bangalore,1634,,18:15
+T02124,U964,2498,Debit Card,Mobile,Chennai,14912,12414,05:51
+T02125,U681,₹3098,Transfer,Desktop,Bangalore,14092,,25:61
+T02126,U485,abc,Card,Laptop,Bangalore,,18744,15:20
+T02127,U841,₹1685,Transfer,Tablet,Kolkata,,16879,09:17
+T02128,U661,abc,Card,Tablet,Mumbai,15425,,08:59
+T02129,U602,,Debit Card,Laptop,Bangalore,,4396,25:61
+T02130,U936,₹4097,UPI,,,19435,,25:61
+T02131,U447,661088,Transfer,,,19089,-641999,05:15
+T02132,U317,,Card,Mobile,,12825,,25:61
+T02133,U790,2050,Debit Card,Laptop,,,15286,25:61
+T02134,U136,553,UPI,,Delhi,,14829,23:02
+T02135,U665,34727,Credit Card,Desktop,Delhi,,,25:61
+T02136,U128,₹1072,Debit Card,Desktop,Kolkata,,,01:20
+T02137,U824,,Credit Card,Desktop,Chennai,,10948,19:46
+T02138,U837,421,UPI,Mobile,Delhi,,,14:10
+T02139,U883,1518,UPI,Tablet,Delhi,,,19:26
+T02140,U172,521801,Debit Card,Desktop,,,,03:48
+T02141,U981,abc,Card,Mobile,Chennai,,,25:61
+T02142,U959,,UPI,,Chennai,,,25:61
+T02143,U770,₹2199,Transfer,,Bangalore,,11193,25:61
+T02144,U790,,Debit Card,Tablet,Mumbai,,,20:19
+T02145,U716,190,Credit Card,Tablet,Kolkata,,6840,25:61
+T02146,U660,abc,Card,Desktop,Bangalore,,12906,25:61
+T02147,U350,150860,Debit Card,Laptop,Mumbai,,,25:61
+T02148,U391,,Transfer,Laptop,Mumbai,,,25:61
+T02149,U310,,Debit Card,Desktop,Kolkata,,,25:61
+T02150,U556,502509,Credit Card,,Bangalore,,12486,25:61
+T02151,U576,1766,Credit Card,,Kolkata,11101,9335,25:61
+T02152,U495,,Debit Card,Desktop,Bangalore,,,03:20
+T02153,U927,abc,Card,Mobile,Kolkata,18542,17126,02:12
+T02154,U840,4916,UPI,Tablet,Chennai,14782,9866,02:29
+T02155,U525,903469,Card,Laptop,Kolkata,,8970,25:61
+T02156,U357,abc,Credit Card,Desktop,Bangalore,1811,,17:41
+T02157,U363,938851,Credit Card,,Delhi,,,25:61
+T02158,U653,abc,Transfer,Tablet,Kolkata,,,25:61
+T02159,U462,1750,Credit Card,Mobile,Chennai,,,25:61
+T02160,U675,abc,Credit Card,Mobile,Chennai,,,25:61
+T02161,U302,,Debit Card,Tablet,,,,20:21
+T02162,U116,3868,Credit Card,Desktop,Bangalore,19226,15358,10:09
+T02163,U904,227030,Debit Card,Tablet,Chennai,,,25:61
+T02164,U284,568591,UPI,Laptop,Bangalore,9054,-559537,25:61
+T02165,U706,199391,Debit Card,Mobile,Bangalore,,1233,08:28
+T02166,U171,abc,Transfer,Tablet,Mumbai,,,02:21
+T02167,U542,abc,Credit Card,,Chennai,,,13:21
+T02168,U854,307420,Credit Card,Laptop,Delhi,,,06:43
+T02169,U446,abc,Debit Card,Tablet,,,,16:17
+T02170,U174,57,UPI,Desktop,Kolkata,3734,3677,25:61
+T02171,U758,67738,Card,Tablet,Kolkata,,-1088,25:61
+T02172,U839,₹2308,Card,Desktop,Bangalore,,-1434,25:61
+T02173,U497,abc,Transfer,Desktop,Mumbai,,,16:33
+T02174,U195,,Credit Card,Laptop,Delhi,,,23:10
+T02175,U808,503197,Credit Card,Desktop,Delhi,,,20:21
+T02176,U470,2991,Credit Card,Desktop,Chennai,,,25:61
+T02177,U763,1794,Card,Tablet,Mumbai,15531,13737,03:00
+T02178,U498,1000,Debit Card,,Delhi,,17430,19:59
+T02179,U810,2138,Credit Card,Laptop,Kolkata,2458,320,25:61
+T02180,U139,356,UPI,Desktop,Bangalore,12430,12074,15:30
+T02181,U952,₹722,Transfer,Tablet,Kolkata,,,22:44
+T02182,U907,4356,Transfer,Mobile,Mumbai,,,21:14
+T02183,U535,,Credit Card,Desktop,Delhi,,18305,14:43
+T02184,U407,abc,UPI,Mobile,Mumbai,1116,754,25:61
+T02185,U716,₹2157,Card,Desktop,Mumbai,14343,12474,23:20
+T02186,U728,163,UPI,Mobile,Kolkata,,,25:61
+T02187,U859,1922,UPI,Tablet,Delhi,,,25:61
+T02188,U679,3226,Card,Laptop,Delhi,,13075,25:61
+T02189,U676,4237,Debit Card,Desktop,Mumbai,,,25:61
+T02190,U587,,Card,,Bangalore,,19776,25:61
+T02191,U552,abc,UPI,Mobile,Bangalore,16230,1446,25:61
+T02192,U856,,Credit Card,Desktop,Bangalore,,,25:61
+T02193,U216,,Card,Mobile,Mumbai,10904,,00:04
+T02194,U734,1985,Transfer,Desktop,Chennai,,,25:61
+T02195,U527,224943,Card,Mobile,Kolkata,,,19:33
+T02196,U966,,Credit Card,,Delhi,,,25:61
+T02197,U539,abc,Credit Card,Laptop,Delhi,,,25:61
+T02198,U272,,UPI,Mobile,Bangalore,,,25:61
+T02199,U185,2853,UPI,Laptop,Mumbai,,,22:20
+T02200,U373,,Card,Mobile,,,,25:61
+T02201,U847,abc,UPI,Desktop,Bangalore,6333,,25:61
+T02202,U678,₹514,Credit Card,Tablet,Chennai,,,25:61
+T02203,U326,abc,Debit Card,Mobile,Delhi,,,22:24
+T02204,U227,4864,Transfer,Tablet,Chennai,,,25:61
+T02205,U747,abc,Card,,Kolkata,,4486,25:61
+T02206,U373,4086,UPI,Tablet,Delhi,,,25:61
+T02207,U407,abc,Debit Card,Mobile,Chennai,,2987,15:15
+T02208,U210,₹3778,Debit Card,Desktop,Kolkata,,,14:59
+T02209,U565,536548,Credit Card,Mobile,Delhi,,,21:54
+T02210,U889,846,Transfer,Tablet,Chennai,,,25:61
+T02211,U681,₹4485,Card,Desktop,Kolkata,,,13:56
+T02212,U941,abc,Credit Card,Tablet,Delhi,,12154,16:36
+T02213,U213,514591,Card,,Mumbai,,-2090,25:61
+T02214,U883,,Card,Tablet,Mumbai,,893,11:23
+T02215,U519,,Credit Card,Laptop,Delhi,10647,,04:23
+T02216,U410,abc,Card,Laptop,Chennai,,,25:61
+T02217,U108,,Card,Mobile,Kolkata,,-4802,25:61
+T02218,U707,,Credit Card,Mobile,Delhi,,,25:61
+T02219,U411,3392,Transfer,Laptop,,13295,9903,25:61
+T02220,U359,100330,UPI,Mobile,Chennai,3612,-96718,25:61
+T02221,U386,abc,Debit Card,Mobile,Bangalore,,,03:24
+T02222,U952,,Debit Card,,Chennai,,18931,15:05
+T02223,U683,,UPI,Mobile,Kolkata,,18256,25:61
+T02224,U961,334827,Debit Card,Mobile,Delhi,,14874,25:61
+T02225,U398,960,UPI,Laptop,Chennai,,,01:29
+T02226,U215,,Credit Card,,Bangalore,,,25:61
+T02227,U645,866804,Credit Card,Tablet,,,,16:15
+T02228,U605,2119,Credit Card,,Kolkata,,3872,25:61
+T02229,U385,536146,Debit Card,Laptop,Mumbai,7351,-528795,06:52
+T02230,U586,,Credit Card,,Mumbai,,,25:61
+T02231,U434,,Card,Tablet,Mumbai,,,25:61
+T02232,U123,419,Credit Card,Laptop,Delhi,,15472,25:61
+T02233,U394,684906,UPI,Desktop,Mumbai,9092,-675814,01:07
+T02234,U584,365914,Transfer,Desktop,Bangalore,,,25:61
+T02235,U490,824,UPI,Mobile,Bangalore,,,25:61
+T02236,U603,354420,Credit Card,,Bangalore,9531,-344889,25:61
+T02237,U500,abc,Card,Mobile,Mumbai,,,13:05
+T02238,U508,₹1199,Credit Card,,Delhi,,,25:61
+T02239,U382,abc,Debit Card,Desktop,Bangalore,16059,,12:29
+T02240,U404,782090,Transfer,Mobile,,,,18:27
+T02241,U858,abc,Transfer,Laptop,Delhi,,,25:61
+T02242,U272,115178,Card,Laptop,Chennai,,,17:58
+T02243,U560,₹4326,UPI,Desktop,Mumbai,,,19:45
+T02244,U809,,Transfer,,Mumbai,12378,685,03:21
+T02245,U161,,Card,Laptop,Chennai,,,25:61
+T02246,U748,,Debit Card,,Kolkata,,,00:46
+T02247,U209,abc,Card,,Mumbai,,,12:05
+T02248,U597,507538,Credit Card,,,14796,-492742,22:42
+T02249,U740,427,Credit Card,Tablet,,,,25:61
+T02250,U465,₹3269,Credit Card,,Kolkata,,-3898,16:33
+T02251,U364,abc,Card,Mobile,Delhi,2970,,25:61
+T02252,U348,496297,Credit Card,Laptop,Bangalore,,,25:61
+T02253,U413,abc,Debit Card,Laptop,Kolkata,,,25:61
+T02254,U310,₹3164,Card,Desktop,Bangalore,,,09:07
+T02255,U222,,Transfer,,Chennai,,,25:61
+T02256,U414,,Debit Card,Mobile,Delhi,,16570,25:61
+T02257,U820,,Credit Card,Laptop,Delhi,,,03:46
+T02258,U816,,Card,Mobile,Mumbai,,,11:41
+T02259,U957,3031,Card,Desktop,,,,12:06
+T02260,U851,162944,Debit Card,Desktop,,,,25:61
+T02261,U185,₹1110,Debit Card,Tablet,Chennai,,,25:61
+T02262,U623,₹3383,Card,Desktop,Chennai,3210,,25:61
+T02263,U562,2293,Debit Card,Mobile,Bangalore,,11300,23:48
+T02264,U899,3358,Transfer,,,,9133,23:27
+T02265,U727,,Credit Card,Laptop,Kolkata,17438,,04:50
+T02266,U914,,Transfer,Mobile,Mumbai,,15317,25:61
+T02267,U414,401888,Credit Card,Mobile,Bangalore,1399,-400489,08:14
+T02268,U110,abc,UPI,Desktop,Kolkata,5919,,25:61
+T02269,U578,₹976,Debit Card,Desktop,,,,25:61
+T02270,U186,179785,Card,,Delhi,9275,-170510,25:61
+T02271,U418,608864,Credit Card,,Mumbai,,,25:61
+T02272,U752,abc,Debit Card,,Delhi,9849,,25:61
+T02273,U301,abc,Card,Mobile,Mumbai,1039,,25:61
+T02274,U303,100345,UPI,Desktop,Bangalore,,,10:39
+T02275,U369,,UPI,Mobile,Delhi,,,25:61
+T02276,U747,,Credit Card,Laptop,,3748,,02:09
+T02277,U895,,Debit Card,Mobile,Delhi,,,08:21
+T02278,U551,650213,Credit Card,,Mumbai,,,25:61
+T02279,U945,,Card,Mobile,,,,25:61
+T02280,U319,4548,Transfer,Laptop,Chennai,,7994,03:06
+T02281,U328,abc,Credit Card,Desktop,Kolkata,,6491,25:61
+T02282,U500,4495,Debit Card,,Chennai,10936,6441,23:45
+T02283,U868,₹2028,Debit Card,Mobile,,16175,9380,01:04
+T02284,U964,,UPI,Laptop,Chennai,,-491,25:61
+T02285,U590,595696,Credit Card,Desktop,Mumbai,,-3981,00:32
+T02286,U667,,Credit Card,Mobile,Bangalore,11398,-3992,05:27
+T02287,U901,,Credit Card,Tablet,,,469,25:61
+T02288,U379,abc,Credit Card,,Delhi,,,25:61
+T02289,U303,4230,Transfer,Laptop,,1810,-2420,09:56
+T02290,U148,₹3352,Debit Card,Tablet,Delhi,,,25:61
+T02291,U694,abc,Credit Card,,Mumbai,,,21:21
+T02292,U214,2464,UPI,Laptop,Delhi,,9136,25:61
+T02293,U480,2561,Credit Card,Tablet,Mumbai,7139,4578,25:61
+T02294,U180,₹222,Card,Tablet,Chennai,1096,,14:28
+T02295,U304,556919,Card,Laptop,Delhi,,,25:61
+T02296,U715,213547,Transfer,Desktop,Bangalore,4858,-208689,25:61
+T02297,U438,2868,Credit Card,Tablet,Delhi,10197,7329,21:59
+T02298,U784,,Transfer,Tablet,Chennai,10086,,25:61
+T02299,U200,495914,Credit Card,Desktop,Delhi,,,25:61
+T02300,U507,208848,UPI,,,1949,-206899,25:61
+T02301,U555,2220,Credit Card,Desktop,Mumbai,18669,16449,15:06
+T02302,U687,2406,Debit Card,Desktop,Chennai,19117,16711,03:04
+T02303,U553,,UPI,Tablet,Mumbai,,,25:61
+T02304,U717,941022,Credit Card,,Bangalore,,,18:18
+T02305,U896,abc,Credit Card,,Delhi,,,03:46
+T02306,U941,224211,Debit Card,,Kolkata,,,00:42
+T02307,U197,₹605,UPI,Laptop,Chennai,,18048,14:59
+T02308,U639,2418,Debit Card,Tablet,Chennai,3203,785,11:29
+T02309,U333,599507,Credit Card,Mobile,Kolkata,,,25:61
+T02310,U543,abc,UPI,,Chennai,16200,,25:61
+T02311,U998,903994,Transfer,Laptop,Mumbai,5560,-898434,20:51
+T02312,U777,,Card,Tablet,Chennai,16763,-345,25:61
+T02313,U125,3222,UPI,Tablet,,6925,3703,18:55
+T02314,U209,abc,Card,Mobile,Chennai,,,25:61
+T02315,U470,971,Card,Desktop,,,,25:61
+T02316,U896,₹3456,Card,Laptop,,,,12:48
+T02317,U233,abc,Debit Card,Laptop,Mumbai,16829,6960,03:01
+T02318,U269,abc,UPI,Laptop,,,19227,25:61
+T02319,U174,₹1627,UPI,,Delhi,,,18:40
+T02320,U856,₹2287,Debit Card,Tablet,Mumbai,,,10:20
+T02321,U905,,UPI,Tablet,Kolkata,,,25:61
+T02322,U979,₹2816,Card,Tablet,Delhi,5160,,03:14
+T02323,U265,₹2372,UPI,,Kolkata,,,11:33
+T02324,U777,621506,Transfer,Laptop,Kolkata,6274,-615232,02:37
+T02325,U477,₹1141,Card,Mobile,Delhi,6806,-3758,25:61
+T02326,U225,₹996,Transfer,Laptop,Bangalore,11466,,25:61
+T02327,U794,648581,Card,Desktop,,,-1846,25:61
+T02328,U274,4370,Credit Card,,Kolkata,,,05:42
+T02329,U569,abc,Transfer,Desktop,Kolkata,,6552,07:30
+T02330,U539,,Credit Card,Mobile,,,,22:22
+T02331,U370,abc,Debit Card,Desktop,,,2998,13:00
+T02332,U356,₹1668,Transfer,Mobile,Chennai,,19887,25:61
+T02333,U189,₹3974,Transfer,Tablet,Mumbai,13514,,25:61
+T02334,U242,abc,Card,Desktop,Bangalore,,,25:61
+T02335,U567,2191,Debit Card,Mobile,Mumbai,,12661,25:61
+T02336,U744,,Card,Mobile,,6181,14350,25:61
+T02337,U228,3416,UPI,Desktop,Bangalore,,,02:40
+T02338,U404,923,Debit Card,,Kolkata,,,25:61
+T02339,U560,abc,Card,Desktop,Chennai,17411,,25:61
+T02340,U336,abc,Credit Card,,Kolkata,,,25:61
+T02341,U772,₹799,Credit Card,Desktop,Chennai,,-1426,05:04
+T02342,U334,abc,Debit Card,Desktop,Delhi,,,25:61
+T02343,U436,,Card,Tablet,Chennai,7912,8396,14:42
+T02344,U592,abc,Debit Card,Mobile,Delhi,,,25:61
+T02345,U976,₹449,Transfer,,Delhi,,-3770,25:61
+T02346,U506,₹3329,Card,Laptop,Kolkata,10337,,13:15
+T02347,U962,₹1125,Card,Mobile,Delhi,,,10:47
+T02348,U949,abc,Card,,Chennai,,19762,25:61
+T02349,U577,,Debit Card,Desktop,,,,25:61
+T02350,U223,₹485,Debit Card,Tablet,Delhi,,5527,15:16
+T02351,U693,123192,Credit Card,,Chennai,,722,18:31
+T02352,U233,₹924,Card,Laptop,Bangalore,,,08:56
+T02353,U456,156662,Transfer,Desktop,Bangalore,10189,-146473,25:61
+T02354,U147,₹4517,Credit Card,Mobile,Bangalore,6103,15160,25:61
+T02355,U906,₹3159,Transfer,Tablet,Kolkata,,,03:34
+T02356,U115,abc,UPI,Tablet,Bangalore,,,25:61
+T02357,U296,628152,Transfer,Laptop,Mumbai,,,25:61
+T02358,U378,4280,UPI,Laptop,Chennai,,,08:21
+T02359,U981,abc,Card,,Delhi,,-1376,23:45
+T02360,U560,abc,Card,Mobile,Kolkata,,17999,25:61
+T02361,U321,abc,Card,Tablet,Mumbai,,12855,25:61
+T02362,U613,287585,Debit Card,Desktop,Mumbai,,,25:61
+T02363,U376,₹4878,Card,Mobile,Kolkata,,,00:05
+T02364,U138,51367,Card,Tablet,Kolkata,,,25:61
+T02365,U415,abc,Card,Mobile,,,,25:61
+T02366,U595,₹4848,UPI,Mobile,Bangalore,16544,,25:61
+T02367,U384,839,UPI,Desktop,Chennai,11081,10242,18:36
+T02368,U604,₹2945,UPI,Laptop,,,,25:61
+T02369,U142,258420,Transfer,,Kolkata,,,21:06
+T02370,U471,abc,Transfer,Mobile,Bangalore,,19103,25:61
+T02371,U780,880080,Credit Card,Desktop,Delhi,,-82,25:61
+T02372,U112,₹4944,Card,Tablet,Chennai,,,25:61
+T02373,U587,₹272,Credit Card,Desktop,Kolkata,9145,,25:61
+T02374,U332,,UPI,Tablet,Delhi,16594,,25:61
+T02375,U405,402823,Credit Card,,Chennai,15083,-387740,00:10
+T02376,U374,,Debit Card,Laptop,Delhi,19613,-317,02:07
+T02377,U473,263090,Debit Card,,Kolkata,1553,-261537,25:61
+T02378,U868,680089,Debit Card,,Delhi,,10673,25:61
+T02379,U223,abc,UPI,Tablet,Mumbai,16962,,25:61
+T02380,U616,₹158,Transfer,Desktop,Mumbai,,,04:27
+T02381,U842,4476,Transfer,Mobile,Mumbai,,-4491,08:36
+T02382,U384,,Credit Card,Laptop,Bangalore,,,18:51
+T02383,U865,,Debit Card,Laptop,Delhi,,5365,25:61
+T02384,U843,408,Credit Card,,Kolkata,11046,10638,25:61
+T02385,U617,,Card,Tablet,,,,02:48
+T02386,U149,₹2916,UPI,Mobile,Delhi,,17018,02:27
+T02387,U316,1226,UPI,Mobile,Bangalore,,,13:44
+T02388,U961,978,Credit Card,Tablet,Kolkata,,14858,25:61
+T02389,U225,₹1393,Credit Card,Tablet,Bangalore,,,01:24
+T02390,U632,,Card,Mobile,Delhi,9482,-4539,21:48
+T02391,U530,,Transfer,Tablet,Delhi,,,22:17
+T02392,U628,1977,Transfer,Tablet,Mumbai,,,02:32
+T02393,U608,abc,Credit Card,,Mumbai,5003,,25:61
+T02394,U993,abc,Credit Card,Mobile,Mumbai,,19975,25:61
+T02395,U463,1505,Credit Card,Desktop,Mumbai,,,25:61
+T02396,U182,abc,Transfer,Desktop,Kolkata,,,25:61
+T02397,U434,3375,UPI,,,,10650,25:61
+T02398,U570,₹3578,Card,Tablet,Delhi,1596,,25:61
+T02399,U748,abc,Card,Tablet,Bangalore,,,14:54
+T02400,U506,1084,UPI,Desktop,Bangalore,,16135,15:57
+T02401,U789,₹2246,UPI,,Kolkata,9123,,16:03
+T02402,U376,abc,Card,Desktop,Chennai,,,15:29
+T02403,U962,,Card,,Chennai,,,25:61
+T02404,U658,abc,Debit Card,Tablet,Bangalore,,,25:61
+T02405,U929,,Card,Tablet,,,,25:61
+T02406,U224,abc,Debit Card,Laptop,Mumbai,,,22:52
+T02407,U148,467525,Debit Card,Tablet,,7194,-460331,12:44
+T02408,U108,,Transfer,Tablet,Chennai,9677,,22:21
+T02409,U583,,Card,Laptop,Bangalore,16153,,25:61
+T02410,U668,abc,Card,Tablet,,,,22:31
+T02411,U782,,UPI,,Mumbai,18912,,15:10
+T02412,U253,abc,Card,,Bangalore,,11518,25:61
+T02413,U375,163678,Card,Tablet,Chennai,,,25:61
+T02414,U508,140,Credit Card,Desktop,Kolkata,,12138,12:47
+T02415,U343,4692,Transfer,Laptop,Bangalore,,16445,25:61
+T02416,U316,,Debit Card,Laptop,Mumbai,,,25:61
+T02417,U620,₹3065,Transfer,Mobile,Delhi,,18388,19:48
+T02418,U190,,Transfer,,Chennai,10222,,06:29
+T02419,U848,₹2814,Debit Card,Laptop,Bangalore,,18698,25:61
+T02420,U907,230381,Debit Card,,Mumbai,13365,-217016,07:57
+T02421,U166,abc,Debit Card,Desktop,Mumbai,,,19:15
+T02422,U662,2131,UPI,Mobile,Kolkata,,,25:61
+T02423,U429,abc,Credit Card,Tablet,Bangalore,,,25:61
+T02424,U478,abc,Credit Card,Tablet,Bangalore,,17941,25:61
+T02425,U712,662904,Credit Card,Tablet,Kolkata,,9072,09:42
+T02426,U627,1349,Card,,,3351,2002,14:08
+T02427,U977,abc,Transfer,Desktop,Delhi,,5195,09:29
+T02428,U293,₹1316,Credit Card,Mobile,Bangalore,,-2430,25:61
+T02429,U716,,Credit Card,Tablet,,,,10:26
+T02430,U654,791890,UPI,,Bangalore,15982,-775908,05:52
+T02431,U317,abc,Transfer,Desktop,,3124,18696,23:44
+T02432,U822,225560,Transfer,Mobile,,,,25:61
+T02433,U671,724166,Transfer,Tablet,Bangalore,14781,-709385,18:53
+T02434,U582,,Credit Card,Laptop,Chennai,,,23:37
+T02435,U453,₹3824,Credit Card,Laptop,Mumbai,15541,,18:02
+T02436,U929,₹4314,Credit Card,Tablet,Delhi,,,23:46
+T02437,U849,792,Debit Card,Tablet,Delhi,7427,6635,08:11
+T02438,U426,3470,Card,Mobile,,13790,10320,19:20
+T02439,U884,118820,Transfer,,Chennai,,3119,06:40
+T02440,U421,abc,Card,Mobile,Chennai,,16175,25:61
+T02441,U333,,UPI,Mobile,Kolkata,,,21:55
+T02442,U910,4187,Credit Card,Tablet,Mumbai,,11729,20:56
+T02443,U345,₹4472,UPI,Tablet,Mumbai,14809,,01:00
+T02444,U816,₹575,UPI,,Mumbai,14910,,21:28
+T02445,U387,3733,Transfer,Tablet,,,,25:61
+T02446,U354,4741,Card,Laptop,Bangalore,,,25:61
+T02447,U237,3154,Debit Card,,Delhi,,,01:10
+T02448,U917,abc,Debit Card,Desktop,Bangalore,,8501,25:61
+T02449,U356,abc,Transfer,Desktop,Mumbai,,18053,09:09
+T02450,U526,,Debit Card,Laptop,Bangalore,,,08:38
+T02451,U542,946156,Card,,Delhi,,,25:61
+T02452,U922,267784,Transfer,Desktop,Delhi,,,00:44
+T02453,U576,,Card,,Kolkata,9429,,00:24
+T02454,U343,abc,UPI,,Chennai,13247,,09:15
+T02455,U764,₹3050,UPI,Laptop,Kolkata,,,25:61
+T02456,U456,₹3567,Credit Card,Tablet,Bangalore,,-2739,01:42
+T02457,U762,abc,Debit Card,Tablet,Bangalore,,16319,25:61
+T02458,U270,543072,Card,Mobile,Chennai,,,25:61
+T02459,U121,2583,UPI,Tablet,Bangalore,,,08:48
+T02460,U929,abc,Credit Card,Tablet,Delhi,6278,15017,17:13
+T02461,U534,₹351,UPI,Desktop,Kolkata,,,11:44
+T02462,U277,abc,Debit Card,Desktop,Chennai,,19102,25:61
+T02463,U906,498849,UPI,Laptop,,18677,-480172,23:53
+T02464,U601,,Debit Card,Laptop,Bangalore,,,12:38
+T02465,U454,₹4464,Debit Card,Laptop,Mumbai,16567,,11:56
+T02466,U267,,Credit Card,Tablet,Kolkata,,,18:40
+T02467,U971,,UPI,Desktop,Chennai,,11686,13:51
+T02468,U133,,Credit Card,Tablet,Bangalore,,,25:61
+T02469,U312,abc,UPI,,Delhi,,,25:61
+T02470,U753,,Debit Card,,Delhi,6623,,25:61
+T02471,U816,abc,Card,,,,,25:61
+T02472,U148,abc,Debit Card,,Mumbai,11637,2478,15:03
+T02473,U716,₹1605,Debit Card,,Kolkata,11473,10099,25:61
+T02474,U509,,Credit Card,Laptop,,5171,,25:61
+T02475,U234,3846,UPI,Mobile,,,3767,08:23
+T02476,U943,694,Debit Card,Desktop,Delhi,,13608,00:28
+T02477,U859,abc,Debit Card,,,17506,,25:61
+T02478,U823,108300,Credit Card,Laptop,,,14173,07:28
+T02479,U670,abc,Credit Card,Tablet,Mumbai,,,25:61
+T02480,U928,3819,Card,Mobile,Mumbai,,,09:06
+T02481,U652,₹3646,Transfer,Laptop,,,,25:61
+T02482,U327,2500,Credit Card,Mobile,Bangalore,,,21:12
+T02483,U239,₹3404,Debit Card,Tablet,Mumbai,,3097,25:61
+T02484,U202,₹4624,UPI,Mobile,Kolkata,,1706,25:61
+T02485,U618,343,Transfer,Tablet,,,,25:61
+T02486,U606,₹354,Transfer,Desktop,Delhi,,14677,03:48
+T02487,U253,,Card,Laptop,,,,02:04
+T02488,U817,839128,Credit Card,,Delhi,18409,-820719,25:61
+T02489,U536,abc,Debit Card,Laptop,Mumbai,,,25:61
+T02490,U281,abc,Transfer,Tablet,,,-3305,25:61
+T02491,U201,194079,Transfer,Tablet,,,,25:61
+T02492,U458,,UPI,,,,1046,25:61
+T02493,U451,₹1328,Transfer,Desktop,Bangalore,,,25:61
+T02494,U944,,UPI,,Bangalore,13670,17772,25:61
+T02495,U207,₹2075,Debit Card,Mobile,Delhi,,,08:43
+T02496,U869,693899,Transfer,Laptop,,,,25:61
+T02497,U986,,Card,Mobile,Mumbai,,1924,25:61
+T02498,U531,,UPI,Desktop,Chennai,19923,,25:61
+T02499,U187,,UPI,,Bangalore,,3903,25:61
+T02500,U232,,Card,,Kolkata,18413,,21:38
+T02501,U982,₹4996,UPI,,Kolkata,,,10:45
+T02502,U489,abc,Transfer,Mobile,Mumbai,,-699,21:22
+T02503,U681,₹2866,Card,Laptop,,17801,6760,17:04
+T02504,U213,2668,Transfer,Mobile,Kolkata,,,25:61
+T02505,U997,₹1325,UPI,,Chennai,,,25:61
+T02506,U467,2720,Transfer,Mobile,,,17530,25:61
+T02507,U836,11505,Credit Card,Tablet,Mumbai,,,13:38
+T02508,U547,531,Credit Card,Laptop,Mumbai,,3364,25:61
+T02509,U909,3260,UPI,Laptop,Mumbai,,,16:20
+T02510,U910,,Credit Card,,Kolkata,18136,,25:61
+T02511,U350,,UPI,,Mumbai,,,25:61
+T02512,U834,3537,Card,Tablet,Chennai,8969,5432,22:28
+T02513,U812,,Transfer,,Kolkata,,,04:56
+T02514,U327,4153,Transfer,,Kolkata,17658,13505,17:52
+T02515,U608,abc,Card,Laptop,Bangalore,,17304,25:61
+T02516,U634,abc,Debit Card,,,18775,5728,25:61
+T02517,U581,724986,Debit Card,Laptop,Kolkata,,,25:61
+T02518,U823,₹4626,Credit Card,,Chennai,,,12:54
+T02519,U187,,Transfer,Laptop,Mumbai,,,25:61
+T02520,U560,679182,Card,,Mumbai,,9822,18:56
+T02521,U177,,Debit Card,Tablet,Mumbai,,,11:21
+T02522,U644,,Transfer,Laptop,Delhi,,6253,25:61
+T02523,U724,115586,Debit Card,,Kolkata,,10777,18:49
+T02524,U719,818482,Credit Card,Tablet,Kolkata,,,25:61
+T02525,U405,abc,UPI,Mobile,Bangalore,,,15:41
+T02526,U240,270527,Transfer,Laptop,Bangalore,5858,-264669,06:47
+T02527,U867,,UPI,Laptop,Kolkata,,,25:61
+T02528,U281,4803,UPI,Desktop,Kolkata,5098,295,12:50
+T02529,U218,abc,Debit Card,,Mumbai,,,25:61
+T02530,U604,abc,UPI,Tablet,Chennai,,,25:61
+T02531,U727,₹2532,Transfer,Mobile,,,,25:61
+T02532,U369,abc,Credit Card,Mobile,Delhi,11984,-3578,25:61
+T02533,U153,abc,UPI,Desktop,Delhi,,,06:28
+T02534,U961,abc,Card,Mobile,Delhi,,,25:61
+T02535,U151,,Debit Card,Tablet,Kolkata,,-2432,25:61
+T02536,U387,91107,Credit Card,Laptop,Bangalore,,,25:61
+T02537,U431,₹2694,Transfer,,Bangalore,19011,-4039,10:10
+T02538,U336,abc,UPI,Laptop,Mumbai,,8153,08:14
+T02539,U531,abc,Credit Card,Laptop,Kolkata,,,25:61
+T02540,U503,,Card,,Mumbai,16281,,22:13
+T02541,U733,151273,Transfer,Laptop,Delhi,,,10:37
+T02542,U475,,Card,Laptop,Delhi,,2746,25:61
+T02543,U985,,Transfer,Desktop,Delhi,,,25:61
+T02544,U837,3646,UPI,Laptop,Mumbai,13740,10094,25:61
+T02545,U359,4421,Credit Card,Desktop,Mumbai,,5136,25:61
+T02546,U686,abc,Credit Card,Tablet,Chennai,,,25:61
+T02547,U580,,Card,Mobile,Bangalore,7950,,25:61
+T02548,U653,abc,Credit Card,Tablet,Chennai,7493,,22:46
+T02549,U685,abc,Credit Card,Tablet,Mumbai,,,25:61
+T02550,U656,3745,UPI,Mobile,Kolkata,12199,8454,23:34
+T02551,U840,1217,Card,,Kolkata,,,04:03
+T02552,U551,₹1324,Credit Card,Tablet,Kolkata,11830,,02:03
+T02553,U306,3721,Card,Laptop,Kolkata,15121,11400,14:49
+T02554,U761,abc,Transfer,,Mumbai,2742,,25:61
+T02555,U328,abc,Debit Card,Tablet,Bangalore,,-752,25:61
+T02556,U420,abc,Debit Card,Mobile,,,16138,25:61
+T02557,U682,₹2066,Card,Mobile,Kolkata,5868,,25:61
+T02558,U959,₹1533,Transfer,Desktop,,6078,,25:61
+T02559,U762,,Debit Card,Laptop,Mumbai,8387,,25:61
+T02560,U281,4465,Debit Card,Laptop,Mumbai,,,25:61
+T02561,U158,abc,UPI,,Mumbai,,-731,13:27
+T02562,U387,927518,Credit Card,,Kolkata,6257,-921261,25:61
+T02563,U600,24974,Debit Card,Laptop,Bangalore,,,25:61
+T02564,U910,609,Debit Card,,Delhi,,4295,25:61
+T02565,U969,abc,Card,,Mumbai,4575,15519,25:61
+T02566,U353,abc,Card,,Bangalore,,3814,25:61
+T02567,U521,1830,UPI,Desktop,,,,25:61
+T02568,U367,385,Debit Card,Mobile,Delhi,10650,10265,09:56
+T02569,U580,abc,Debit Card,Laptop,Mumbai,,,25:61
+T02570,U330,₹2842,Credit Card,Mobile,Delhi,,,25:61
+T02571,U985,968,UPI,Tablet,Bangalore,,,25:61
+T02572,U551,₹3923,UPI,Mobile,Mumbai,,,02:21
+T02573,U690,1978,Card,Desktop,Mumbai,,,25:61
+T02574,U269,300548,Debit Card,Laptop,Mumbai,8675,-291873,20:07
+T02575,U784,,UPI,,Mumbai,,,25:61
+T02576,U161,₹3541,Debit Card,Tablet,Chennai,,1608,21:15
+T02577,U629,₹1032,Card,Tablet,Mumbai,6045,1523,25:61
+T02578,U258,,UPI,Desktop,Chennai,,,25:61
+T02579,U340,abc,UPI,Mobile,,13112,,11:45
+T02580,U103,,Debit Card,Desktop,Kolkata,17884,-3352,25:61
+T02581,U366,2205,Transfer,,Chennai,,,20:17
+T02582,U940,,UPI,,Kolkata,5457,8677,15:53
+T02583,U934,₹1491,Card,Laptop,Bangalore,,,25:61
+T02584,U215,₹3959,Transfer,Mobile,Kolkata,,,21:49
+T02585,U294,₹174,Card,Laptop,Kolkata,,,25:61
+T02586,U441,776995,Card,,Kolkata,,,09:53
+T02587,U476,2005,Transfer,Mobile,,,,00:23
+T02588,U232,4164,Credit Card,Tablet,Kolkata,,,18:46
+T02589,U216,abc,Debit Card,Tablet,Mumbai,17201,,02:00
+T02590,U110,,Transfer,Mobile,Mumbai,7984,18501,03:31
+T02591,U704,822673,Card,Tablet,Delhi,13460,-809213,04:52
+T02592,U756,₹4579,Debit Card,,Delhi,19098,,04:03
+T02593,U343,₹3554,UPI,Tablet,Mumbai,,,25:61
+T02594,U775,2513,Debit Card,,Delhi,,,09:36
+T02595,U601,abc,Transfer,Mobile,Chennai,,,01:03
+T02596,U709,abc,UPI,Mobile,Bangalore,,,25:61
+T02597,U442,abc,Credit Card,Tablet,Delhi,16521,,25:61
+T02598,U972,abc,Debit Card,,Kolkata,,,07:18
+T02599,U755,abc,Transfer,Desktop,Mumbai,,3658,00:34
+T02600,U106,₹608,Card,,Bangalore,,,25:61
+T02601,U994,866196,Card,Mobile,Kolkata,,,22:17
+T02602,U225,₹385,Transfer,Tablet,Mumbai,,16504,25:61
+T02603,U399,912045,Credit Card,Tablet,,,,00:32
+T02604,U980,₹4139,Credit Card,Laptop,Kolkata,,16781,07:56
+T02605,U638,508518,UPI,Tablet,Bangalore,8905,-499613,23:36
+T02606,U657,,Credit Card,Mobile,Bangalore,,,25:61
+T02607,U794,₹3884,Card,Mobile,Chennai,,,25:61
+T02608,U171,abc,Debit Card,,Chennai,,,25:61
+T02609,U647,,Credit Card,Tablet,,,,25:61
+T02610,U224,abc,UPI,Mobile,Bangalore,17989,,16:47
+T02611,U998,546189,Credit Card,,Mumbai,,,25:61
+T02612,U143,abc,Card,Desktop,Delhi,,6348,18:49
+T02613,U802,554613,Credit Card,Tablet,Mumbai,,,25:61
+T02614,U161,50189,UPI,Laptop,Chennai,,,25:61
+T02615,U235,abc,Transfer,,,,11055,15:57
+T02616,U362,,Credit Card,Desktop,Chennai,12860,,20:02
+T02617,U795,571145,Card,Mobile,Mumbai,,,25:61
+T02618,U480,₹1277,Credit Card,Desktop,Bangalore,,,25:61
+T02619,U799,,Card,Mobile,,7410,,25:61
+T02620,U522,₹3265,Transfer,,Chennai,,5657,25:61
+T02621,U650,605928,Debit Card,Mobile,,,,15:59
+T02622,U379,454918,Debit Card,Laptop,Bangalore,1909,-453009,20:26
+T02623,U217,abc,Credit Card,Desktop,Mumbai,,,25:61
+T02624,U792,₹2459,Credit Card,Tablet,,,17727,25:61
+T02625,U688,₹3036,Transfer,Tablet,Bangalore,19336,,02:03
+T02626,U238,abc,Debit Card,Desktop,Delhi,9205,,12:25
+T02627,U536,₹310,Transfer,Laptop,Delhi,,7445,25:61
+T02628,U954,739740,Credit Card,Desktop,Kolkata,7109,-732631,25:61
+T02629,U500,₹4710,Credit Card,,Chennai,2052,11036,25:61
+T02630,U849,abc,Credit Card,Desktop,Bangalore,,,25:61
+T02631,U405,abc,Debit Card,Desktop,Chennai,,,16:06
+T02632,U574,,Credit Card,Desktop,Mumbai,1694,,12:50
+T02633,U448,₹3935,Card,Desktop,,,,08:03
+T02634,U186,₹3628,Debit Card,Mobile,,,5237,25:61
+T02635,U472,4873,Transfer,Mobile,,,,07:13
+T02636,U204,,Transfer,Mobile,Mumbai,,,25:61
+T02637,U622,,Transfer,,Chennai,14264,,25:61
+T02638,U493,,Credit Card,Mobile,Bangalore,10218,12396,02:23
+T02639,U330,151,UPI,Desktop,Chennai,,,10:32
+T02640,U498,₹3303,UPI,Mobile,,12675,18369,25:61
+T02641,U226,391588,Debit Card,Tablet,Chennai,,,25:61
+T02642,U701,361758,Transfer,,Delhi,,11272,25:61
+T02643,U754,3953,UPI,Tablet,,,920,25:61
+T02644,U192,1293,Debit Card,Tablet,Kolkata,4497,3204,11:18
+T02645,U869,594762,Card,Tablet,Chennai,,,25:61
+T02646,U961,,Debit Card,Laptop,Mumbai,,-2163,16:25
+T02647,U899,487983,UPI,Desktop,,,,25:61
+T02648,U467,1328,UPI,Tablet,Delhi,,,18:19
+T02649,U720,873926,Credit Card,Laptop,Bangalore,,13425,25:61
+T02650,U524,4220,UPI,Tablet,Kolkata,,,25:61
+T02651,U859,1288,Credit Card,Mobile,Chennai,,-3202,10:33
+T02652,U568,₹3526,Transfer,Desktop,Bangalore,,14933,25:61
+T02653,U953,877267,Transfer,Tablet,Chennai,,,25:61
+T02654,U986,882937,Card,Laptop,Kolkata,1771,-881166,04:30
+T02655,U145,₹1189,Debit Card,Tablet,Mumbai,,,00:23
+T02656,U154,₹4802,Transfer,Desktop,Delhi,,19023,25:61
+T02657,U849,abc,Debit Card,Desktop,Bangalore,14270,,09:55
+T02658,U399,abc,Credit Card,Laptop,Delhi,3251,,25:61
+T02659,U630,₹2636,Debit Card,,Mumbai,4269,,25:61
+T02660,U254,abc,UPI,Tablet,Bangalore,,16300,13:41
+T02661,U746,,Transfer,Tablet,Kolkata,,,25:61
+T02662,U335,637540,Card,Mobile,Chennai,,,20:57
+T02663,U572,₹2781,Card,Laptop,Mumbai,,,10:40
+T02664,U174,411482,Card,Desktop,,,2904,04:13
+T02665,U502,,Card,Desktop,Kolkata,,,23:34
+T02666,U243,₹1709,Card,Mobile,Kolkata,,9821,25:61
+T02667,U875,520,Debit Card,,,,,16:01
+T02668,U608,148488,Credit Card,Tablet,,,,05:35
+T02669,U843,,Debit Card,Laptop,Mumbai,,,25:61
+T02670,U609,,Credit Card,Tablet,Kolkata,14544,,14:23
+T02671,U119,,Card,,Bangalore,,,25:61
+T02672,U660,,UPI,,,,,15:53
+T02673,U737,abc,Card,Mobile,Kolkata,,,10:39
+T02674,U815,3818,Credit Card,Tablet,Chennai,10724,6906,25:61
+T02675,U722,3912,Card,Mobile,Kolkata,14233,10321,25:61
+T02676,U860,,Credit Card,Desktop,Chennai,,1248,25:61
+T02677,U728,1073,Card,,,,,25:61
+T02678,U888,abc,Transfer,Mobile,Delhi,,,25:61
+T02679,U709,4273,Card,,Bangalore,17596,13323,25:61
+T02680,U588,331090,Debit Card,Mobile,Chennai,,,25:61
+T02681,U778,873900,Transfer,,Delhi,,,25:61
+T02682,U593,898782,UPI,,Bangalore,,,25:61
+T02683,U867,abc,Card,Tablet,Mumbai,17548,304,25:61
+T02684,U764,₹2882,UPI,Laptop,,,,07:52
+T02685,U418,882544,Debit Card,Tablet,Delhi,,13413,25:61
+T02686,U214,abc,Transfer,Desktop,Kolkata,,,21:10
+T02687,U213,714,Credit Card,Mobile,Mumbai,,7787,25:61
+T02688,U182,abc,Debit Card,,Chennai,,,23:52
+T02689,U221,,Credit Card,Tablet,Chennai,,6477,08:20
+T02690,U623,,Debit Card,Desktop,Delhi,14829,,15:31
+T02691,U945,,UPI,Mobile,Kolkata,,,25:61
+T02692,U625,₹3246,Card,,,,,23:29
+T02693,U366,966197,Transfer,,Delhi,2281,-963916,01:14
+T02694,U901,337548,Debit Card,Laptop,Chennai,,,03:06
+T02695,U597,₹113,Debit Card,Tablet,Bangalore,,,25:61
+T02696,U324,786014,Debit Card,Tablet,Bangalore,4941,-781073,25:61
+T02697,U385,837,Transfer,Tablet,Bangalore,,,06:25
+T02698,U261,188490,Transfer,Tablet,Delhi,,,14:16
+T02699,U607,,Card,Desktop,Delhi,11641,,25:61
+T02700,U430,,Transfer,Desktop,Kolkata,,,14:57
+T02701,U188,597134,Card,,Bangalore,,,17:04
+T02702,U713,1301,Transfer,Desktop,Bangalore,15053,13752,16:43
+T02703,U863,602735,Transfer,Mobile,Kolkata,,,25:61
+T02704,U153,abc,Card,Desktop,Bangalore,,,00:58
+T02705,U956,₹348,Transfer,Tablet,Delhi,,,25:61
+T02706,U619,abc,Card,Tablet,Kolkata,11733,,06:30
+T02707,U500,₹3646,Credit Card,,Mumbai,19292,,12:36
+T02708,U857,,Transfer,Tablet,Delhi,2173,,20:11
+T02709,U224,95343,Card,Laptop,Mumbai,,10596,02:41
+T02710,U278,,Credit Card,Tablet,Bangalore,,5394,25:61
+T02711,U966,₹3442,Transfer,Desktop,,,-4369,25:61
+T02712,U924,,Debit Card,Laptop,Bangalore,,18639,03:40
+T02713,U991,4449,Credit Card,Tablet,Delhi,,,25:61
+T02714,U957,₹108,Card,Laptop,Kolkata,,,25:61
+T02715,U741,69227,Debit Card,Tablet,Kolkata,14934,-54293,08:35
+T02716,U679,₹2525,Credit Card,Mobile,,,,25:61
+T02717,U673,,Card,Tablet,Bangalore,,3374,08:21
+T02718,U154,abc,Transfer,Desktop,,,-4394,12:43
+T02719,U585,3322,UPI,Mobile,,,,08:33
+T02720,U913,14914,Credit Card,Desktop,Delhi,,14936,25:61
+T02721,U631,,UPI,Tablet,Bangalore,5393,,25:61
+T02722,U846,874967,Credit Card,Desktop,Chennai,1966,-873001,25:61
+T02723,U694,2551,Credit Card,,,,,18:04
+T02724,U322,abc,UPI,Mobile,Kolkata,12764,-2600,04:47
+T02725,U133,₹3030,Credit Card,Laptop,Delhi,,5837,17:05
+T02726,U235,,UPI,Laptop,Bangalore,,,25:61
+T02727,U801,,UPI,Tablet,Kolkata,,9532,09:50
+T02728,U488,abc,UPI,Desktop,Delhi,,6423,13:04
+T02729,U878,921088,UPI,,Mumbai,,-3322,12:36
+T02730,U893,107582,Card,Mobile,Bangalore,5248,-102334,25:61
+T02731,U819,,Credit Card,Tablet,Kolkata,,6135,25:61
+T02732,U773,abc,Card,Tablet,Delhi,7794,19447,25:61
+T02733,U253,₹3864,Card,,Delhi,8417,,25:61
+T02734,U422,abc,Credit Card,Tablet,Bangalore,18280,7723,25:61
+T02735,U950,,Debit Card,Tablet,,,,10:19
+T02736,U528,,Debit Card,Tablet,,,,01:38
+T02737,U200,4495,UPI,,Chennai,,,22:22
+T02738,U953,abc,Credit Card,Mobile,Kolkata,,,03:18
+T02739,U667,126552,UPI,Tablet,Kolkata,,1494,04:33
+T02740,U186,4968,Debit Card,Desktop,,2016,-2952,25:61
+T02741,U543,3604,Credit Card,Desktop,Chennai,16834,13230,09:01
+T02742,U758,,Debit Card,,Kolkata,1784,13772,25:61
+T02743,U944,₹3716,Credit Card,Mobile,Kolkata,18634,,22:22
+T02744,U213,1340,Transfer,,Delhi,,15618,22:16
+T02745,U889,4003,Credit Card,Desktop,Chennai,,15571,12:52
+T02746,U867,₹4762,Card,Tablet,Bangalore,,,06:34
+T02747,U735,,Card,,,,,25:61
+T02748,U792,,Debit Card,Tablet,Mumbai,14744,,25:61
+T02749,U260,,UPI,Tablet,Bangalore,13992,-3189,25:61
+T02750,U753,₹1341,UPI,Tablet,Mumbai,18399,,11:32
+T02751,U965,₹2984,Card,Tablet,Bangalore,,,25:61
+T02752,U531,abc,Card,Laptop,Bangalore,,-239,23:35
+T02753,U199,,Debit Card,Tablet,Delhi,,3889,25:61
+T02754,U260,,UPI,Laptop,Delhi,,,19:18
+T02755,U602,,Transfer,Laptop,,,,02:28
+T02756,U794,abc,Debit Card,Laptop,Delhi,,8837,11:12
+T02757,U482,₹134,UPI,Mobile,Chennai,9144,,10:31
+T02758,U367,abc,Debit Card,Tablet,Mumbai,,-1681,25:61
+T02759,U349,₹1636,UPI,Laptop,,19745,,25:61
+T02760,U126,abc,UPI,Tablet,Delhi,,,06:56
+T02761,U345,₹1100,Transfer,Desktop,Kolkata,8956,1688,25:61
+T02762,U551,₹4725,Debit Card,Desktop,Chennai,,,25:61
+T02763,U572,₹2772,Card,Laptop,Delhi,14191,,06:24
+T02764,U952,759487,Card,Laptop,Delhi,,,25:61
+T02765,U293,750607,UPI,Tablet,Delhi,,,25:61
+T02766,U972,₹1383,Credit Card,Laptop,Kolkata,,7473,25:61
+T02767,U375,,Card,Desktop,Kolkata,2102,3920,25:61
+T02768,U375,₹156,Card,Tablet,Kolkata,,,25:61
+T02769,U410,abc,Transfer,,Mumbai,,,03:36
+T02770,U702,₹4420,Transfer,Desktop,Mumbai,,,25:61
+T02771,U944,3643,Card,Desktop,,9802,6159,25:61
+T02772,U935,988270,UPI,,Mumbai,13371,-974899,25:61
+T02773,U507,1245,Debit Card,Mobile,Delhi,,11101,25:61
+T02774,U667,3257,Debit Card,Tablet,Chennai,11788,8531,25:61
+T02775,U577,,UPI,,,,17843,11:32
+T02776,U932,,UPI,Desktop,Bangalore,6389,,13:23
+T02777,U617,₹2396,Credit Card,Desktop,Chennai,16622,,16:27
+T02778,U554,₹4883,Transfer,Mobile,Delhi,10773,-3216,25:61
+T02779,U271,₹2940,Transfer,Laptop,Kolkata,,,01:21
+T02780,U305,2724,UPI,Laptop,Kolkata,,,02:35
+T02781,U129,372171,UPI,,Mumbai,,,15:23
+T02782,U398,80886,Credit Card,Laptop,Delhi,,13313,22:24
+T02783,U284,,Debit Card,Tablet,Delhi,12533,,25:61
+T02784,U403,600962,Debit Card,Tablet,Mumbai,,,20:56
+T02785,U469,1217,Card,Desktop,,8790,7573,25:61
+T02786,U902,762349,Card,Laptop,Bangalore,,5425,25:61
+T02787,U948,₹3677,Credit Card,Laptop,,,,25:61
+T02788,U778,,Debit Card,Mobile,Delhi,,,25:61
+T02789,U825,,Credit Card,Desktop,Delhi,14988,11938,25:61
+T02790,U749,3077,Debit Card,Tablet,Kolkata,,,23:48
+T02791,U338,57635,Debit Card,Laptop,Bangalore,,,03:26
+T02792,U854,257477,Transfer,Desktop,Bangalore,,,25:61
+T02793,U540,abc,Debit Card,Desktop,,,,03:21
+T02794,U100,₹4323,Transfer,Laptop,Mumbai,14640,,25:61
+T02795,U239,1525,Transfer,Tablet,Bangalore,,,25:61
+T02796,U232,,Debit Card,Tablet,,13385,,13:50
+T02797,U277,,Transfer,Laptop,Chennai,,,09:19
+T02798,U137,90070,Debit Card,Tablet,Mumbai,,,25:61
+T02799,U331,241353,Transfer,,Chennai,14801,-226552,22:07
+T02800,U583,3451,Transfer,Mobile,Mumbai,,,14:14
+T02801,U369,2204,Transfer,,Bangalore,,,22:23
+T02802,U239,abc,Debit Card,,Bangalore,,11847,25:61
+T02803,U423,abc,Debit Card,,Delhi,,,21:51
+T02804,U910,abc,Transfer,Laptop,,4422,,22:33
+T02805,U839,,Debit Card,,Kolkata,18303,1709,25:61
+T02806,U834,₹4098,Transfer,,Delhi,12343,9142,10:20
+T02807,U294,₹3070,Transfer,Laptop,Bangalore,,,17:18
+T02808,U922,₹1614,Credit Card,,Chennai,,-238,06:12
+T02809,U455,,Card,Laptop,Bangalore,3215,,13:27
+T02810,U720,,Debit Card,Laptop,Bangalore,,,25:61
+T02811,U825,833224,Card,Desktop,Kolkata,,10912,25:61
+T02812,U519,abc,Debit Card,,,,,25:61
+T02813,U831,abc,Debit Card,Laptop,Chennai,,,25:61
+T02814,U375,abc,Transfer,,Kolkata,,5848,25:61
+T02815,U232,abc,Transfer,,Bangalore,11712,,06:21
+T02816,U192,abc,Credit Card,Laptop,Chennai,,,07:09
+T02817,U443,₹1507,Credit Card,Tablet,Kolkata,8217,,09:36
+T02818,U167,,Debit Card,Desktop,Bangalore,,,06:02
+T02819,U512,2160,Card,Desktop,Delhi,16804,14644,25:61
+T02820,U887,3110,Debit Card,Desktop,Mumbai,19208,16098,25:61
+T02821,U652,₹1764,Debit Card,Laptop,,13727,13155,25:61
+T02822,U186,,Transfer,Mobile,,,,14:45
+T02823,U156,₹2992,Debit Card,,Kolkata,5646,,01:24
+T02824,U968,3008,Debit Card,,,15907,12899,25:61
+T02825,U931,,Transfer,,,,1654,25:61
+T02826,U655,768112,Transfer,Mobile,Kolkata,,,18:36
+T02827,U747,abc,Transfer,,Mumbai,,,11:14
+T02828,U698,4242,UPI,Desktop,Mumbai,,,25:61
+T02829,U878,670609,Debit Card,,Delhi,,,01:46
+T02830,U203,₹1542,Credit Card,Mobile,Chennai,,,00:14
+T02831,U240,1506,Card,Laptop,Mumbai,,,25:61
+T02832,U697,,Debit Card,,Kolkata,,,25:61
+T02833,U561,,Transfer,Desktop,Mumbai,17663,15953,25:61
+T02834,U272,₹2792,UPI,Mobile,,,,18:10
+T02835,U758,266190,Card,Mobile,Mumbai,,1398,01:52
+T02836,U668,₹1893,Card,Mobile,Chennai,15473,,21:16
+T02837,U617,₹4209,Credit Card,Desktop,Bangalore,2400,,05:33
+T02838,U817,3059,Transfer,,Delhi,,,25:61
+T02839,U636,₹4818,Credit Card,Mobile,Kolkata,19008,,25:61
+T02840,U688,2277,Debit Card,Desktop,Delhi,,,25:61
+T02841,U705,3944,Transfer,Laptop,Mumbai,,-1922,14:24
+T02842,U943,₹4079,Credit Card,,Kolkata,,,17:14
+T02843,U351,,Card,Tablet,,,,08:19
+T02844,U667,414688,Debit Card,Mobile,,,,13:57
+T02845,U612,670019,Card,Mobile,Chennai,,,21:29
+T02846,U207,,Card,Laptop,Delhi,,,20:31
+T02847,U320,abc,Card,Tablet,Mumbai,6604,,17:43
+T02848,U579,590587,Card,Desktop,Mumbai,,,13:30
+T02849,U677,871236,Transfer,Mobile,Kolkata,,,09:19
+T02850,U284,₹475,Debit Card,Desktop,,,-4699,25:61
+T02851,U971,4421,Debit Card,Tablet,Kolkata,,2618,25:61
+T02852,U385,abc,Transfer,Laptop,Mumbai,,-2780,04:55
+T02853,U900,562645,Transfer,Mobile,Bangalore,11705,-550940,18:32
+T02854,U988,2521,Transfer,Laptop,Delhi,15063,12542,25:61
+T02855,U184,157295,Credit Card,,Mumbai,14535,-142760,09:50
+T02856,U424,abc,Debit Card,Mobile,Chennai,,,25:61
+T02857,U777,,Debit Card,Mobile,Bangalore,,-1635,25:61
+T02858,U669,₹3531,Credit Card,Desktop,Chennai,5183,,00:42
+T02859,U341,979,Debit Card,Tablet,Chennai,,,25:61
+T02860,U967,,UPI,,Kolkata,2478,8544,25:61
+T02861,U767,abc,Debit Card,Laptop,Chennai,,,14:04
+T02862,U812,₹4249,Transfer,Laptop,Bangalore,,-4796,18:51
+T02863,U750,abc,Card,Tablet,Kolkata,,,25:61
+T02864,U630,abc,Debit Card,Desktop,Kolkata,18551,,19:01
+T02865,U566,2711,Credit Card,Desktop,Kolkata,,,21:11
+T02866,U663,3313,Card,Tablet,,,,25:61
+T02867,U235,192820,Transfer,Laptop,Delhi,,1673,25:61
+T02868,U974,365630,Credit Card,,Chennai,,,25:61
+T02869,U945,,Transfer,,Chennai,9100,,04:45
+T02870,U194,abc,Card,,Kolkata,2213,1800,25:61
+T02871,U924,974546,Card,Tablet,Bangalore,,14503,25:61
+T02872,U611,,Debit Card,,Delhi,11397,3017,19:51
+T02873,U886,₹2722,Transfer,Tablet,Delhi,,9621,09:39
+T02874,U877,,UPI,Laptop,Kolkata,,,06:44
+T02875,U983,₹1971,Credit Card,Tablet,Kolkata,,,25:61
+T02876,U313,abc,Transfer,,Bangalore,,,02:14
+T02877,U269,₹4228,Transfer,Desktop,,,-3031,25:61
+T02878,U374,2763,UPI,Desktop,Chennai,6223,3460,25:61
+T02879,U634,abc,Credit Card,Tablet,Kolkata,,,23:33
+T02880,U536,443714,Credit Card,Mobile,Bangalore,,,25:61
+T02881,U159,abc,UPI,Tablet,Chennai,11534,,25:61
+T02882,U737,651,Card,Laptop,Mumbai,,,18:43
+T02883,U226,199,Credit Card,Mobile,Mumbai,2667,2468,25:61
+T02884,U969,4129,Credit Card,Tablet,Chennai,4622,493,25:61
+T02885,U179,₹3316,UPI,Desktop,Delhi,,,25:61
+T02886,U737,1628,Transfer,,Chennai,,918,17:43
+T02887,U166,abc,Debit Card,,Bangalore,,,25:61
+T02888,U888,34298,Transfer,Mobile,Chennai,,,25:61
+T02889,U286,751583,Debit Card,Tablet,Bangalore,,-2690,04:59
+T02890,U714,abc,Card,Tablet,Chennai,2753,,07:09
+T02891,U531,abc,Transfer,Tablet,Kolkata,13826,3590,13:46
+T02892,U197,4664,UPI,Laptop,Bangalore,18342,13678,01:44
+T02893,U242,abc,Card,,Bangalore,,,04:47
+T02894,U890,3038,Credit Card,Tablet,,,,09:40
+T02895,U768,abc,Card,Laptop,Chennai,,,16:28
+T02896,U752,1774,Card,Laptop,Kolkata,,,07:24
+T02897,U466,3792,Debit Card,Mobile,Mumbai,,,25:61
+T02898,U471,120,Credit Card,Tablet,Kolkata,,-2959,11:27
+T02899,U523,₹3706,Credit Card,Tablet,,7454,,23:00
+T02900,U851,3922,Transfer,Laptop,,18906,14984,18:26
+T02901,U699,abc,Transfer,,Mumbai,,586,25:61
+T02902,U595,,Credit Card,Laptop,Delhi,8688,,17:29
+T02903,U500,abc,Card,Tablet,Chennai,,896,22:33
+T02904,U906,₹1309,Transfer,Mobile,Delhi,,-940,12:30
+T02905,U608,,Transfer,,Mumbai,4346,,20:26
+T02906,U431,abc,Credit Card,Laptop,Kolkata,,,21:56
+T02907,U363,664,Transfer,,Bangalore,13719,13055,25:61
+T02908,U600,544848,Card,Desktop,Bangalore,15060,-529788,18:10
+T02909,U145,abc,Card,Mobile,Bangalore,,4302,25:61
+T02910,U744,,Credit Card,Mobile,,,,25:61
+T02911,U858,593483,Transfer,,Mumbai,,5985,01:49
+T02912,U187,abc,Debit Card,Tablet,Bangalore,,3384,25:61
+T02913,U849,abc,UPI,Desktop,Delhi,15176,,00:46
+T02914,U276,713711,UPI,Mobile,Kolkata,,13548,20:48
+T02915,U720,₹473,Transfer,Tablet,Delhi,19552,,06:41
+T02916,U774,abc,Transfer,,,,,25:61
+T02917,U322,abc,Card,Desktop,,,-3289,25:61
+T02918,U278,3271,UPI,Laptop,Delhi,,435,19:20
+T02919,U632,₹1125,Debit Card,Tablet,Kolkata,,,19:20
+T02920,U693,₹3167,UPI,Laptop,Bangalore,3581,13473,25:61
+T02921,U658,abc,Transfer,Mobile,Bangalore,,16166,04:41
+T02922,U868,₹711,Card,Desktop,,,,04:32
+T02923,U752,1391,Credit Card,Desktop,,,605,20:39
+T02924,U241,abc,Credit Card,,Bangalore,,,25:61
+T02925,U337,2144,Transfer,Tablet,Delhi,,2212,23:26
+T02926,U529,abc,UPI,,Kolkata,5186,,01:51
+T02927,U779,,Card,Tablet,Chennai,17181,,25:61
+T02928,U986,4731,UPI,Tablet,Chennai,14008,9277,18:51
+T02929,U402,,Transfer,Tablet,Bangalore,,,25:61
+T02930,U448,579,Transfer,Desktop,Delhi,,,17:21
+T02931,U904,1485,UPI,Desktop,Chennai,,8818,10:07
+T02932,U869,883464,Credit Card,Laptop,Delhi,,14950,04:58
+T02933,U221,abc,Credit Card,Laptop,Delhi,,,25:61
+T02934,U832,4326,Credit Card,Laptop,Chennai,,11694,07:52
+T02935,U345,abc,Transfer,Tablet,,11223,10594,03:36
+T02936,U692,851317,Card,Tablet,,16555,-834762,02:50
+T02937,U968,abc,Card,Laptop,Mumbai,,6280,25:61
+T02938,U269,2868,Credit Card,Desktop,Kolkata,,,19:25
+T02939,U354,,Debit Card,Tablet,,11910,,25:61
+T02940,U340,,Card,Tablet,Chennai,,,21:34
+T02941,U518,2236,Credit Card,Mobile,,,5458,10:13
+T02942,U771,,Credit Card,Laptop,Bangalore,,7637,20:12
+T02943,U831,2494,UPI,,Delhi,12783,10289,23:57
+T02944,U205,398622,UPI,,,,,04:48
+T02945,U945,abc,Debit Card,,Kolkata,4854,,25:61
+T02946,U774,,UPI,,Kolkata,,,12:28
+T02947,U742,,Credit Card,Tablet,,,17043,10:53
+T02948,U561,₹4449,Debit Card,,Kolkata,,,18:27
+T02949,U887,3096,UPI,,Bangalore,10894,7798,25:61
+T02950,U363,866261,Card,Laptop,Chennai,15724,-850537,15:21
+T02951,U233,3459,Transfer,,Chennai,4948,1489,11:15
+T02952,U872,,UPI,,,,,03:33
+T02953,U201,435085,UPI,Laptop,Bangalore,19171,-415914,10:02
+T02954,U895,729443,Debit Card,,,,7228,01:04
+T02955,U707,4846,Transfer,,Bangalore,,,25:61
+T02956,U898,,Credit Card,Laptop,Delhi,,,25:61
+T02957,U356,,Credit Card,Tablet,Chennai,,-3799,20:04
+T02958,U509,,Credit Card,,Chennai,,,25:61
+T02959,U112,,Transfer,Mobile,Bangalore,11311,,01:20
+T02960,U597,₹838,Credit Card,Mobile,Chennai,,,13:07
+T02961,U499,4878,Debit Card,Laptop,Kolkata,,,25:61
+T02962,U728,448300,Card,Tablet,Mumbai,,,13:21
+T02963,U381,abc,Card,Mobile,Kolkata,6110,,08:19
+T02964,U333,,Debit Card,,Mumbai,,,25:61
+T02965,U295,2269,UPI,Tablet,Chennai,,431,25:61
+T02966,U107,132800,Transfer,Mobile,Delhi,,,25:61
+T02967,U256,abc,Card,Mobile,,,9377,25:61
+T02968,U368,,Credit Card,Mobile,,,3605,25:61
+T02969,U811,4009,Card,Laptop,Kolkata,,6778,25:61
+T02970,U862,₹4076,Debit Card,Mobile,Delhi,,,25:61
+T02971,U392,abc,Debit Card,,Chennai,,,25:61
+T02972,U213,4832,Transfer,Mobile,Chennai,9624,4792,25:61
+T02973,U181,abc,Transfer,Laptop,Delhi,,,19:50
+T02974,U884,2566,Card,,Bangalore,,9761,08:12
+T02975,U740,₹862,Credit Card,Laptop,Bangalore,,,25:61
+T02976,U997,,Card,,,,,25:61
+T02977,U522,466603,Debit Card,Desktop,Delhi,,,00:19
+T02978,U741,₹540,UPI,Mobile,Delhi,4187,,06:51
+T02979,U461,₹4556,Card,Laptop,Mumbai,,,25:61
+T02980,U840,,UPI,Laptop,,,,25:61
+T02981,U589,₹2683,Transfer,Tablet,Chennai,12262,7796,25:61
+T02982,U751,₹824,Transfer,Desktop,Delhi,,,25:61
+T02983,U727,₹4163,Debit Card,Laptop,,15899,,04:30
+T02984,U967,,Transfer,Laptop,,,,25:61
+T02985,U401,abc,Transfer,Desktop,Bangalore,13966,18959,18:54
+T02986,U990,,Debit Card,Mobile,Kolkata,,,00:29
+T02987,U252,abc,Credit Card,Desktop,Mumbai,,,25:61
+T02988,U623,,Card,Mobile,Bangalore,,,25:61
+T02989,U553,946558,Debit Card,Tablet,Delhi,,8703,25:61
+T02990,U589,₹2020,UPI,,Chennai,,,25:61
+T02991,U454,309016,Transfer,Mobile,Kolkata,,,03:58
+T02992,U753,₹1616,Transfer,Desktop,Mumbai,,,25:61
+T02993,U166,₹2944,Transfer,Tablet,Mumbai,,-287,19:19
+T02994,U602,,Transfer,,Kolkata,3560,,25:61
+T02995,U528,₹3715,UPI,,Bangalore,,,00:40
+T02996,U601,₹3734,Debit Card,,Kolkata,15180,,25:61
+T02997,U278,681,Credit Card,,Bangalore,13528,12847,13:33
+T02998,U952,515935,Card,,,,,03:03
+T02999,U948,,Credit Card,Desktop,Kolkata,,,25:61
+T03000,U274,abc,Transfer,,Kolkata,,,22:30
