@@ -302,10 +302,6 @@ to demonstrate a realistic preprocessing and anomaly detection workflow.
 
 AI & Machine Learning Student
 
-GitHub: https://github.com/Aastha303
-
-LinkedIn: *(Add your LinkedIn profile)*
-
 ---
 
 # ⭐ If you found this project useful, consider giving it a Star!
