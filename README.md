@@ -239,26 +239,6 @@ Users can download the scored CSV directly from the application.
 
 ---
 
-# 📷 Screenshots
-
-## Home Page
-
-*(Add screenshot here)*
-
----
-
-## Prediction Result
-
-*(Add screenshot here)*
-
----
-
-## Batch Prediction
-
-*(Add screenshot here)*
-
----
-
 # 📌 Dataset
 
 This project uses a **synthetic transaction dataset** created specifically for this portfolio project.
